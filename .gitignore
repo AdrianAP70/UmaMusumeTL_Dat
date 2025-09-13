@@ -10,4 +10,5 @@
 /localized_data/config.json
 
 # agar .gitignore sendiri tetap di track
+!/index.json
 !/.gitignore
