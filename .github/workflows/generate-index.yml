@@ -1,4 +1,4 @@
-name: Generate index.json
+name: Generate index
 
 on:
   push:
@@ -6,6 +6,7 @@ on:
     paths:
       - 'localized_data/**'
       - 'gen_index.py'
+      - 'index_base.json'
   workflow_dispatch: {}
 
 permissions:
@@ -25,7 +26,12 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Generate index.json
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate index.json (BLAKE3)
         run: |
           python gen_index.py
           test -f index.json
