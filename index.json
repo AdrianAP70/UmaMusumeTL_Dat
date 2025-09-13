@@ -349,6 +349,16 @@
       "size": 82298
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_eventbonus_upmotivation00/tx_uTex_fl_singlemode_legend_eventbonus_upmotivation00_0.png",
+      "hash": "425ce504c57e955b26246425303ed3f4a1ec4e3e1ec01fea18447e5778113d9a",
+      "size": 43090
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_icon_motivation00/tx_uTex_fl_singlemode_legend_icon_motivation00_0.png",
+      "hash": "f2373bf90361765046211ac7c267985499c4949743b82d5ef5c2b869447b7942",
+      "size": 655056
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_live_btn_trainingmenu00/tx_uTex_fl_singlemode_live_btn_trainingmenu00_0.diff.png",
       "hash": "9d41927ea655caff9daff54557b212441b6cf4a779b2b4a918e7ba6aa302ccb5",
       "size": 6303
