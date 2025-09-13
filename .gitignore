@@ -8,9 +8,6 @@
 # tapi kecualikan file "includes" dan "config.json" yang ada di dalam localized_data
 /localized_data/includes
 /localized_data/config.json
-localized_data/assets/atlas/home/home.psd
-localized_data/assets/atlas/common/common.psd
-localized_data/assets/atlas/teamstadium/teamstadium.psd
 
 # agar .gitignore sendiri tetap di track
 !/.gitignore
