@@ -5,10 +5,6 @@
 !/localized_data/
 !/localized_data/**
 
-# tapi kecualikan file "includes" dan "config.json" yang ada di dalam localized_data
-/localized_data/includes
-/localized_data/config.json
-
 # agar .gitignore sendiri tetap di track
 !/index.json
 !/.gitignore
