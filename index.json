@@ -11054,6 +11054,11 @@
       "size": 220843
     },
     {
+      "path": "config.json",
+      "hash": "f7d1c6c8ee8c1c0a6632cd733d4595541668c4d7308e90b2ca963d3fc2f64745",
+      "size": 1563
+    },
+    {
       "path": "hashed_dict.json",
       "hash": "9729744399cbe017ebaadd440081ab01ad01573df3effd6bbf77d1191505263e",
       "size": 8816
