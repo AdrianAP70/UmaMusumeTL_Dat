@@ -781,7 +781,7 @@
     "Common0208": "Copy here",
     "Common0209": "Save changes",
     "Common0216": "Lv​",
-    "Common0229": "Current→",
+    "Common0229": "$(nb)$(scale 70)Current →",
     "Common0230": "Max",
     "Common0235": "d",
     "Common0236": "Mon",
@@ -5049,5 +5049,10 @@
     "Jobs408063": "$(scale 90)Event period",
     "Jobs408058": "$(scale 80)Reward earned",
     "Jobs408064": "Select Course",
-    "Jobs408066": "This course has reached its limit."
+    "Jobs408066": "This course has reached its limit.",
+    "Race0605": "$(scale 100)Increases training results by 10%.\nIncreases attributes while running by 2%.",
+    "Race0606": "$(scale 100)Increases training results by 20%.\nIncreases attributes while running by 4%.",
+    "Race0604": "$(scale 99)No change to training results. No change to attributes while running.",
+    "Race0603": "$(scale 100)Lowers training results by 10%.\nLowers attributes while running by\n2%.",
+    "Race0602": "$(scale 100)Lowers training results by 20%.\nLowers attributes while running by\n4%."
 }
