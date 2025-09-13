@@ -3,13 +3,12 @@ import json, os, sys, hashlib, time
 from pathlib import Path
 
 ROOT = Path(__file__).parent
-DATA_DIR = ROOT / "localized_data"  # pastikan nama folder tepat
+DATA_DIR = ROOT / "localized_data" 
 OUT_FILE = ROOT / "index.json"
 
-# daftar file yang di-skip relatif terhadap localized_data/
 EXCLUDE_REL = {
-    "includes",        # file bernama 'includes'
-    "config.json",     # file 'config.json'
+    "includes", 
+    "config.json",
 }
 
 def sha256_of(path: Path, bufsize=1024 * 1024):
