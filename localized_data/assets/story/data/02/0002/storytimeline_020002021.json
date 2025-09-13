@@ -1,0 +1,264 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Mejiro McQueen",
+            "text": "Now, today's training is about this much, oh?"
+        },
+        {
+            "text": "What's wrong, McQueen?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "No, there are people who are staring at us."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "….Hah!?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Trainer, is that someone you know?"
+        },
+        {
+            "text": "No, but…. I'm sure she is……."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Well, I did my best for once today! After \nthis, it's time for McQueen to roll!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "What is it?!? That's not even the name \nof the event? I won't do that!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ah!? Wait, McQueen!!"
+        },
+        {
+            "text": "………"
+        },
+        {
+            "text": "I don't know her, but I know how hard she works. The horse girl \nwho is always working hard on self-training until the end."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Heh… Heh….Heh….Heh…."
+        },
+        {
+            "text": "After all, today she continues to run until \nshe becomes the last person on track."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Heh….Heh….Waah!?"
+        },
+        {
+            "text": "(Thud!!)"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Heh……Ouch…."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "….Even if I run so much, Rice is…."
+        },
+        {
+            "text": "It was as if the figure was covered by Mejiro McQueen who \ncontinued to run towards the goal of the “TennouShou (Spring)”."
+        },
+        {
+            "text": "Are you okay?"
+        },
+        {
+            "text": "Are you okay?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Huh …. ah …McQueen-sans trainer-san…."
+        },
+        {
+            "text": "If you hurt your leg, you better not overdo it today. Even more \nso, if you want to win the race."
+        },
+        {
+            "text": "If you hurt your leg, you better not overdo it today. Even more \nso, if you want to win the race."
+        },
+        {
+            "text": "Even if you can't work hard now, if you \nhave strong feelings, you can win."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Sobbing"
+        },
+        {
+            "text": "Eh!? what, it hurts so much that it makes you cry!?"
+        },
+        {
+            "text": "Eh!? what, it hurts so much that it makes you cry!?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'm sorry… it's different."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I like to run, but I can't win. And that's \nwhen I saw McQueen-san's race."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Even Rice wants to win!"
+        },
+        {
+            "text": "It is actually difficult to keep thinking “I want to win”. But \nRice Shower had such strength."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Rice is in the Derby…"
+        },
+        {
+            "text": "It is enough to pass, I've seen you run so hard over and over."
+        },
+        {
+            "text": "It is enough to pass, I've seen you run so hard over and over."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "No, no , Rice is not such a great horse girl."
+        },
+        {
+            "text": "I know that Rice Shower can do it. Speaking of the Derby, it is a \nrace where people who have worked hard gather for their \nprosperity (Success)."
+        },
+        {
+            "text": "However, Rice Shower has the ability to get to Mejiro McQueen and \nrun, Which is important for a horse girl.",
+            "choice_data_list": [
+                "I also have the desire to win."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hah……"
+        },
+        {
+            "text": "I can do my best because I want to win. And \nthat hard work gives self — confidence."
+        },
+        {
+            "text": "Rice, let's do our best to aim for the derby!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "…heh, yes. Rice, will try."
+        },
+        {
+            "text": "In this way, full-scale training for the Derby began."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Should I follow McQueen-san?"
+        },
+        {
+            "text": "Yes, whatever happens, keep following her."
+        },
+        {
+            "text": "Yes, whatever happens, keep following her."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Among the horse girls who is running in the Derby, \nthe one who is regarded as the favorite is, the \nundefeated “Mihono Bourbon” so far."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "She is an extraordinary horse girl who can run at an accurate \nmachine-like pace, Her power is the real deal."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "In order to win over such a horse girl, Rice-san should be able \nto get away from me, as much as possible."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "…I Got it. Rice will do her best and follow McQueen-san."
+        },
+        {
+            "text": "It takes a lot of stamina and concentration to get Mejiro McQueen \nlevel, who runs ahead."
+        },
+        {
+            "text": "Rice Shower was often pulled away at the beginning, but continued \npatiently, then a few days later."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hah… Hah…."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Heh… Heh…"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "You did it! you didn't let go of her once today!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Yes, Rice's stamina will be her weapon.",
+            "choice_data_list": [
+                "Let's win the Derby!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "eh, Yes!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "All right, everyone, good night."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "See ya!"
+        },
+        {
+            "name": "Horsegirl with Straight-cut Bangs",
+            "text": "See you tomorrow!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Follow, Follow…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "………."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Will follow, Will Follow…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hah…."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Follow, Follow…"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "…that, Rice-san."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Huh?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Are you going to sleep again with me today? I do not understand \nthe meaning of coming into my private life."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But, Trainer-san told me ”no matter \nwhat happens” keep following her."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "(It's definitely not like this.)"
+        },
+        {
+            "text": "A few days later, we celebrated the day of the Twinkle Series \nfestival “Japan Derby” . Now It is the day of the event."
+        }
+    ]
+}
