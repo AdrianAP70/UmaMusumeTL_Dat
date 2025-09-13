@@ -15,7 +15,7 @@ jobs:
   build-index:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -30,7 +30,7 @@ jobs:
           python gen_index.py
           test -f index.json
 
-      - name: Commit & push index.json
+      - name: Commit & push index.json (only if changed)
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
