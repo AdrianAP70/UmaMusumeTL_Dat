@@ -10014,6 +10014,11 @@
       "size": 1169658
     },
     {
+      "path": "assets/textures/outgame/comic/tex_comic_1043_01.png",
+      "hash": "c10a81bd034bd52e553d589c4b97a22b5beef27f16729b2a9e93a2136d65afa2",
+      "size": 1376428
+    },
+    {
       "path": "assets/textures/outgame/comic/tex_comic_1044_01.diff.png",
       "hash": "85b139fbe2bbab9e3f8ebf241a640e74c94bd7bafafc928eb5fac906d332d163",
       "size": 1122883
@@ -10134,6 +10139,11 @@
       "size": 1163102
     },
     {
+      "path": "assets/textures/outgame/comic/tex_comic_1057_01.png",
+      "hash": "60233ed4dae5f65cc978c2252d7a77c18ae6cdc7feebc51c4144ac0d4a2e25ef",
+      "size": 1405640
+    },
+    {
       "path": "assets/textures/outgame/comic/tex_comic_1058_01.diff.png",
       "hash": "463d6d00ee81eb06624349da1755c4afa9ae7ee176248df7c25c91ad35f92998",
       "size": 1222660
@@ -10242,6 +10252,11 @@
       "path": "assets/textures/outgame/comic/tex_comic_1072_01.diff.png",
       "hash": "ccc6bad73d2d7286be45077a3cb5c1a89ed0c2429440bd3c88c9684ea4cf8d4a",
       "size": 990607
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1072_01.png",
+      "hash": "ef4933490e7e9a588659dabb0455485079bddf89d8f872812f1d2ae4525d0426",
+      "size": 1230630
     },
     {
       "path": "assets/textures/outgame/comic/tex_comic_thumb_1001_01.diff.png",
@@ -11350,8 +11365,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "9729744399cbe017ebaadd440081ab01ad01573df3effd6bbf77d1191505263e",
-      "size": 8816
+      "hash": "ea2f05ea59f6cdfe729de52277bce8c07de0c1fd18d08ebff0e0883182499a42",
+      "size": 8849
     },
     {
       "path": "includesandroid",
@@ -11360,8 +11375,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "09f69cb7d34abc775eb9f98b13b2b286127927aab14617b611754ddceff2dd4a",
-      "size": 269704
+      "hash": "3f0e2f21c5ef1d5df3dff9802ade194c018eb74dfbefa9e6ad5bb81f3cd0d340",
+      "size": 270077
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -11375,8 +11390,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "f99f6db5c75744e3e6d67ca1a87e15388333d519cac863b8cb4cfbc78555b3fa",
-      "size": 2965829
+      "hash": "2cba463727711644cd2e219e5e51c6c7e61e93258a91a0c0cf1a5f00c97d84d5",
+      "size": 2968892
     }
   ]
 }
