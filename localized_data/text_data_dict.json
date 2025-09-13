@@ -4842,7 +4842,10 @@
         "50157": "Guaranteed SSR Start Dash Gacha 5R",
         "30268": "3.5th Anniversary Pretty Derby Gacha",
         "30314": "4th Anniversary Pretty Derby Gacha",
-        "30362": "4.5th Anniversary Pretty Derby Gacha"
+        "30362": "4.5th Anniversary Pretty Derby Gacha",
+        "30349": "New training scenario begins Support card gacha.",
+        "30350": "Twinkle Collection Pretty Derby Gacha",
+        "20018": "★3 5th YELL&NEW GATE Gacha"
     },
     "27": {
         "1": "<color=#FF4400>[Track & Distance aptitude lacking]</color> \nShe may not be able to give 100% of her ability.",
@@ -38673,7 +38676,7 @@
         "19006": "After every Champions Meeting round",
         "23000": "Nationwide Events Begin",
         "23001": "Nationwide Events Concluded",
-        "1002": "$(nb)$(scale 80)Talk to Trainee when your talent blooms above certain level."
+        "1002": "Talk to Trainee when your talent blooms above a certain level."
     },
     "172": {
         "101": "<size=22>Increases Speed & Speed Cap \n</size>",
