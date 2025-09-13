@@ -36,7 +36,7 @@ def main():
         if path.name == ".gitignore":
             continue
         # Tambahan: kecualikan 2 file yang kamu minta!
-        if path.as_posix() in ("includes", "config.json"):
+        if path.as_posix() in ("includes"):
             continue
         # Tambahan: skip item/folder yang diawali '#'
         if any(part.startswith("#") for part in Path(path.as_posix()).parts):
