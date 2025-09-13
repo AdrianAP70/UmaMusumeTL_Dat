@@ -35,7 +35,7 @@ def main():
     for path in ls_tree(ld_tree, skip_trees=True):
         if path.name == ".gitignore":
             continue
-        # Tambahan: kecualikan 2 file yang kamu minta
+        # Tambahan: kecualikan 2 file yang kamu minta!
         if path.as_posix() in ("includes", "config.json"):
             continue
         # Tambahan: skip item/folder yang diawali '#'
