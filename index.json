@@ -505,13 +505,13 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_construction_progress00/tx_uTex_fl_singlemode_pioneer_construction_progress00_0.png",
-      "hash": "4ac4e5c3a4f1467f5c5a31553aa2e3d1fd129345f273b64d8898c8e5814f7b21",
-      "size": 123984
+      "hash": "d21bb9a5a679b95ee53f2d17c3d2f8f659d18beda9df06e91acab93354b86e4c",
+      "size": 136006
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_construction_progress_text00/tx_uTex_fl_singlemode_pioneer_construction_progress_text00_0.png",
-      "hash": "d386f75616485554e57a613aff3c412438979cf002dc82d1637cffd7a13ebbdc",
-      "size": 828494
+      "hash": "f5ccb1ad325b94a0dcd843afd0999276ddc5e0f6b762e8b0e45d0039a87ea09f",
+      "size": 834804
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_evaluate_start00/tx_uTex_fl_singlemode_pioneer_evaluate_start00_0.png",
@@ -995,8 +995,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.png",
-      "hash": "436fea22f5be98deca0500ef2be4562e57f52279b2c96892cc592d502a567561",
-      "size": 1123870
+      "hash": "5bb317b739619ffec9bd8cb81d38600a0a01ab637104a712fe7b9f662bd0ddc6",
+      "size": 1156415
     },
     {
       "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneerORIG.png",
