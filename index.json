@@ -960,8 +960,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenariolegend/singlemodescenariolegend.json",
-      "hash": "7cb7645716421a65b8195f8992b020d8348ae6aa9bdba01dd0725dcebb6ff686",
-      "size": 168
+      "hash": "f8397e900662a167e80191f01ee0a55197866cadf6d9b267efb5172190e1edc3",
+      "size": 166
     },
     {
       "path": "assets/atlas/singlemodescenariolegend/singlemodescenariolegend.png",
@@ -990,8 +990,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.json",
-      "hash": "db130a976374befcf166da7a5f79105c79fc6bb8b42acc1e40c6360309ed523f",
-      "size": 168
+      "hash": "b2a9286eefe01be73dc065e59e95be153bd7710a4abd0d120d9206ea102477b5",
+      "size": 166
     },
     {
       "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.png",
@@ -11475,7 +11475,7 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "b69982b80e14ad59dccebc1210e3e7bed41db8c582abf9c6d7154f2115c9af14",
+      "hash": "b529d178013a189d68371c23ea6673db3d2a7cb852c01052f9b4e5759eaac46b",
       "size": 225743
     },
     {
@@ -11515,7 +11515,7 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "f56d3e7337ddabf856a2bf652483b95ba63fed40773bf3cc2586d2b198b81318",
+      "hash": "ab926d2fc7e18941463cbc74f66a4af4a66aa7d7f08aa45277ce152e40f63471",
       "size": 2980897
     }
   ]
