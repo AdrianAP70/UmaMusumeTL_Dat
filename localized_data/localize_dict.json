@@ -5073,5 +5073,7 @@
     "SingleModeScenarioPioneer619055": "$(scale 80)Auto\nSettings",
     "SingleModeScenarioPioneer619008": "<size=28>{0}</size> Ppl",
     "SingleModeScenarioPioneer619012": "Not Built",
-    "SingleModeScenarioPioneer585050": "left"
+    "SingleModeScenarioPioneer585050": "left",
+    "SingleModeScenarioPioneer585046": "Specialty Rate Up <color=#FF911C>+{0}</color>",
+    "SingleModeScenarioFree419002": "Left<atlas=SingleModeScenarioFree sprite=utx_ico_winpt_s_00/><color=#{1}>{0}pt</color>"
 }
