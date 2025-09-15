@@ -1025,8 +1025,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.png",
-      "hash": "d2cc2c3216b7b07e03423fccd7b572c109ff94966856d650c85bac3bdf64aab5",
-      "size": 1175024
+      "hash": "0c7849d8f1f0daa3f0c767159dc4fb7bc7b9fcd43cdda99dd21402767cc329fa",
+      "size": 1176929
     },
     {
       "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneerORIG.png",
@@ -11550,8 +11550,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "812cf8fc3d6ea8f1481f3a944e0f0e96e175f0000626bdaa2fa673dc09d15a34",
-      "size": 272264
+      "hash": "7a448407111e7c37b144cdfa385af887fa5793d389af3dc94e2c5f90a5c28695",
+      "size": 272478
     },
     {
       "path": "race_jikkyo_comment_dict.json",
