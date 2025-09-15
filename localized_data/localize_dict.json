@@ -5072,5 +5072,6 @@
     "SingleModeScenarioPioneer619043": "According to the priority facility settings, The \nfacilities to be built in the construction plan will be \nautomatically assigned",
     "SingleModeScenarioPioneer619055": "$(scale 80)Auto\nSettings",
     "SingleModeScenarioPioneer619008": "<size=28>{0}</size> Ppl",
-    "SingleModeScenarioPioneer619012": "Not Built"
+    "SingleModeScenarioPioneer619012": "Not Built",
+    "SingleModeScenarioPioneer585050": "left"
 }
