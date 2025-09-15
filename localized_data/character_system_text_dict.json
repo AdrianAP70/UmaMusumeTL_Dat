@@ -3060,7 +3060,7 @@
         "91001": "By chance― my lunch match w/ Eishin Flash. Even ‘natto set meal’― fufu, truly ‘miraculous encounter’―",
         "91000": "Zenno Rob Roy ‘captivated’ by tales of stars. With such passion and brilliance, she is a fine ‘star’.",
         "90007": "Trainer, feeling ‘hot’? Best to ‘come along’. Stargazing at night is really ‘cool’.",
-        "90005": "Trainer, are you still on a \"mission\"? ...Would you rather \"accompany\"? In this dark universe, is there no \"loneliness\"?",
+        "90005": "Trainer, are you still on \"mission\"? Would you rather \"accompany\"? In this dark universe, is there no \"loneliness\"?",
         "92005": "Trainer, did you just... \"see\" it? Or am I just imagining it... Will it come again if I call it? Hey, hey...",
         "92022": "Trainer, um... 'Thank you as always'. Hehe... I tried to 'convey' my gratitude.",
         "93001": "Trainer, \"Rendezvous\" was fun.",
@@ -3180,6 +3180,7 @@
         "300001": "Mission complete! Don't forget to claim your rewards!",
         "300002": "Important! Special Missions are available!",
         "82000": "Exciting! Which Legend Race will you challenge today?!",
-        "82001": "Challenge! You can earn pieces in the Daily Legend Race!"
+        "82001": "Challenge! You can earn pieces in the Daily Legend Race!",
+        "141000": "Hmm, rest is necessary at times. I want you to enjoy yourself to the fullest!"
     }
 }
