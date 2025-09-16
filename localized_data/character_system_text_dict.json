@@ -607,7 +607,8 @@
         "12": "Umamusume, Pretty Derby!",
         "80000": "that's enough for today",
         "900000": "Hey, hey, glad you came! \nNow then, let’s get straight to \nthe experiment!",
-        "900003": "Could you help me with the \nresearch report?"
+        "900003": "Could you help me with the \nresearch report?",
+        "900001": "Wonderful! This time, I was able \nto obtain sufficient research \nresults."
     },
     "1033": {
         "11": "Cygames",
@@ -2810,7 +2811,9 @@
         "11": "Cygames",
         "12": "Umamusume, Pretty Derby!",
         "20038": "Let's go!",
-        "140011": "Yay!"
+        "140011": "Yay!",
+        "81000": "A match? Sure! I’ll show you the greatness of Feng Shui!",
+        "910100": "A match? Sure! I’ll show you the greatness of Feng Shui!"
     },
     "1099": {
         "11": "Cygames",
@@ -3108,7 +3111,8 @@
     "1109": {
         "11": "Cygames",
         "12": "Umamusume, Pretty Derby!",
-        "140001": "I did it!"
+        "140001": "I did it!",
+        "910100": "I’ll defeat you and carve out the future!"
     },
     "1110": {
         "11": "Cygames",
@@ -3117,7 +3121,8 @@
         "140008": "Phew."
     },
     "1113": {
-        "940001": "Thanks for watching all our vids♡ We'll find a place that houses 100 mil for the afterparty! Gonna ask papa about it♪"
+        "940001": "Thanks for watching all our vids♡ We'll find a place that houses 100 mil for the afterparty! Gonna ask papa about it♪",
+        "910100": "Hehehe! Can you really beat this genius girl, Pandora-chan?"
     },
     "1116": {
         "11": "Cygames",
@@ -3174,13 +3179,48 @@
         "230002": "Congratulations. Your index level has increased!",
         "230003": "Oh, what can I do for you today?",
         "250001": "Pieces can be converted. The \nclovers obtained by conversion \ncan be used to buy items.",
-        "220007": "Welcome. Please, take your time."
+        "220007": "Welcome. Please, take your time.",
+        "210002": "The tickets required for Daily Races are replenished up to the maximum every morning at 5 a.m.",
+        "210003": "In the Moonlight Sho, you can earn a lot of Monies.",
+        "210004": "In the Jupiter Cup, you can earn a lot of Support Pts.",
+        "210001": "In Daily Races, you can obtain enhancement items and more as rewards.",
+        "260001": "It looks like a special assignments with limited-time conditions has arrived!",
+        "260000": "By using Special Transfer to move a Veteran Umamusume to another team, you will receive a thank-you gift!",
+        "260005": "By using Special Transfer to introduce a Veteran Umamusume to another Trainer, you will receive a thank-you gift!",
+        "260002": "It seems there are trainers who wish to transfer a Veteran Umamusume!"
     },
     "9002": {
         "300001": "Mission complete! Don't forget to claim your rewards!",
         "300002": "Important! Special Missions are available!",
         "82000": "Exciting! Which Legend Race will you challenge today?!",
         "82001": "Challenge! You can earn pieces in the Daily Legend Race!",
-        "141000": "Hmm, rest is necessary at times. I want you to enjoy yourself to the fullest!"
+        "141000": "Hmm, rest is necessary at times. I want you to enjoy yourself to the fullest!",
+        "910000": "A formidable foe! I’m looking forward to a heated race!"
+    },
+    "1095": {
+        "910100": "Pleased to work with you. I’ll just do my job... no matter who the opponent is."
+    },
+    "1133": {
+        "910100": "Let’s make it a battle to be remembered in history..."
+    },
+    "9003": {
+        "600003": "$(scale 91)For the sake of your assigned Umamusume... running across racetracks nationwide on your own legs... that attitude is truly splendid!",
+        "600000": "I wonder what kind of course you’ll be training on today.",
+        "600001": "If you register the saved race, you can watch that wonderful race once again...!",
+        "600004": "This training, undertaken by countless famous Umamusume... today, your efforts too will surely be etched into history.",
+        "600002": "Other Umamusume's Trainers can also participate as training partners.",
+        "600005": "This is training assuming a GⅠ race!",
+        "600006": "Even if it’s just practice... to be able to witness that heated GⅠ race... ah, my heart is pounding...",
+        "600007": "To see the trainee Umamusume shine in every GⅠ race... that dream can now be realized...",
+        "600008": "Choosing courses while considering distance and track condition? That’s quite the dedicated training menu!",
+        "600009": "How do you select the courses? The trainer’s race planning is especially of great interest to readers.",
+        "600010": "Selecting various courses and winning them all... aiming for a flawless Umamusume is also the charm of this training.",
+        "600011": "Track condition and number of entrants—these are also important factors in a race.",
+        "600012": "No matter the conditions, We’ll just meet them head-on. Even... without saying, that resolve comes clearly! As expected...",
+        "600013": "Weather is also one of factors that decide victory or defeat. Recreating historic legendary race... wouldn’t that wonderful?",
+        "600014": "It’s finally time to register for the race. I’m looking forward to it!",
+        "600015": "Registering the Umamusume for the race. I’m excited to see how the race will unfold.",
+        "600016": "No matter who enters, my preparations for coverage are flawless! I’ve recorded all the data in my trusty notebook♪",
+        "600017": "Who will be the one to step into the Winner’s Circle this time... As a reporter, and as a fan... my heart is racing."
     }
 }
