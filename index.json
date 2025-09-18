@@ -535,8 +535,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_evaluate_start00/tx_uTex_fl_singlemode_pioneer_evaluate_start00_0.png",
-      "hash": "2b26a18a1a751e03dfc59522b22302ad4d67baaaf6f65ab5a9a2d869440f8ef7",
-      "size": 1184174
+      "hash": "df4c26eee41b922bfe194abe3299fc8d5eafa224b40c6e6d6a353709241bf898",
+      "size": 1185654
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_evaluate_start01/tx_uTex_fl_singlemode_pioneer_evaluate_start01_0.png",
@@ -850,8 +850,18 @@
     },
     {
       "path": "assets/atlas/common/common.png",
-      "hash": "7dccc5114de8ff09fccddabcd353ddf74b31ef22b8536a67e3a2ff7e6410f3a6",
-      "size": 2196819
+      "hash": "9235d9dfc3a83ed0478239cb8b1f5adef5cc37de2e8de4478da4bb39bda03db9",
+      "size": 2197562
+    },
+    {
+      "path": "assets/atlas/directory/directory.json",
+      "hash": "e08da02092fb32502113916ec5802918331d12d3f0dd4448617f790ba4eea20d",
+      "size": 170
+    },
+    {
+      "path": "assets/atlas/directory/directory.png",
+      "hash": "785fe4729a70b84bf8de9d41dd0070172a8e3e2d04398c6ebbf09a9f48e3035c",
+      "size": 133843
     },
     {
       "path": "assets/atlas/factorresearch/factorresearch.diff.png",
@@ -967,16 +977,6 @@
       "path": "assets/atlas/raceorder/raceorder.png",
       "hash": "930ac3f776e6a9b7b0b55526bcef53d2e4a0085a6fb94b6a7f3776ba501ebf8a",
       "size": 649347
-    },
-    {
-      "path": "assets/atlas/shop/shop.json",
-      "hash": "3de2329339af5d928b780e7e8074332b42990c8aaa4ca27354829e0641c5c617",
-      "size": 168
-    },
-    {
-      "path": "assets/atlas/shop/shop.png",
-      "hash": "71ec161e0ac7f8e9dfa59cf97abebc7b4cdf6be6cce0ff5d461da112915c4df6",
-      "size": 1039447
     },
     {
       "path": "assets/atlas/single/single.diff.png",
@@ -11109,6 +11109,31 @@
       "size": 129800
     },
     {
+      "path": "assets/textures/single/scenariopioneer/utx_txt_evaluation_logo_01.png",
+      "hash": "f09623b691f66fad3369e6a925447314e5396f4a04144183166ed9e31611752c",
+      "size": 382257
+    },
+    {
+      "path": "assets/textures/single/scenariopioneer/utx_txt_evaluation_logo_02.png",
+      "hash": "05e44c068fa302c9cb5721367fef4777564d9518d6e7c350131f868ecd0401f3",
+      "size": 383277
+    },
+    {
+      "path": "assets/textures/single/scenariopioneer/utx_txt_evaluation_logo_03.png",
+      "hash": "dc0600735a898af27ea154615eb394e76dd195c9d4f76ba8871f294e0500fccf",
+      "size": 383675
+    },
+    {
+      "path": "assets/textures/single/scenariopioneer/utx_txt_evaluation_logo_04.png",
+      "hash": "50091b988ea6aa07190daadab23292baf5f3fa48cf41a38da93f119690851c66",
+      "size": 382655
+    },
+    {
+      "path": "assets/textures/single/scenariopioneer/utx_txt_evaluation_logo_05.png",
+      "hash": "77171f1d3bbfdfe7c3f44ba6058f78994b317d3d3cb6baebe964bb1bc8f37fe4",
+      "size": 425351
+    },
+    {
       "path": "assets/textures/single/scenariosport/utx_txt_advice_update_00.png",
       "hash": "8ab7c0e19201d86ac053fb4accc8044c2debf16cbb8fc8e2ed3793cad85945f8",
       "size": 72851
@@ -11670,8 +11695,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "c50be4552cb05774d4e5c38692ad35ff0091461b08240dfeafb56032f22029a1",
-      "size": 9362
+      "hash": "22f349d0d31c436a399a1c55da850985ab07b524ba7a28e5b412fb4e0b761e68",
+      "size": 9439
     },
     {
       "path": "includesandroid",
@@ -11680,7 +11705,7 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "4f653c6f0c286421279acfe5ef1c93baeac4a71076c640d3cac3fe4564d75284",
+      "hash": "64e7113210600e726f715722d598dc467a15436f0ad7f7b322afdc3037c3535f",
       "size": 274369
     },
     {
