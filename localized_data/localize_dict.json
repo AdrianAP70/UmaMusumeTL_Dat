@@ -3073,7 +3073,7 @@
     "SingleMode0263": "Friendship Gauge",
     "SingleMode0264": "Event Progress",
     "SingleMode0265": "Being trained",
-    "SingleMode0267": "$(scale 80)Target",
+    "SingleMode0267": "$(nb)$(scale 80)Target",
     "SingleMode0268": "Cancel",
     "SingleMode0270": "Start",
     "SingleMode0271": "1st: {0:#,0} fans",
