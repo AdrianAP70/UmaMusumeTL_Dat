@@ -8,3 +8,4 @@
 # agar .gitignore sendiri tetap di track
 !/index.json
 !/.gitignore
+!/localized_data/config.json
