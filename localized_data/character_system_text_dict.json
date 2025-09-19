@@ -12,7 +12,8 @@
         "80000": "Good work.",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
-        "140002": "Aah!"
+        "140002": "Aah!",
+        "30000": "fsf"
     },
     "1003": {
         "11": "Cygames",
@@ -608,7 +609,8 @@
         "80000": "that's enough for today",
         "900000": "Hey, hey, glad you came! \nNow then, let’s get straight to \nthe experiment!",
         "900003": "Could you help me with the \nresearch report?",
-        "900001": "Wonderful! This time, I was able \nto obtain sufficient research \nresults."
+        "900001": "Wonderful! This time, I was able \nto obtain sufficient research \nresults.",
+        "900002": "That was quite a meaningful time. \nI’ll ask for your help again!"
     },
     "1033": {
         "11": "Cygames",
@@ -3091,7 +3093,8 @@
         "92016": "3, 2, 1―― ...? “Launch\"... standby?",
         "95004": "3, 2, 1 - \"Liftoff.\" Let's \"talk.\"",
         "90004": "It's lively... 100 gazillion voices, I can hear them. You're not alone, I'm here...",
-        "10017": "The mission is complete. It’s a foothold toward the ‘higher dimension’."
+        "10017": "The mission is complete. It’s a foothold toward the ‘higher dimension’.",
+        "10018": "Soon comes the bustle of “Sun, Moon, Stars”. I wonder what kind of event will be next?"
     },
     "1106": {
         "11": "Cygames",
@@ -3187,7 +3190,8 @@
         "260001": "It looks like a special assignments with limited-time conditions has arrived!",
         "260000": "By using Special Transfer to move a Veteran Umamusume to another team, you will receive a thank-you gift!",
         "260005": "By using Special Transfer to introduce a Veteran Umamusume to another Trainer, you will receive a thank-you gift!",
-        "260002": "It seems there are trainers who wish to transfer a Veteran Umamusume!"
+        "260002": "It seems there are trainers who wish to transfer a Veteran Umamusume!",
+        "200001": "Fufu♪ Are you curious about the \nsecrets of the Umamusume?"
     },
     "9002": {
         "300001": "Mission complete! Don't forget to claim your rewards!",
