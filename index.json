@@ -364,9 +364,24 @@
       "size": 151911
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_buff_get00/tx_uTex_fl_singlemode_legend_buff_get00_0.png",
+      "hash": "015f8430ecfefd4be0dae89629f5a553a6d5055645f8126045a9c1375a9c2f31",
+      "size": 455295
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_event_legendappear00/tx_uTex_fl_singlemode_legend_event_legendappear00_0.png",
+      "hash": "7256ee4a44c3cc1dcb831d26392ee6e52a379c0029e500f3c28f064799e71b7c",
+      "size": 1382313
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_eventbonus_upmotivation00/tx_uTex_fl_singlemode_legend_eventbonus_upmotivation00_0.png",
       "hash": "425ce504c57e955b26246425303ed3f4a1ec4e3e1ec01fea18447e5778113d9a",
       "size": 43090
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_header_turncounter00/tx_uTex_fl_singlemode_legend_header_turncounter00_0.png",
+      "hash": "e6fe6efc2652ba35d02c3f3a2818690f639eb5c037be0384038c2a01fb5fb06c",
+      "size": 18693
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_icon_motivation00/tx_uTex_fl_singlemode_legend_icon_motivation00_0.png",
@@ -382,6 +397,16 @@
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_next_target00/tx_uTex_fl_singlemode_legend_next_target00_0.png",
       "hash": "28a44975588d0b501acbafc2101bf2d3a3a506622a69bf25d19a934989ad28cb",
       "size": 825048
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_remind_turn00/tx_uTex_fl_singlemode_legend_remind_turn00_0.png",
+      "hash": "4387f965428e597a37861a78a23978e58d1013068031247a5c2708c25f1cc194",
+      "size": 199135
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_txt_buff_available00/tx_uTex_fl_singlemode_legend_txt_buff_available00_0.png",
+      "hash": "5b1621cdc78bd1dd2a5565e76b3cc7c1351c242fa38908d7aefcaead7a622721",
+      "size": 114712
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_live_btn_trainingmenu00/tx_uTex_fl_singlemode_live_btn_trainingmenu00_0.diff.png",
@@ -540,8 +565,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_evaluate_start00/tx_uTex_fl_singlemode_pioneer_evaluate_start00_0.png",
-      "hash": "df4c26eee41b922bfe194abe3299fc8d5eafa224b40c6e6d6a353709241bf898",
-      "size": 1185654
+      "hash": "0a9f8d315c970944c1c9bd7ac57708df408576d89e37d23887607ebcaae27788",
+      "size": 1186532
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_evaluate_start01/tx_uTex_fl_singlemode_pioneer_evaluate_start01_0.png",
@@ -1030,8 +1055,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenariolegend/singlemodescenariolegend.png",
-      "hash": "26463a9f7601f436d1338a8a741700c07de65b20b09ca125eaeb7c185042fec8",
-      "size": 795285
+      "hash": "f2b22a63bdda38c31ddb3ceaa9e653da5f5ce3b96a4de7d3a9abfadd4a5ed687",
+      "size": 796125
     },
     {
       "path": "assets/atlas/singlemodescenariolegend/singlemodescenariolegendORIG.png",
@@ -7679,6 +7704,16 @@
       "size": 15126
     },
     {
+      "path": "assets/textures/chara/chr1003/petit/petit_chr_1003_100301_0070.png",
+      "hash": "7aacef6a74960393c5c84c2955a599d5c33c34d8caa30deecfa89fdf4eac1d6a",
+      "size": 161172
+    },
+    {
+      "path": "assets/textures/chara/chr1003/petit/petit_chr_1003_100301_0071.png",
+      "hash": "2e5f60c3be047a46f3a3088be08924e71a973c7559f44c80772e78eea906676d",
+      "size": 167338
+    },
+    {
       "path": "assets/textures/chara/chr1008/petit/petit_chr_1008_100801_0070.png",
       "hash": "e65391f8afad8062e05d07e5d5d91f61636f31f2ed9d993e32e763a695661e17",
       "size": 153102
@@ -11760,8 +11795,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "02406fcfa1b534f36913a05974edee9002e6d5cf0008dc749f85ad1b03809100",
-      "size": 274507
+      "hash": "ab0be0da8bb6293847fe30f520fce533a09a659e8db3e217ca580da3fbc2850c",
+      "size": 274521
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -11775,8 +11810,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "26ca037f890370a7576a981cd627e070119a800519589f4912ccc0d6c0b26656",
-      "size": 2983294
+      "hash": "af029ce27f8b3ddecf9606d720681dea890f7c1c79b15db57ef6084421eb7f53",
+      "size": 2983591
     }
   ]
 }
