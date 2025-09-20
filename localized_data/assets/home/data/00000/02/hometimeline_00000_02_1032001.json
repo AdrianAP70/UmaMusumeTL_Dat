@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Agnes Tachyon",
-            "text": "Hey hey, Cafe. I tried whipping up a drink that has a bit of muscle-boosting effect..."
+            "text": "Hey hey, Cafe. I tried whipping up a drink that has \na bit of muscle-boosting effect..."
         },
         {
             "text": "I see... I won’t drink...",
@@ -10,7 +10,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Yes, just as you guessed. It’s absolutely not for drinking. No matter how much you might want it. Definitely not."
+            "text": "Yes, just as you guessed. It’s absolutely not for \ndrinking. No matter how much you might want it. \nDefinitely not."
         },
         {
             "name": "Agnes Tachyon",
@@ -18,15 +18,15 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "What is it...? If you have no business, then please, go away..."
+            "text": "What is it...? If you have no business, then please, \ngo away..."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hmm, that didn’t work. There’s this thing called the “Caligula Effect,” where what’s forbidden is what you want the most..."
+            "text": "Hmm, that didn’t work. There’s this thing called the \n“Caligula Effect”, where what’s forbidden is what \nyou want the most..."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "The fact that you’re not wanting the drink means — you clearly don’t fall under that.\nVery disappointing, but I suppose I’ll look elsewhere."
+            "text": "The fact that you’re not wanting the drink means — \nyou clearly don’t fall under that. Very \ndisappointing, but I suppose I’ll look elsewhere."
         },
         {
             "name": "Agnes Tachyon",
@@ -34,7 +34,7 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "You’ll try somewhere else, right...? Or is there still something else...?"
+            "text": "You’ll try somewhere else, right...? Or is there \nstill something else...?"
         },
         {
             "name": "Agnes Tachyon",

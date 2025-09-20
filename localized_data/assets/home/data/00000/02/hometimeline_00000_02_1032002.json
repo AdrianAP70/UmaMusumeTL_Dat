@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Air Shakur",
-            "text": "A mere quarter reduction in resistance coefficient...? Then reduce the distance by 5%――...Tch, as expected, totally useless."
+            "text": "A mere quarter reduction in resistance \ncoefficient...? Then reduce the distance by \n5%――...Tch, as expected, totally useless."
         },
         {
             "name": "Agnes Tachyon",
@@ -14,15 +14,15 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "No, really? I... just wondered whether within the numbers you believe in, there actually is an answer."
+            "text": "No, really? I... just wondered whether within the \nnumbers you believe in, there actually is an answer."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "What if the answer you seek isn’t in the numbers? What if spiritual or mental strength becomes the stronger factor over logic?"
+            "text": "What if the answer you seek isn’t in the numbers? \nWhat if spiritual or mental strength becomes the \nstronger factor over logic?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "No matter how much you peel, you’ll never reach a seed forever! Even then you claim you find the seed in an onion!? Really!?"
+            "text": "No matter how much you peel, you’ll never reach a \nseed forever! Even then you claim you find the seed \nin an onion!? Really!?"
         },
         {
             "name": "Air Shakur",
@@ -34,11 +34,11 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "But by my jest, your mental seems to have shaken somewhat. If so, might there also be a similar effect in the race?"
+            "text": "But by my jest, your mental seems to have shaken\nsomewhat. If so, might there also be a similar \neffect in the race?"
         },
         {
             "name": "Air Shakur",
-            "text": "I couldn’t care less. Seriously... you’re still as crazy as ever."
+            "text": "I couldn’t care less. Seriously... you’re still as\ncrazy as ever."
         }
     ]
 }
