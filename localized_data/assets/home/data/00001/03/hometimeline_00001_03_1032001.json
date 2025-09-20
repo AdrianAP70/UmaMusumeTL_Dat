@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Agnes Tachyon",
-            "text": "Something you want... A new drug that you’ll take, an Umamusume specialized in speed. Like you, for example, and Believe by your side."
+            "text": "Something you want... A new drug that you’ll take, \nan Umamusume specialized in speed. Like you, for \nexample, and Believe by your side."
         },
         {
             "name": "Calstone Light O",
@@ -22,11 +22,11 @@
         },
         {
             "name": "Calstone Light O",
-            "text": "Ah, yes. No. Believe told me that if someone proposes a gift in return, I must refuse."
+            "text": "Ah, yes. No. Believe told me that if someone \nproposes a gift in return, I must refuse."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I see. Now I know why you came along, Believe. You might as well be a watchdog."
+            "text": "I see. Now I know why you came along, Believe. You\nmight as well be a watchdog."
         },
         {
             "name": "Believe",
@@ -34,7 +34,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Then, how about an Umamusume who’ll take the old drug? It’s already been tested on several, side effects are just glowing a bit..."
+            "text": "Then, how about an Umamusume who’ll take the old \ndrug? It’s already been tested on several, side \neffects are just glowing a bit..."
         },
         {
             "name": "Calstone Light O",
@@ -42,15 +42,15 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Very well... then I want your pacing data. A hundred runs will do."
+            "text": "Very well... then I want your pacing data. A hundred \nruns will do."
         },
         {
             "name": "Believe",
-            "text": "Even things that take too long, a bit... In exchange, how about a “traditional dish recipe that boosts vitality”?"
+            "text": "Even things that take too long, a bit... In \nexchange, how about a “traditional dish recipe that \nboosts vitality”?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Not bad... Could be a foothold for my next development. Tell me it!"
+            "text": "Not bad... Could be a foothold for my next \ndevelopment. Tell me it!"
         }
     ]
 }
