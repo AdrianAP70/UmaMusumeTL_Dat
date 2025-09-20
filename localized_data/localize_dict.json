@@ -339,7 +339,7 @@
     "Character0212": "Lacking SP and Monies",
     "Character0214": "Use SP and Monies to upgrade?",
     "Character0216": "Consume {0} support card(s) uncap?",
-    "Character0218": "Unlocks at \nLv {0}",
+    "Character0218": "$(nb)$(scale 75)Unlocks at Lv {0}",
     "Character0219": "Fully upgraded",
     "Character0220": "Lacking Monies and mats",
     "Character0248": "Input at least 2 characters.",
