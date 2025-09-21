@@ -369,6 +369,11 @@
       "size": 455295
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_enter_masterly00/tx_uTex_fl_singlemode_legend_enter_masterly00_0.png",
+      "hash": "493abe0f8af78b1b6013932340ec0010510af322155c40afbfe79155a0c41fd0",
+      "size": 1555348
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_event_legendappear00/tx_uTex_fl_singlemode_legend_event_legendappear00_0.png",
       "hash": "7256ee4a44c3cc1dcb831d26392ee6e52a379c0029e500f3c28f064799e71b7c",
       "size": 1382313
@@ -392,6 +397,16 @@
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_masterly_frame00/tx_uTex_fl_singlemode_legend_masterly_frame00_0.png",
       "hash": "b8ee70456af7baa3e593bf4292d92d863269b59660bfde2cc8bce3d1d658cf82",
       "size": 248396
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_masterly_frame01/tx_uTex_fl_singlemode_legend_masterly_frame01_0.png",
+      "hash": "c466a668437f189c32430e80d28328428ff5f2364503ebff9836cbae749638e6",
+      "size": 331341
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_masterly_get00/tx_uTex_fl_singlemode_legend_masterly_get00_0.png",
+      "hash": "626f0fa04b13d95bf9e1d3f1b55e198dee28cc666c6cf3b25829d04dc6c3920f",
+      "size": 1109216
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_next_target00/tx_uTex_fl_singlemode_legend_next_target00_0.png",
