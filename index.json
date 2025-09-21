@@ -329,6 +329,11 @@
       "size": 276562
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_header_turncounter00/tx_uTex_fl_singlemode_header_turncounter00_0.png",
+      "hash": "853f0f71b8f38a92c141c02c76ce6ff8607323aa7fde7515207f244d5c8225d2",
+      "size": 1933
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_hint00/tx_uTex_fl_singlemode_hint00_0.diff.png",
       "hash": "789f0e4c3d115bbebc8af1e3c4687ae00bbf69f137ede902b543e3ffd188d3c2",
       "size": 2630
@@ -374,6 +379,16 @@
       "size": 1555348
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_enter_masterly01/tx_uTex_fl_singlemode_legend_enter_masterly01_0.png",
+      "hash": "f0f2cccbc43fe6e18de5188fa1e0f6acf554e338b33ed81ae7a8b09b2c1b2bab",
+      "size": 934136
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_enter_masterly02/tx_uTex_fl_singlemode_legend_enter_masterly02_0.png",
+      "hash": "1251cd9bdf35dc31c594e9c80e12eb044c597f1bb40caa0a918c2c888b3ba83f",
+      "size": 293916
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_event_legendappear00/tx_uTex_fl_singlemode_legend_event_legendappear00_0.png",
       "hash": "7256ee4a44c3cc1dcb831d26392ee6e52a379c0029e500f3c28f064799e71b7c",
       "size": 1382313
@@ -405,8 +420,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_masterly_get00/tx_uTex_fl_singlemode_legend_masterly_get00_0.png",
-      "hash": "626f0fa04b13d95bf9e1d3f1b55e198dee28cc666c6cf3b25829d04dc6c3920f",
-      "size": 1109216
+      "hash": "c26eb00da02ea8a848577dceda447dadaf92a5537c6c7b4daea1b7ad1c1f3acb",
+      "size": 1114351
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_legend_next_target00/tx_uTex_fl_singlemode_legend_next_target00_0.png",
@@ -552,6 +567,11 @@
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_next_target00/tx_uTex_fl_singlemode_next_target00_0.png",
       "hash": "514f6913b8019eba18d7dd2b543ef65e2b3bfc4bbbf5820a926554f5ef782bdd",
       "size": 1188813
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_btn_evaluate_decide00/tx_uTex_fl_singlemode_pioneer_btn_evaluate_decide00_0.png",
+      "hash": "cb46e3ba6862707e6cc2fa158a766f06e2d496ef17da230a25185d0444d655b5",
+      "size": 312190
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_btn_trainingmenu01/tx_uTex_fl_singlemode_pioneer_btn_trainingmenu01_0.png",
@@ -11237,6 +11257,11 @@
       "path": "assets/textures/single/scenariopioneer/utx_txt_evaluation_logo_05.png",
       "hash": "77171f1d3bbfdfe7c3f44ba6058f78994b317d3d3cb6baebe964bb1bc8f37fe4",
       "size": 425351
+    },
+    {
+      "path": "assets/textures/single/scenariopioneer/utx_txt_pioneer_ending_live_00.png",
+      "hash": "f7e9cf7e63e39ddf1a618e7e80ca4c05ab8e6c088da5bf852c025c60bcf5fe21",
+      "size": 18798
     },
     {
       "path": "assets/textures/single/scenariosport/utx_txt_advice_update_00.png",
