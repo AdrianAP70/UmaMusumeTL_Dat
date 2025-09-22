@@ -722,7 +722,8 @@
         "113301": "[Effulgent Curator] Chrono Genesis",
         "9100101": "[Special Dreamer] Special Week",
         "9101101": "[Rock-piercing Blue] Grass Wonder",
-        "108101": "[Red Devil Gear] Espoir City"
+        "108101": "[Red Devil Gear] Espoir City",
+        "109501": "[Essence] Believe"
     },
     "5": {
         "100101": "[Special Dreamer]",
@@ -937,7 +938,8 @@
         "113101": "[sMile My Way!]",
         "113301": "[Effulgent Curator]",
         "9100101": "[Special Dreamer]",
-        "9101101": "[Rock-piercing Blue]"
+        "9101101": "[Rock-piercing Blue]",
+        "109501": "[Essence]"
     },
     "6": {
         "1001": "Special Week",
@@ -33436,7 +33438,8 @@
         "365": "Wit Facility Maven",
         "366": "Beach Hut Maven",
         "367": "Gift of Hope",
-        "368": "Enamored Even Now"
+        "368": "Enamored Even Now",
+        "370": "$(nb)$(scale 75)Master of Speed with Perseverance"
     },
     "131": {
         "1": "Enter a race with rainy weather ≥4 times \nWin 3 of them",
