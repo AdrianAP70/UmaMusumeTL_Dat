@@ -5107,5 +5107,6 @@
     "Jobs408061": "List",
     "Outgame626003": "Available!",
     "Gallery400108": "Please select {0} to unlock.",
-    "Gallery400114": "Dialog Selection"
+    "Gallery400114": "Dialog Selection",
+    "Outgame0443": "$(nb)$(anchor 3){0:0.00}%"
 }
