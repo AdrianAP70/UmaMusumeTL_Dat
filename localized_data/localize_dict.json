@@ -768,7 +768,7 @@
     "Common0160": "$(nb)Support Pt",
     "Common0161": "Event",
     "Common0164": "$(nb)Rewards",
-    "Common0166": "R: {0} W:{1}",
+    "Common0166": "Races Won: {0}/{1}",
     "Common0168": "<size=22>{0:D2}:{1:D2}</size>",
     "Common0170": "Download",
     "Common0185": "Exit",
