@@ -610,8 +610,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_event_join00/tx_uTex_fl_singlemode_pioneer_event_join00_0.png",
-      "hash": "9bfbd79e888c83148b84fe896774f274ca53e6115ee8c8e15363b3c01e3e8e6d",
-      "size": 196776
+      "hash": "ee169f28ff72161b5e8f511dfca31e74f772bc7f84a20d405cd0aec4e7792e59",
+      "size": 228205
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_gauge_shimatraining00/tx_uTex_fl_singlemode_pioneer_gauge_shimatraining00_0.png",
@@ -710,8 +710,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_txt_evaluateresult00/tx_uTex_fl_singlemode_pioneer_txt_evaluateresult00_0.png",
-      "hash": "2aad701b884be15ddd08940e6892c659a6894a1f9338918720c93cea3f241037",
-      "size": 918475
+      "hash": "8e0f93cb4477c128ccc19f40fac7ac8efc13caeff078c7c062eae61d92de3f6d",
+      "size": 959720
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_txt_shimatraining00/tx_uTex_fl_singlemode_pioneer_txt_shimatraining00_0.png",
@@ -1120,13 +1120,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.png",
-      "hash": "0c7849d8f1f0daa3f0c767159dc4fb7bc7b9fcd43cdda99dd21402767cc329fa",
-      "size": 1176929
-    },
-    {
-      "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneerORIG.png",
-      "hash": "2c8d49b5fac3a434891148f7733550362eb4a028af31cf7c9c148fabb0e22670",
-      "size": 2073516
+      "hash": "dc5f8534138913f3c3e60747f1a97d78642d5ad7e3f81953c5fde10c3a0f73be",
+      "size": 1177641
     },
     {
       "path": "assets/atlas/singlemodescenariosport/singlemodescenariosport.diff.png",
@@ -9954,6 +9949,16 @@
       "size": 7417
     },
     {
+      "path": "assets/textures/outgame/campaign/title/utx_obj_title_logo_0061.png",
+      "hash": "7d5a5733aa64eb77f6dd0626cfd06fb4cc6b070bcfd8f0205fcea7ec32feca6a",
+      "size": 377708
+    },
+    {
+      "path": "assets/textures/outgame/campaign/title/utx_obj_title_logo_0863.png",
+      "hash": "21813447c68a13ca1653ff0c4791497e7d4e4d905730693893f270f31e917523",
+      "size": 551197
+    },
+    {
       "path": "assets/textures/outgame/campaign/walking/utx_txt_campaign_stroll_03.png",
       "hash": "bd258681658b3c2917fa7f3eafb7b45018fc14b832a49c3d6d8d5e3468cfb6aa",
       "size": 15844
@@ -10092,6 +10097,11 @@
       "path": "assets/textures/outgame/comic/tex_comic_1011_01.diff.png",
       "hash": "dad370cec4eb0545aeff059b788751b6522857f5cbfdf5018556add1ea6c4a3b",
       "size": 1320694
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1011_01.png",
+      "hash": "cfe4bcb8ae7e29019e8341f0f6d47bf941bc258d4e4aed4a5468f61a51e22502",
+      "size": 1553049
     },
     {
       "path": "assets/textures/outgame/comic/tex_comic_1012_01.diff.png",
@@ -11825,8 +11835,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "69b83e539a587093b0aae83a317901132fdcea1a516a2f1cd14834310306c739",
-      "size": 9514
+      "hash": "a8e214d6556d19d5581c0e816808f15953bb47ecc5554e16803f23fce7dbaad6",
+      "size": 9516
     },
     {
       "path": "includesandroid",
@@ -11835,8 +11845,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "ab0be0da8bb6293847fe30f520fce533a09a659e8db3e217ca580da3fbc2850c",
-      "size": 274521
+      "hash": "bb49ba3014e138308d5ad51336d125cf37e90a6ce0a4b77265567a9f688f47a9",
+      "size": 274569
     },
     {
       "path": "race_jikkyo_comment_dict.json",
