@@ -33440,7 +33440,7 @@
         "366": "Beach Hut Maven",
         "367": "Gift of Hope",
         "368": "Enamored Even Now",
-        "370": "$(nb)$(scale 75)Master of Speed with Perseverance"
+        "370": "Speed & Resolve"
     },
     "131": {
         "1": "Enter a race with rainy weather ≥4 times \nWin 3 of them",
@@ -38834,7 +38834,8 @@
         "208": "Talk with an Umamusume in summer",
         "207": "Talk with an Umamusume in spring",
         "206": "Talk with an Umamusume at night",
-        "205": "Talk with an Umamusume at noon"
+        "205": "Talk with an Umamusume at noon",
+        "307": "Receive a Valentine’s gift from an Umamusume"
     },
     "172": {
         "101": "<size=22>Increases Speed & Speed Cap \n</size>",
