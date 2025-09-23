@@ -7699,6 +7699,16 @@
       "size": 146
     },
     {
+      "path": "assets/story/data/80/1129/storytimeline_801129001.json",
+      "hash": "8ee070f1e2f01f2256c67a59e945f94b15e109f4ae00cafaf855860c093a9cba",
+      "size": 4643
+    },
+    {
+      "path": "assets/story/data/80/1129/storytimeline_801129002.json",
+      "hash": "6a6122386dae33642900f6d4547d1ea6af564687b35a314a4ecbe0bc7379d9cb",
+      "size": 4692
+    },
+    {
       "path": "assets/story/data/82/0039/storytimeline_820039001.json",
       "hash": "3171c8d1c577ca40803179dd639e08df8196612626b7d418c92b042365f600d5",
       "size": 7288
@@ -7822,6 +7832,16 @@
       "path": "assets/textures/chara/chr1054/petit/petit_chr_1054_105401_0071.png",
       "hash": "87e2dd35b305e7cada6c8ef4ec54229b40651afd8146821e44ec5a59fe5c8834",
       "size": 161599
+    },
+    {
+      "path": "assets/textures/chara/chr1062/petit/petit_chr_1062_106201_0070.png",
+      "hash": "0530d30dde929d95d7947705553865bd053b63f1578f5f32df0754a1cb01b69e",
+      "size": 160244
+    },
+    {
+      "path": "assets/textures/chara/chr1062/petit/petit_chr_1062_106201_0071.png",
+      "hash": "0cd27acae8fa4ead2c8d06d3cd548407fbbae8e42b4d95fb0faecdbd97bb188c",
+      "size": 161922
     },
     {
       "path": "assets/textures/chara/chr1066/petit/petit_chr_1066_000101_0070.diff.png",
@@ -9884,6 +9904,16 @@
       "size": 287426
     },
     {
+      "path": "assets/textures/gachaselect/30370/img_bnr_gacha_30370.png",
+      "hash": "a020e3ea3ddae683dc80564acdff40db1254ae36242893255bf00556a80bfee0",
+      "size": 367316
+    },
+    {
+      "path": "assets/textures/gachaselect/30370/img_logo_gacha_30370.png",
+      "hash": "e14c929692e1c7dbe36475e9ea228ac04eec678c17cb7e2dc0f12920161b37f5",
+      "size": 137721
+    },
+    {
       "path": "assets/textures/home/ui/texture/champions/utx_txt_home_race_round_00.png",
       "hash": "f353516ed575d64758826fcd0427f3f08346316503672bec5cd74c16c6a19e6b",
       "size": 48423
@@ -9912,6 +9942,11 @@
       "path": "assets/textures/home/ui/texture/champions/utx_txt_home_race_round_05.png",
       "hash": "e12a0d854b60dae8dc51470261552ae8dd7763ff43be084ddd735e4bf646b017",
       "size": 61359
+    },
+    {
+      "path": "assets/textures/home/ui/texture/utx_btn_home_race_aggregate_01.png",
+      "hash": "e46a650c6f9278ebce55065bdb5fbd8dfaa17978d6b94036efecaa73e4b5891c",
+      "size": 256737
     },
     {
       "path": "assets/textures/home/ui/texture/utx_btn_home_race_down_01.png",
@@ -11104,6 +11139,11 @@
       "size": 268726
     },
     {
+      "path": "assets/textures/race/champions/texture/banner/banner_champions_logo_15.png",
+      "hash": "1fd5f970ac1c0ed87224eba306b5f35c3c6a04e65a018d2511418fd25cfa57bf",
+      "size": 188060
+    },
+    {
       "path": "assets/textures/race/champions/texture/banner/banner_champions_text_00.png",
       "hash": "1310189b277b0efabae1de9d643e91a4b72c462f736dd00adc9ea4ae7c8413a4",
       "size": 57926
@@ -11162,6 +11202,11 @@
       "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_15_01_s.png",
       "hash": "865a3ed38d68314fe315eb9b9c075f8bbe0159227ad81d1672e0730ac8c8a81f",
       "size": 194026
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_15_02.png",
+      "hash": "f5608ba33ff34a4009ffd15ad07268c03b72950f378a3a3f2deef0f3a48ec950",
+      "size": 146008
     },
     {
       "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_16_01.png",
@@ -11232,6 +11277,21 @@
       "path": "assets/textures/race/teamstadium/tex_race_tr_score_000_003.png",
       "hash": "db0f2d4296aef643315aab1a15d4ec505075b469d36d91675d0b5cea7c896214",
       "size": 17711
+    },
+    {
+      "path": "assets/textures/race/ultimate/logo/tex_ultimate_race_logo_00.png",
+      "hash": "c352f8853f92624346876274fa98ff01c142a4e28fdaddeac9a5ee1f9a20ac6f",
+      "size": 545359
+    },
+    {
+      "path": "assets/textures/race/ultimate/tex_txt_ultimaterace_eventheld.png",
+      "hash": "20a4d6e47fffd0484952748e642bb8a6538132079893714e9d4324e92552e762",
+      "size": 14943
+    },
+    {
+      "path": "assets/textures/single/banner/bnr_011.png",
+      "hash": "038f3ae6d4735eb2cabfefc871a0f84f05b5c0e17ae25823785d5ba6a1245c89",
+      "size": 292144
     },
     {
       "path": "assets/textures/single/scenariocook/utx_txt_cooking_possible_00.png",
@@ -11820,8 +11880,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "3be335dab35a81bae005333e86f10e27a42d1a56023a3d9815ca89819f30824e",
-      "size": 241171
+      "hash": "d420bde52b707412a5f381662e62cde7dca0adf336b0ab7e4dc417bb63ff98be",
+      "size": 241391
     },
     {
       "path": "character_system_text_dict_mod.json",
@@ -11835,8 +11895,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "a8e214d6556d19d5581c0e816808f15953bb47ecc5554e16803f23fce7dbaad6",
-      "size": 9516
+      "hash": "fca06ded66349283fce02392237184f97d7b94509578ff4465496a8fdf28c8cd",
+      "size": 9554
     },
     {
       "path": "includesandroid",
@@ -11845,8 +11905,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "9a6eec45fdd16baf522daab38a0f416ceb9b9ee2c6bd10e0d8245ac4fb03e4cf",
-      "size": 274703
+      "hash": "40682dfc880bccb12c4a7a8e5d510e21952d4d125f139c075b668ecdb3471b93",
+      "size": 274982
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -11855,13 +11915,13 @@
     },
     {
       "path": "race_jikkyo_message_dict.json",
-      "hash": "d4fb8d073284cb9b5c7d7b379fd5705fddc9f79ef761e8abc2bb226050afccc3",
-      "size": 192311
+      "hash": "1e9cd594c37cc203f7e3497f2ff263d33c871894b1dba7f01655904fca055934",
+      "size": 192553
     },
     {
       "path": "text_data_dict.json",
-      "hash": "f02424c3175593e2ff7abdcbbcd0b55475243fc6d19ec75c986ff6d6250309da",
-      "size": 2984769
+      "hash": "dcf64e99f1b7ec810f1990ac490f23a43a697c50861228a9a59c882724c82a54",
+      "size": 2985075
     }
   ]
 }
