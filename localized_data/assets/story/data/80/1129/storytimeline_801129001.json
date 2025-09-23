@@ -1,0 +1,119 @@
+{
+    "title": "Almond Eye Never Looks Away",
+    "text_block_list": [
+        {
+            "text": "On a day off, I spotted Almond Eye training hard on \nher own by the riverbank.",
+            "choice_data_list": [
+                "<size=25>(That’s... a lot of sweat... is this her peak training period?)</size>",
+                "<size=25>(That’s... a lot of sweat... maybe it’s her peak training period?)</size>"
+            ]
+        },
+        {
+            "text": "That said, I thought she’d be taking a break soon \nand was about to just walk past, but––",
+            "name": "Almond Eye"
+        },
+        {
+            "name": "Almond Eye",
+            "text": "Next. Middle-interval runs. 20 sets of 1200m, \n30-second rest...!",
+            "choice_data_list": [
+                "W-wait a second...!"
+            ]
+        },
+        {
+            "name": "Almond Eye",
+            "text": "Is the break too short? But..."
+        },
+        {
+            "text": "\"50% of running time.\" That’s the basis of rest—\nrest time, right?",
+            "name": "Almond Eye",
+            "choice_data_list": [
+                "<size=31>Yes. But... in a paper I happened to read recently...</size>"
+            ]
+        },
+        {
+            "text": "And so, I briefly explain the content of that paper."
+        },
+        {
+            "text": "Such a theory! Less strain on the body and greater \nefficiency?",
+            "name": "Almond Eye",
+            "choice_data_list": [
+                "<size=31>Exactly. That’s why you should take proper breaks.</size>"
+            ]
+        },
+        {
+            "text": "You’re right, I understand. ...Even so, that’s an \nincredible amount of knowledge.",
+            "name": "Almond Eye"
+        },
+        {
+            "text": "I do read papers regularly. But I can’t exactly keep \nup with every new one...",
+            "name": "Almond Eye",
+            "choice_data_list": [
+                "<size=30>For an Umamusume, I think that’s more than enough.</size>"
+            ]
+        },
+        {
+            "text": "Knowledge beyond textbooks is the trainer’s domain. \nAn Umamusume doesn’t need to go as far as reading \npapers.",
+            "name": "Almond Eye"
+        },
+        {
+            "text": "—But.",
+            "name": "Almond Eye"
+        },
+        {
+            "text": "But I don’t like it. I absolutely don’t want things \nto stay this way.",
+            "name": "Almond Eye"
+        },
+        {
+            "name": "Almond Eye",
+            "text": "That’s why, first, I’ll surpass you!",
+            "choice_data_list": [
+                "Huh... surpass me!?",
+                "Huh... surpass me!?"
+            ]
+        },
+        {
+            "name": "Almond Eye",
+            "text": "Yes, you. First, I’ll study more than you!"
+        },
+        {
+            "name": "Almond Eye",
+            "text": "And I’ll become one! An Umamusume who won’t \nlose to anyone in knowledge!",
+            "choice_data_list": [
+                "<size=34>Even in studying, proper breaks are important.</size>",
+                "<size=30>Even in studying, it’s important to take proper breaks.</size>",
+                "<size=35>I’ve got to study too, so I don’t fall behind.</size>",
+                "<size=35>I’ve got to study too, so I don’t fall behind.</size>"
+            ]
+        },
+        {
+            "name": "Almond Eye",
+            "choice_data_list": [
+                "<size=34>Even in studying, proper breaks are important.</size>",
+                "<size=30>Even in studying, it’s important to take proper breaks.</size>",
+                "<size=35>I’ve got to study too, so I don’t fall behind.</size>",
+                "<size=35>I’ve got to study too, so I don’t fall behind.</size>"
+            ],
+            "text": "And I’ll become one! An Umamusume who won’t \nlose to anyone in knowledge!"
+        },
+        {
+            "name": "Almond Eye",
+            "text": "Yes, of course!... is what I’d like to say."
+        },
+        {
+            "name": "Almond Eye",
+            "text": "Honestly, I kind of feel like \"If I rest, I lose\"..."
+        },
+        {
+            "name": "Almond Eye",
+            "text": "I wonder how everyone else balances it? It’s a \ntough spot."
+        },
+        {
+            "name": "Almond Eye",
+            "text": "Hehe. Then, we’re good rivals!"
+        },
+        {
+            "name": "Almond Eye",
+            "text": "Let’s both give it our all. —Because I absolutely \nwon’t lose!"
+        }
+    ]
+}

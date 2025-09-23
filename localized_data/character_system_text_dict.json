@@ -2447,7 +2447,9 @@
         "12": "Umamusume, Pretty Derby!",
         "140012": "Amazing!",
         "140017": "Aah!",
-        "110000": "$(nb)The equipment is ready! You can start training anytime!"
+        "110000": "$(nb)The equipment is ready! You can start training anytime!",
+        "81000": "I’ve put in effort I can be proud of! Now, a head-on fight!",
+        "910100": "I’ve put in effort I can be proud of! Now, a head-on fight!"
     },
     "1069": {
         "11": "Cygames",
@@ -2546,7 +2548,7 @@
         "91029": "Dirt course and turf course! That’s the kind of vibe, right? A double-layered necklace.",
         "91023": "\"If you wait, even a dark night road will turn to day\"! With that feeling, I’ll keep moving forward!",
         "92015": "Let's go! Fluttering and dancing lightly~!",
-        "92016": "\"If you just wait for the season of blooming, you’ll be downhearted.\" In that case, I have to move forward myself!",
+        "92016": "\"If you wait for season of blooming, you’ll downhearted.\" In that case, I have to move forward myself!",
         "92017": "Sometimes I’ll try to pull off something dazzling! Can I do it... though?",
         "92018": "Each day’s effort leads to wonderful milestones. That’s what I believe!",
         "92020": "I want to make it bloom in a flash—the flower of your smile, Trainer♪",
@@ -3244,7 +3246,8 @@
         "11": "Cygames",
         "12": "Umamusume, Pretty Derby!",
         "140001": "Okay…!",
-        "140018": "Oh…"
+        "140018": "Oh…",
+        "910100": "Let’s have a match worthy of the strongest."
     },
     "1109": {
         "11": "Cygames",

@@ -1,0 +1,119 @@
+{
+    "title": "Almond Eye Never Misses",
+    "text_block_list": [
+        {
+            "text": "Almond Eye is a flawless Umamusume. That’s a well-\nknown story even among Trainers."
+        },
+        {
+            "text": "And the truth of that... if you spend time at Tracen \nAcademy, you’ll naturally come to know it."
+        },
+        {
+            "text": "――Oh my, perfect scores in every subject again. Really, Ai-san, you’re so smart.",
+            "name": "Lucky Lilac",
+            "choice_data_list": [
+                "(Hm? That’s...)"
+            ]
+        },
+        {
+            "text": "Because I don’t want to lose by even a single point. \nIf it’s a perfect score, I can feel at ease, right?",
+            "name": "Almond Eye",
+            "choice_data_list": [
+                "<size=31>(Perfect scores in every subject... as expected.)</size>"
+            ]
+        },
+        {
+            "text": "Ai, look! It’s the carrot rose we saw together on TV \nthe other day!",
+            "name": "Blast Onepiece"
+        },
+        {
+            "text": "Hehe. Well, you wanted to eat it, didn’t you? And I \nthought I’d like to try making it too.",
+            "name": "Almond Eye"
+        },
+        {
+            "text": "And then, one afternoon after class―"
+        },
+        {
+            "text": "Haaaahhh...!",
+            "name": "<size=35>Almond Eye & Others</size>"
+        },
+        {
+            "name": "Lala & Blast",
+            "text": "Hah... Hah... Hah...!"
+        },
+        {
+            "text": "I was asked to help run alongside Almond Eye and \nthe others, and was watching over them...",
+            "choice_data_list": [
+                "<size=31>(The result, and even the race itself, was perfect...)</size>"
+            ]
+        },
+        {
+            "text": "The result was a landslide victory for Almond Eye. \nI was left speechless, unable to find a single flaw."
+        },
+        {
+            "name": "Almond Eye",
+            "text": "――Alright, I win!"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Haa~ you’re scary... You could’ve at least held back \na little in the parallel run."
+        },
+        {
+            "text": "Fufu. I don’t want to lose, so no. Besides, I didn’t \nhave that kind of leeway!",
+            "name": "Almond Eye"
+        },
+        {
+            "name": "Blast Onepiece",
+            "text": "Really? Boo, it didn’t look that way at all!",
+            "choice_data_list": [
+                "<size=24>I think I was almost perfect too... I also think I was almost perfect...</size>",
+                "<size=24>I think I was almost perfect too... I also think I was almost perfect...</size>"
+            ]
+        },
+        {
+            "text": "No. First of all... Lala, your marking has gotten \nmuch better than before.",
+            "name": "Almond Eye"
+        },
+        {
+            "name": "Almond Eye",
+            "text": "Blast’s finishing kick had become even sharper."
+        },
+        {
+            "name": "Almond Eye",
+            "text": "Both of them are definitely growing. This isn’t the \ntime to hold back."
+        },
+        {
+            "text": "I can’t afford to lose either!",
+            "name": "Almond Eye",
+            "choice_data_list": [
+                "I’d like to learn from that mentality.",
+                "<size=30>Could your flawless focus be the secret to your speed?</size>",
+                "<size=26>Could your flawless focus be the secret to your speed? (formal)</size>"
+            ]
+        },
+        {
+            "name": "Almond Eye",
+            "text": "I can’t afford to lose either!",
+            "choice_data_list": [
+                "I’d like to learn from that mentality.",
+                "<size=30>Could your flawless focus be the secret to your speed?</size>",
+                "<size=26>Could your flawless focus be the secret to your speed? (formal)</size>"
+            ]
+        },
+        {
+            "text": "Yeah, yeah! But you’ve gotta be careful! If a human \ntried to imitate Ai, they’d collapse!",
+            "name": "Blast Onepiece"
+        },
+        {
+            "text": "I can’t exactly say that’s not true... I often get \ncarried away and overheat...",
+            "name": "Almond Eye"
+        },
+        {
+            "name": "Lucky Lilac",
+            "text": "Truly a frightening person, huh? No matter how \nmuch she wins, she’s never satisfied."
+        },
+        {
+            "text": "Because I want to win a lot! ...Now then, let’s go \nfor another round♪",
+            "name": "Almond Eye"
+        }
+    ]
+}
