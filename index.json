@@ -64,6 +64,11 @@
       "size": 489484
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_landscape_btn00/tx_uTex_fl_footer_landscape_btn00_0.png",
+      "hash": "ec14be38bf854a0bcc21f2a1a726f9c6cb1d951d289f4dd9088ce8ea9aa68ee3",
+      "size": 119410
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_gacha_chara_piece00/tx_uTex_fl_gacha_chara_piece00_0.png",
       "hash": "0c58afb32be56b406ac6fc161023e658884f5570006a174c8ddd3a4208294603",
       "size": 150332
@@ -144,9 +149,19 @@
       "size": 2596
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_cook_badge_garden_reinforcement00/tx_uTex_fl_singlemode_cook_badge_garden_reinforcement00_0.png",
+      "hash": "47ba28410d598f2fa247ca6822069d30ed9ee9f86a34504b86906e4428fb8115",
+      "size": 9694
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_cook_btn_recommend_dish00/tx_uTex_fl_singlemode_cook_btn_recommend_dish00_0.diff.png",
       "hash": "ebffd8df07ab7e39733cec5e54111d743b8bd24238ed6450ed765d418a2b19ad",
       "size": 43378
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_cook_btn_recommend_dish00/tx_uTex_fl_singlemode_cook_btn_recommend_dish00_0.png",
+      "hash": "3473697c4d82ccde9265ac59b659502b0118573b319a909412c16527de89dd95",
+      "size": 790146
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_cook_btn_trainingmenu00/tx_uTex_fl_singlemode_cook_btn_trainingmenu00_0.diff.png",
@@ -154,14 +169,29 @@
       "size": 7584
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_cook_btn_trainingmenu00/tx_uTex_fl_singlemode_cook_btn_trainingmenu00_0.png",
+      "hash": "e1b03b2b37bb9d8dbfc7696d4ac135260362909f03ee852c2db0ff13de86b2b3",
+      "size": 473625
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_cook_care_harvestup00/tx_uTex_fl_singlemode_cook_care_harvestup00_0.diff.png",
       "hash": "0f88e7a05e78c67add7e76f29c95e97e503d7a177367124f0506874107c81e07",
       "size": 59096
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_cook_care_harvestup00/tx_uTex_fl_singlemode_cook_care_harvestup00_0.png",
+      "hash": "7667196fba46820a2a5bfa1d71ad7d22d9d02effd616697241a66f72dc4c1e22",
+      "size": 915749
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_cook_care_title00/tx_uTex_fl_singlemode_cook_care_title00_0.diff.png",
       "hash": "c0deab8077da20a56b825f9841d1bfc209a96e3cea3257d36686c4fa84483aa8",
       "size": 129972
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_cook_care_title00/tx_uTex_fl_singlemode_cook_care_title00_0.png",
+      "hash": "2908072ec9e71674c08bf9365084e764566e0946a627dd7f3df89d17bafda806",
+      "size": 330190
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_cook_event_dish_add00/tx_uTex_fl_singlemode_cook_event_dish_add00_0.diff.png",
@@ -192,6 +222,11 @@
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_cook_header_turncounter00/tx_uTex_fl_singlemode_cook_header_turncounter00_0.diff.png",
       "hash": "30aa59df423c5f7fffbcf563a95f4da946ea2b1477bb9fbf0104acaf6882027c",
       "size": 12131
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_cook_header_turncounter00/tx_uTex_fl_singlemode_cook_header_turncounter00_0.png",
+      "hash": "bf10ba0ba89b8c5ec0d0822dcfd765cd48337a62026aab7a607b2d4d77a1ee73",
+      "size": 60925
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_cook_premonition00/tx_uTex_fl_singlemode_cook_premonition00_0.diff.png",
@@ -1045,8 +1080,8 @@
     },
     {
       "path": "assets/atlas/single/single.diff.png",
-      "hash": "b882d633b538236a219270e6ecc6fe4ce611fbd2a23f56d085d5e5e4177b1330",
-      "size": 131738
+      "hash": "fbe556c18a6c22c64675a931bec671731df9c010e9662404291e720f267e1b45",
+      "size": 16460
     },
     {
       "path": "assets/atlas/single/single.json",
@@ -1055,8 +1090,8 @@
     },
     {
       "path": "assets/atlas/single/single.png",
-      "hash": "43f3424709960faa642d637eb8bad401ccbce10d56115284a292bd7d5097978c",
-      "size": 1219039
+      "hash": "a59692bd7b1be62e361e8eee78e68b98919fe81873b259a3b41c16aef95f3a25",
+      "size": 778481
     },
     {
       "path": "assets/atlas/singlemodescenarioarc/singlemodescenarioarc.diff.png",
@@ -1069,14 +1104,14 @@
       "size": 166
     },
     {
-      "path": "assets/atlas/singlemodescenariocook/singlemodescenariocook.diff.png",
-      "hash": "07f56282a16f8cce0eb17c14e01cc53020b879bcd53a61077411f572ae7fc19a",
-      "size": 333860
-    },
-    {
       "path": "assets/atlas/singlemodescenariocook/singlemodescenariocook.json",
       "hash": "75bdca2d4178e089a83608fc7400be3036d4063d75956cf0bddc938605d5b002",
       "size": 166
+    },
+    {
+      "path": "assets/atlas/singlemodescenariocook/singlemodescenariocook.png",
+      "hash": "8f0d4f02099ac770af052f2f94829850187a1b2102a1e6acd0e6f07d2650a291",
+      "size": 2193362
     },
     {
       "path": "assets/atlas/singlemodescenariolegend/singlemodescenariolegend.diff.png",
@@ -1349,6 +1384,21 @@
       "size": 765
     },
     {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1051001.json",
+      "hash": "4071b19a5461b4e9a47609e01dc471f3cc64bfce515ff89790ed3eb8461b2693",
+      "size": 664
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1051002.json",
+      "hash": "d415f8ebcea8b011b4a9e5e9f31cba09a75e6c27ce96f7cc90c1206454ca51ea",
+      "size": 735
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1051003.json",
+      "hash": "06f917f5043b21517b3ebb896d8b9b46fa5c8b547aa00c8edecc7ece54aae652",
+      "size": 598
+    },
+    {
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1055001.json",
       "hash": "2e06ab015fb095264b5f113e03b05c235cd4142ec81d1f217ffdd49cc1716248",
       "size": 750
@@ -1564,6 +1614,21 @@
       "size": 700
     },
     {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1109001.json",
+      "hash": "b6ae784f2ca4d72c95c2505e6edb56b77010015f01a42d66c2d309e065033247",
+      "size": 635
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1109002.json",
+      "hash": "2a4d2820e2a85c0035e9d6d9e00e49ab0b93fa90c45de81c86fadc7b59e19206",
+      "size": 680
+    },
+    {
+      "path": "assets/home/data/00000/01/hometimeline_00000_01_1109003.json",
+      "hash": "d1dba5565ce63f6cb2fa11bcb877508fa3839209c58aead971992eea3031af7d",
+      "size": 897
+    },
+    {
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1133001.json",
       "hash": "90b424458af67ba04ad3816b58c6b41d92c5213e9f2fd7584e9a405844d26628",
       "size": 1131
@@ -1602,6 +1667,16 @@
       "path": "assets/home/data/00000/02/hometimeline_00000_02_1038002.json",
       "hash": "80956e3ef51078a8d60b0090346fa7aebf7367fcd1bbdb7f6c337b65a611bf47",
       "size": 1428
+    },
+    {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1051001.json",
+      "hash": "db07b4562f30cc2f8a589d12bed79b40eb2dca404662817df381b33eb486d6c9",
+      "size": 1729
+    },
+    {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1051002.json",
+      "hash": "ee76ff6c77b559ab9d44f7f87f80130197d4b8688a476960eb42f4d0b4c26b9e",
+      "size": 1521
     },
     {
       "path": "assets/home/data/00000/02/hometimeline_00000_02_1055001.json",
@@ -7705,8 +7780,8 @@
     },
     {
       "path": "assets/story/data/80/1129/storytimeline_801129002.json",
-      "hash": "6a6122386dae33642900f6d4547d1ea6af564687b35a314a4ecbe0bc7379d9cb",
-      "size": 4692
+      "hash": "5e82cec8035e20d973640fc7451f392764990df8850f134384b71aee0f94c429",
+      "size": 4694
     },
     {
       "path": "assets/story/data/82/0039/storytimeline_820039001.json",
@@ -7819,6 +7894,16 @@
       "size": 169604
     },
     {
+      "path": "assets/textures/chara/chr1032/petit/petit_chr_1032_103202_0070.png",
+      "hash": "1a20a6adddc7371ef96b6297b15a266d34855b1b8e8ecd007800590b8a01582c",
+      "size": 160121
+    },
+    {
+      "path": "assets/textures/chara/chr1032/petit/petit_chr_1032_103202_0071.png",
+      "hash": "4dd41b94fa4ae4eca45e422a1b0ef676de67cebfee4ac21323cbb4a85c0cb141",
+      "size": 169844
+    },
+    {
       "path": "assets/textures/chara/chr1044/petit/petit_chr_1044_104401_0071.diff.png",
       "hash": "d7858a346d27cf3caf81771a38d8edf3fa0d2e738d441f8ff826fe97d2fd28a9",
       "size": 15451
@@ -7907,6 +7992,16 @@
       "path": "assets/textures/chara/chr1097/petit/petit_chr_1097_109701_0071.png",
       "hash": "53bf0c6a577666620fa84e66eae2f9cec11a5ac4aa4f020d7ff64f1dd6fe8fc0",
       "size": 179002
+    },
+    {
+      "path": "assets/textures/chara/chr1104/petit/petit_chr_1104_110410_0070.png",
+      "hash": "d36691ec9dcd1a9f994bb4fdc66e068be60abbf0728db69374852586fada27dc",
+      "size": 155902
+    },
+    {
+      "path": "assets/textures/chara/chr1104/petit/petit_chr_1104_110410_0071.png",
+      "hash": "618472552d1e4c5bb186668fc46fc28f38aff229d631eaac675f5f7aff7dbe0c",
+      "size": 165642
     },
     {
       "path": "assets/textures/chara/chr1113/petit/petit_chr_1113_111301_0070.png",
@@ -10414,6 +10509,11 @@
       "size": 1187818
     },
     {
+      "path": "assets/textures/outgame/comic/tex_comic_1040_01.png",
+      "hash": "7623001134b3857e0951e40b7942b426d75367a62e45c70416e6bc9042fc5746",
+      "size": 1425165
+    },
+    {
       "path": "assets/textures/outgame/comic/tex_comic_1041_01.diff.png",
       "hash": "00f79df75be3b360cbac4bd382356b2d0bab4b0b6ec0372aed4400eb79c07d0b",
       "size": 1091463
@@ -10637,6 +10737,11 @@
       "path": "assets/textures/outgame/comic/tex_comic_1064_01.diff.png",
       "hash": "da9908fddb6f752db568540c0ff24c79a0edcc0b0fa62d080012e48e2d7aaf9a",
       "size": 1092120
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1064_01.png",
+      "hash": "0beff46fb610ff3a89463fb7ada931d143937ac174ff3a4172f7e4524872b2c6",
+      "size": 1351925
     },
     {
       "path": "assets/textures/outgame/comic/tex_comic_1065_01.diff.png",
@@ -11344,6 +11449,11 @@
       "size": 214130
     },
     {
+      "path": "assets/textures/uianimation/flash/race/raceplaying/texture/skillname/skill_name_100621.png",
+      "hash": "ea9c8ca8a60795966b599eb18fe7019be3873ade0b9ce1179e1c50346ce38e0f",
+      "size": 37814
+    },
+    {
       "path": "assets/textures/uianimation/flash/singlemode/sectionstart/utx_sectionstart_10.png",
       "hash": "fbdc0a99f28e0e4701fa0298f6cba8256580f91c4afc2b1a44be007c07f532f1",
       "size": 323652
@@ -11905,8 +12015,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "40682dfc880bccb12c4a7a8e5d510e21952d4d125f139c075b668ecdb3471b93",
-      "size": 274982
+      "hash": "d00e8017cc07558cac5eae51bbe0403907c96cb2c409732a3181980be4a51bb6",
+      "size": 275012
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -11920,8 +12030,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "dcf64e99f1b7ec810f1990ac490f23a43a697c50861228a9a59c882724c82a54",
-      "size": 2985075
+      "hash": "84b3d8e836d23b2f86d7f3deaf6ba961904a3058b4fa010bf11d8fc708f3babe",
+      "size": 2986155
     }
   ]
 }
