@@ -723,7 +723,9 @@
         "9100101": "[Special Dreamer] Special Week",
         "9101101": "[Rock-piercing Blue] Grass Wonder",
         "108101": "[Red Devil Gear] Espoir City",
-        "109501": "[Essence] Believe"
+        "109501": "[Essence] Believe",
+        "102802": "[Magic Knight Garland] Hishi Akebono",
+        "105502": "[Trick☆Ribbonetta] Marvelous Sunday"
     },
     "5": {
         "100101": "[Special Dreamer]",
@@ -939,7 +941,9 @@
         "113301": "[Effulgent Curator]",
         "9100101": "[Special Dreamer]",
         "9101101": "[Rock-piercing Blue]",
-        "109501": "[Essence]"
+        "109501": "[Essence]",
+        "102802": "[Magic Knight Garland]",
+        "105502": "[Trick☆Ribbonetta]"
     },
     "6": {
         "1001": "Special Week",
@@ -2582,7 +2586,10 @@
         "30357": "Rate up for selected support cards!",
         "30369": "Rate up for selected support cards!",
         "30370": "Get 90 extra pieces with the ★3 rate up Trainee!",
-        "30371": "Rate up for selected support cards!"
+        "30371": "Rate up for selected support cards!",
+        "30372": "Get 90 extra pieces with the ★3 rate up Trainee!",
+        "30374": "Exclusively ★3s from the 8 featured!",
+        "30373": "Rate up for selected support cards!"
     },
     "14": {
         "1": "Gym Clothes",
@@ -3012,7 +3019,9 @@
         "904601": "Saint Lite's Outfit",
         "904701": "Speed Symboli's Outfit",
         "904801": "Haiseiko's Outfit",
-        "904901": "Tucker Bryne's Outfit"
+        "904901": "Tucker Bryne's Outfit",
+        "102840": "Magic Knight Garland",
+        "105540": "Trick☆Ribbonetta"
     },
     "15": {
         "15": "Spectator Outfit 1",
@@ -15673,7 +15682,13 @@
         "108101111": "Smash it to bits!",
         "108101211": "$(scale 80)Doesn’t matter who the opponent is!",
         "100951": "Because of belief & conviction",
-        "900951": "Because of belief & conviction"
+        "900951": "Because of belief & conviction",
+        "110281": "$(nb)Sugar Parade: Commence!",
+        "910281": "Sugar Parade: Commence!",
+        "203942": "Electrifying Run ",
+        "110551": "Cheers☆Wonder Doll!",
+        "910551": "Cheers☆Wonder Doll!",
+        "203952": "Genius Talent"
     },
     "48": {
         "10071": "$(nb)If you're in the second half of the pack halfway through the race, your speed will slightly increase.",
@@ -17497,7 +17512,13 @@
         "108101111": "$(nb)Dirt • At the start of the end race, if in the front, acceleration increases; in races ≤1800m, acceleration increases earlier at the start of the end race.",
         "108101211": "$(nb)Dirt • During mid-race, slightly consumes stamina and greatly increases speed for a short time.",
         "100951": "$(nb)Front • At the start of the end race, if in the front, move slightly ahead. In short races, continue to move slightly ahead until the goal.",
-        "900951": "$(nb)Front • At the start of the end race, if in the front, move just a little ahead. In short races, continue to move just a little ahead until the goal."
+        "900951": "$(nb)Front • At the start of the end race, if in the front, move just a little ahead. In short races, continue to move just a little ahead until the goal.",
+        "110281": "$(nb)When in good position approaching mid-race, speed increases slightly for a short time.  \nIn Short or Mile races, speed greatly increases for a short time instead.",
+        "910281": "When in good position somewhere approaching mid-race, your speed slightly increases for a short time.",
+        "203942": "$(nb)Sprint/Mile • Slightly increases speed in the middle of the race.",
+        "110551": "$(nb)When in the Middle group during the final corner in the Last Leg, if other Uma Musume are nearby, speed increases on the Final Straight; if in Best Condition, also slightly moves ahead.",
+        "910551": "$(nb)When in the Middle group during the final corner in the Last Leg, if other Uma Musume are nearby, speed increases on the Final Straight; if in Best Condition, also slightly moves ahead.",
+        "203952": "$(nb)Medium/Long • When Wit is sufficiently high, Wit slightly increases."
     },
     "49": {
         "1": "50 Carats",
@@ -28911,7 +28932,14 @@
         "613202": "$(nb)Get Espoir City fans to a total of 10 million!",
         "613203": "$(nb)Get Espoir City fans to a total of 50 million!",
         "613204": "$(nb)Get Espoir City fans to a total of 100 million!",
-        "613205": "$(nb)Win all trophies from G1 to G3 with Espoir City"
+        "613205": "$(nb)Win all trophies from G1 to G3 with Espoir City",
+        "1002327": "$(nb)Clear all event missions.",
+        "1002346": "$(nb)Finish a training run with a character whose skill hints you have raised through hint books once.",
+        "1002340": "$(nb)Clear all commemorative missions in part 2",
+        "1002362": "$(nb)Let’s go on Uma Stroll twice.",
+        "1002361": "$(nb)Let’s go on Uma Stroll once.",
+        "1002222": "$(nb)Complete all Part 3 limited missions",
+        "1002353": "$(nb)Complete all Part 3 limited missions"
     },
     "68": {
         "1": "Special Week No.1",
@@ -30506,7 +30534,8 @@
         "30266": "[In the Future Ahead] Chrono Genesis",
         "30267": "[Catstone Light O] Calstone Light O",
         "30268": "[This Eve I Dedicate To You, My Lord] Durandal",
-        "30269": "[Today Was Fun] Dantsu Flame"
+        "30269": "[Today Was Fun] Dantsu Flame",
+        "30271": "[Magic from the stage] Fuji Kiseki"
     },
     "76": {
         "10001": "[Tracen Academy]",
@@ -30944,7 +30973,7 @@
         "30216": "[With Love to Our School]",
         "30217": "[Mother Sea of Love]",
         "30218": "[Sunshine Under the Moon]",
-        "30219": "[Something troubling you, Pony-chan?]",
+        "30219": "$(nb)[Something troubling you, Pony-chan?]",
         "30220": "[Rewarding Job]",
         "30221": "[Fun and Food Every Day]",
         "30222": "[KNOCK 'EM DOWN!]",
@@ -30987,7 +31016,8 @@
         "30266": "[In the Future Ahead]",
         "30267": "[Catstone Light O]",
         "30268": "[This Eve I Dedicate To You, My Lord]",
-        "30269": "[Today Was Fun]"
+        "30269": "[Today Was Fun]",
+        "30271": "[Magic from the stage]"
     },
     "77": {
         "10001": "Special Week",
@@ -32813,7 +32843,9 @@
         "113201": "Loves Only You's Piece",
         "113301": "Chrono Genesis' Piece",
         "108101": "Espoir City's Piece",
-        "109501": "Believe’s Piece"
+        "109501": "Believe’s Piece",
+        "102802": "Hishi Akebono's Piece",
+        "105502": "Marvelous Sunday's Piece"
     },
     "114": {
         "100000": "A piece of the selected Trainee. \nCan be used to unlock or develop talents.",
@@ -33041,7 +33073,9 @@
         "109302": "Used to unlock Trainees and develop their talents. A special piece containing crystallized wishes.",
         "109601": "Used to unlock Trainees and develop their talents. A special piece containing crystallized wishes.",
         "109701": "Used to unlock Trainees and develop their talents. A special piece containing crystallized wishes.",
-        "109501": "Used to unlock Trainees and develop their talents. A special piece containing crystallized wishes."
+        "109501": "Used to unlock Trainees and develop their talents. A special piece containing crystallized wishes.",
+        "102802": "Used to unlock Trainees and develop their talents. A special piece containing crystallized wishes.",
+        "105502": "Used to unlock Trainees and develop their talents. A special piece containing crystallized wishes."
     },
     "119": {
         "1": "Founding of the URA Finale!",
@@ -36742,7 +36776,19 @@
         "2039802": "Vitality",
         "10950101": "Because of belief & conviction",
         "10950102": "Because of belief & conviction",
-        "10950103": "Because of belief & conviction"
+        "10950103": "Because of belief & conviction",
+        "10280201": "Sugar Parade: Commence!",
+        "10280203": "Sugar Parade: Commence!",
+        "10280202": "Sugar Parade: Commence!",
+        "2039401": "Electrifying Run ",
+        "2039402": "Electrifying Run ",
+        "2039403": "Electrifying Run ",
+        "10550201": "Cheers☆Wonder Doll!",
+        "10550202": "Cheers☆Wonder Doll!",
+        "10550203": "Cheers☆Wonder Doll!",
+        "2039501": "Genius Talent",
+        "2039502": "Genius Talent",
+        "2039503": "Genius Talent"
     },
     "148": {
         "1": "Ace Bonus",
@@ -37055,7 +37101,7 @@
         "30216": "With Love to Our School",
         "30217": "Mother Sea of Love",
         "30218": "Sunshine Under the Moon",
-        "30219": "Something troubling you, Pony-chan?",
+        "30219": "$(scale 74)Something troubling you, Pony-chan?",
         "30220": "Rewarding Job",
         "30221": "Fun and Food Every Day",
         "30222": "KNOCK 'EM DOWN!",
@@ -37098,7 +37144,8 @@
         "30266": "In the Future Ahead",
         "30267": "Catstone Light O",
         "30268": "This Eve I Dedicate To You, My Lord",
-        "30269": "Today Was Fun"
+        "30269": "Today Was Fun",
+        "30271": "Magic from the stage"
     },
     "151": {
         "1": "Friendship Bonus",
@@ -37529,7 +37576,10 @@
         "30266": "Speed Bonus and Wit Bonus when Friendship over 80.",
         "30267": "Speed Bonus when Friendship over 80.",
         "30268": "Speed Bonus and Skill Point Bonus when Friendship over 80.",
-        "30269": "Training Bonus when Friendship over 80."
+        "30269": "Training Bonus when Friendship over 80.",
+        "30271": "Speed Bonus and Power Bonus when Friendship over 80.",
+        "30272": "Speed Bonus and Power Bonus when Friendship over 80.",
+        "30273": "Motivation Effect and Power Bonus when Friendship over 80."
     },
     "157": {
         "1001": "May 2",
@@ -41087,7 +41137,19 @@
         "2039803": "A factor that grants the “Vitality” skill hint",
         "10950101": "<size=22>A factor that increases Power, Guts, and Wisdom limits, and grants the skill hint \"Because of belief & conviction\"</size>",
         "10950102": "<size=22>A factor that increases Power, Guts, and Wisdom limits, and grants the skill hint \"Because of belief & conviction\"</size>",
-        "10950103": "<size=22>A factor that increases Power, Guts, and Wisdom limits, and grants the skill hint \"Because of belief & conviction\"</size>"
+        "10950103": "<size=22>A factor that increases Power, Guts, and Wisdom limits, and grants the skill hint \"Because of belief & conviction\"</size>",
+        "10280201": "This factor increases the Power cap and grants a skill hint for \"Sugar Parade: Commence!\"",
+        "10280202": "This factor increases the Power cap and grants a skill hint for \"Sugar Parade: Commence!\"",
+        "10280203": "This factor increases the Power cap and grants a skill hint for \"Sugar Parade: Commence!\"",
+        "2039401": "A factor that grants a hint for the skill \"Electrifying Run\".",
+        "2039402": "A factor that grants a hint for the skill \"Electrifying Run\".",
+        "2039403": "A factor that grants a hint for the skill \"Electrifying Run\".",
+        "10550201": "Increases Stamina, Power, and Guts caps, and grants a Skill Hint for \"Cheers☆Wonder Doll!\"",
+        "10550202": "Increases Stamina, Power, and Guts caps, and grants a Skill Hint for \"Cheers☆Wonder Doll!\"",
+        "10550203": "Increases Stamina, Power, and Guts caps, and grants a Skill Hint for \"Cheers☆Wonder Doll!\"",
+        "2039501": "This Factor grants a Skill Hint for \"Genius Talent\".",
+        "2039502": "This Factor grants a Skill Hint for \"Genius Talent\".",
+        "2039503": "This Factor grants a Skill Hint for \"Genius Talent\"."
     },
     "173": {
         "9001": "Secretary to the Director",
@@ -41740,7 +41802,11 @@
         "900": "Additional spark rerolls",
         "750": "Increased Rentals",
         "872": "Increased Rentals",
-        "901": "Increased Rentals"
+        "901": "Increased Rentals",
+        "808": "4th Anniversary Commemorative Mission Part 1",
+        "864": "4th Anniversary Commemorative Mission Part 1",
+        "865": "4th Anniversary Commemorative Mission Part 2",
+        "866": "4th Anniversary Commemorative Mission Part 3"
     },
     "188": {
         "1": "Items obtained in training doubled.",
@@ -42085,7 +42151,8 @@
         "1044": "Illuminate the Skies: Dreamy Night Parade",
         "1045": "June's Vibrant Statices",
         "1046": "Summer Days Graffiti (With You)",
-        "1047": "Words, Hearts, Resonate"
+        "1047": "Words, Hearts, Resonate",
+        "1048": "Act 0: Spotlight, Reach for the Trapeze!"
     },
     "190": {
         "1": "Complete a training once",

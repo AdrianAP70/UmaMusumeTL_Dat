@@ -874,7 +874,8 @@
         "400009": "Respect for Tressen Academy, here.",
         "400011": "Although the result was disappointing, I would like to report to my parents that it was a valuable experience… \"Next time for sure\", right?",
         "400012": "The event mission is here. Due to the variety of missions, detailed planning is recommended.",
-        "400013": "Here is your reward. Don't forget."
+        "400013": "Here is your reward. Don't forget.",
+        "400115": "$(nb)I just finished listing out all necessary expenses.  I see... so this feeling is what they call “over capacity”..."
     },
     "1038": {
         "11": "Cygames",
@@ -1316,7 +1317,8 @@
         "12": "Umamusume, Pretty Derby!",
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
-        "140008": "Fufu"
+        "140008": "Fufu",
+        "400002": "$(nb)Ah, that’s right, they said they’d help. City & others... Even though everyone’s busy... true pals are unbeatable☆  "
     },
     "1049": {
         "11": "Cygames",
@@ -2592,7 +2594,8 @@
         "410003": "Waa~!",
         "410001": "Yay!",
         "410000": "I’ll do my best!",
-        "920000": "I’ll do my best!"
+        "920000": "I’ll do my best!",
+        "91021": "Formal morning wear... Is it meant to be worn in the morning? Then dresses should be for the morning too!\n"
     },
     "1070": {
         "11": "Cygames",

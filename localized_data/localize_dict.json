@@ -1002,7 +1002,7 @@
     "Gacha0040": "Exchange Pts",
     "Gacha0041": "Max Exchange Pts",
     "Gacha0042": "Exchange Lineup",
-    "Gacha0044": "$(nb)Gacha result",
+    "Gacha0044": "$(nb)Scout result",
     "Gacha0045": "Pull again",
     "Gacha0046": "x",
     "Gacha0047": "Scout Confirmation",
@@ -4504,7 +4504,7 @@
     "StoryEvent0055": "Obtained these rewards",
     "StoryEvent0056": "Bingo sheet rewards",
     "StoryEvent0057": "{0} line BINGO",
-    "StoryEvent0058": "After you obtain this reward you can exchange the sheet and switch to a new one",
+    "StoryEvent0058": "After you obtain this reward you can exchange the sheet and\nswitch to a new one.",
     "StoryEvent0059": "(You can spin the BINGO without changing sheet)",
     "StoryEvent0064": "Common reward",
     "StoryEvent0065": "All event rewards from Pts goals obtained!\nTraining will <color=#ff911c>grant additional</color> \nrewards from here on.",
@@ -5113,5 +5113,9 @@
     "Race0467": "$(scale 90)You were just one step away from victory. You did well against such powerful Umamusume.",
     "Race0466": "$(scale 90)Congratulations on your victory! That was a wonderful race against powerful Umamusume.",
     "Story0017": "Monologue",
-    "SingleMode508070": "$(scale 70)Hint Not Acquired"
+    "SingleMode508070": "$(scale 70)Hint Not Acquired",
+    "Outgame352035": "The skill granted as a hint when the Factor activates has the following effect.",
+    "Directory0011": "(Common)",
+    "StoryEvent0083": "Sheet {0}+",
+    "StoryEvent626001": "Sheet {0}~{1}  "
 }
