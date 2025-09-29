@@ -1,0 +1,48 @@
+{
+    "text_block_list": [
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy, Flower! Please teach me a Japanese proverb!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What does 'Today wa Motocross' mean? Grass said it \njust now."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um, I think... it’s actually 'Even the base of a \nlighthouse is dark,' right?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "The meaning is... 'Things close at hand are actually \nhard to see.' Because they get hidden in the shadow \nat your feet."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ohh, shadow! In that case, I know a similar proverb!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "'If you lean, lean on Taiki’s shade!' Does that one \nmean the same?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "That proverb means 'If you rely on something, rely \non something strong and great.' So it’s a little \ndifferent."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "And the reading isn't Taiki, it's 'taiju' (big tree)"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I see... I made a mistake..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Fufu, the reading might be wrong, but..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "The meaning surely fits. That’s what I always think. \nIf I ever have to rely on someone... it would be \nyou, Senior Taiki."
+        }
+    ]
+}

@@ -2459,9 +2459,9 @@
     "Race0092": "Keep as close as possible to the front,\npersistently pressing for the lead.",
     "Race0094": "Take an early lead and try \nto maintain it all the way.",
     "Race0096": "Congratulations on the win! In the main story you \ncan try the race as many times as you'd like.",
-    "Race0105": "$(nb)Long",
-    "Race0106": "$(nb)$(scale 97)Medium",
-    "Race0107": "$(nb)Sprint",
+    "Race0105": "Long",
+    "Race0106": "Medium",
+    "Race0107": "Sprint",
     "Race0122": "$(scale 90)Style",
     "Race0140": "$(ordinal {0}) fav.",
     "Race0148": "$(nb)Enter",
@@ -4840,7 +4840,7 @@
     "Title0047": "Skip",
     "Title0048": "Don't skip",
 	"Title0052": "It may take some time depending on your network environment.\nWe recommend downloading in a Wi-Fi environment.",
-    "Title0060": "$(nb)$(anchor 2)Entering starting gate..                              ",
+    "Title0060": "$(nb)$(anchor 5)Entering starting gate..                              ",
     "Title0067": "Opinion Box (Japanese)",
     "Title0078": "Send us feedback or suggestions.\n※Opens in a web browser",
     "Title0084": "Data repair might resolve issues with the game.",
@@ -5112,5 +5112,6 @@
     "Outgame619047": "$(scale 80)Gallery Keys cannot be used because conditions for \nTalent Blooming have not met.",
     "Race0467": "$(scale 90)You were just one step away from victory. You did well against such powerful Umamusume.",
     "Race0466": "$(scale 90)Congratulations on your victory! That was a wonderful race against powerful Umamusume.",
-    "Story0017": "Monologue"
+    "Story0017": "Monologue",
+    "SingleMode508070": "$(scale 70)Hint Not Acquired"
 }

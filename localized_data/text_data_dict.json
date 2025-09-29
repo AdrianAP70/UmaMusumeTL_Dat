@@ -15671,7 +15671,9 @@
         "203912": "Embracing Pride",
         "203922": "Prelude",
         "108101111": "Smash it to bits!",
-        "108101211": "$(scale 80)Doesn’t matter who the opponent is!"
+        "108101211": "$(scale 80)Doesn’t matter who the opponent is!",
+        "100951": "Because of belief & conviction",
+        "900951": "Because of belief & conviction"
     },
     "48": {
         "10071": "$(nb)If you're in the second half of the pack halfway through the race, your speed will slightly increase.",
@@ -17493,7 +17495,9 @@
         "203922": "$(nb)Short • During mid-race, if in mid-pack or behind, speed slightly increases",
         "900811": "Front/Late • In the end-race corner, move slightly ahead for a short time",
         "108101111": "$(nb)Dirt • At the start of the end race, if in the front, acceleration increases; in races ≤1800m, acceleration increases earlier at the start of the end race.",
-        "108101211": "$(nb)Dirt • During mid-race, slightly consumes stamina and greatly increases speed for a short time."
+        "108101211": "$(nb)Dirt • During mid-race, slightly consumes stamina and greatly increases speed for a short time.",
+        "100951": "$(nb)Front • At the start of the end race, if in the front, move slightly ahead. In short races, continue to move slightly ahead until the goal.",
+        "900951": "$(nb)Front • At the start of the end race, if in the front, move just a little ahead. In short races, continue to move just a little ahead until the goal."
     },
     "49": {
         "1": "50 Carats",
@@ -36735,7 +36739,10 @@
         "2039703": "Narifuri Kamawazu",
         "2039801": "Vitality",
         "2039803": "Vitality",
-        "2039802": "Vitality"
+        "2039802": "Vitality",
+        "10950101": "Because of belief & conviction",
+        "10950102": "Because of belief & conviction",
+        "10950103": "Because of belief & conviction"
     },
     "148": {
         "1": "Ace Bonus",
@@ -41077,7 +41084,10 @@
         "2039703": "A factor that grants a skill hint for ‘Narifuri Kamawazu’",
         "2039801": "A factor that grants the “Vitality” skill hint",
         "2039802": "A factor that grants the “Vitality” skill hint",
-        "2039803": "A factor that grants the “Vitality” skill hint"
+        "2039803": "A factor that grants the “Vitality” skill hint",
+        "10950101": "<size=22>A factor that increases Power, Guts, and Wisdom limits, and grants the skill hint \"Because of belief & conviction\"</size>",
+        "10950102": "<size=22>A factor that increases Power, Guts, and Wisdom limits, and grants the skill hint \"Because of belief & conviction\"</size>",
+        "10950103": "<size=22>A factor that increases Power, Guts, and Wisdom limits, and grants the skill hint \"Because of belief & conviction\"</size>"
     },
     "173": {
         "9001": "Secretary to the Director",
