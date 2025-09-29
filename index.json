@@ -9799,6 +9799,11 @@
       "size": 505340
     },
     {
+      "path": "assets/textures/gacha/comment/gacha_comment_102802.png",
+      "hash": "f2b01847c2b834590abfe40a327368708b5158fdaf1aff5d44d2a4966d415a40",
+      "size": 454503
+    },
+    {
       "path": "assets/textures/gacha/comment/gacha_comment_103001.png",
       "hash": "84e9a2c4daf33076964867d84185e42f1b3550a5284911d188787bf721d0ae0f",
       "size": 545513
@@ -10302,6 +10307,11 @@
       "path": "assets/textures/outgame/comic/tex_comic_1018_01.diff.png",
       "hash": "fde201eb249b29368349d1251a9c28fff7118f26daffffe1b0b6228d47a0eb24",
       "size": 1257853
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1018_01.png",
+      "hash": "f2d8964fd06f1b0f19d75f2beef320a5a94a1765d6f53371250deb0c15323229",
+      "size": 1449856
     },
     {
       "path": "assets/textures/outgame/comic/tex_comic_1019_01.diff.png",
@@ -11444,6 +11454,16 @@
       "size": 72851
     },
     {
+      "path": "assets/textures/storyevent/logo/1048/tex_storyevent_logo_1048.png",
+      "hash": "025953a09bbde9f5ca03910fea4e6c38e29ce59e9b0b0de87d5be78eea1ca47d",
+      "size": 633099
+    },
+    {
+      "path": "assets/textures/storyevent/logo/1048/tex_storyevent_logo_1048_orig.png",
+      "hash": "0b84be2838c65224b347ec9cca7a6b1c44af2c711f8712a7734560b768e0ff98",
+      "size": 615233
+    },
+    {
       "path": "assets/textures/transferevent/00001/transfer_event_logo_00001.png",
       "hash": "90d61f40339e3b3d3622f6b166973f26befda07a9be4050aba3f5d0126884e8f",
       "size": 214130
@@ -11990,8 +12010,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "d420bde52b707412a5f381662e62cde7dca0adf336b0ab7e4dc417bb63ff98be",
-      "size": 241391
+      "hash": "ce8dd46edfbf9f41be219965763fe91f85c5cb0da1de0a1d90aa9ca224e06d56",
+      "size": 241815
     },
     {
       "path": "character_system_text_dict_mod.json",
@@ -12015,8 +12035,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "d00e8017cc07558cac5eae51bbe0403907c96cb2c409732a3181980be4a51bb6",
-      "size": 275012
+      "hash": "225b515468a707c1b53b6c5f1666bf354f3ab19aa70fa903894ea6a440d985d0",
+      "size": 275230
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -12030,8 +12050,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "84b3d8e836d23b2f86d7f3deaf6ba961904a3058b4fa010bf11d8fc708f3babe",
-      "size": 2986155
+      "hash": "d1e78a32924e282377ae489fb3cd003564127a296122585414a72c20adf53e2e",
+      "size": 2991015
     }
   ]
 }
