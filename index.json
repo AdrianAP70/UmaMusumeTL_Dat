@@ -19,6 +19,11 @@
       "size": 61631
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_chara_txt_hint_lvup00/tx_uTex_fl_chara_txt_hint_lvup00_0.png",
+      "hash": "5e747d60f7cca00af705f76e07ed48b2619e3c23cdc1c3ea48a8d2f26931b1f5",
+      "size": 146980
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_cmn_badge00/tx_uTex_fl_cmn_badge00_0.diff.png",
       "hash": "7b5c3ed19ed88296f9a76821391b08af0e333bf7316488d5bb12c5860f5b8d89",
       "size": 1499
@@ -27,6 +32,11 @@
       "path": "assets/an_texture_sets/as_uMeshParam_fl_cmn_badge00/tx_uTex_fl_cmn_badge00_0.png",
       "hash": "b56927dd1b55b228cabc37859a98fcf5b584da291803da4c20abc6edbcd56d26",
       "size": 11238
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_cmn_txt_event_reward00/tx_uTex_fl_cmn_txt_event_reward00_0.png",
+      "hash": "0c956942c14386d769fc5a6c17a6c56629f6a6bc2efb85a3f844eba572266a67",
+      "size": 66907
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_factorresearch_gauge00/tx_uTex_fl_factorresearch_gauge00_0.diff.png",
@@ -74,6 +84,16 @@
       "size": 150332
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_job_txt_result00/Utx_uTex_fl_job_txt_result00_0.png",
+      "hash": "e2435e298b15646cdee7468e2980f3dd113d7d87647effe7cc127b29a25cc812",
+      "size": 132162
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_job_txt_result00/tx_uTex_fl_job_txt_result00_0.png",
+      "hash": "e5514c94f046e425b5d603e9921f17ac8db9ad357c5af84e75b9a049774d0fb0",
+      "size": 131832
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_login_logo_30162/tx_uTex_fl_login_logo_30162_0.png",
       "hash": "9a4e39dedd8d3fa920edb5670ae575c39777494829c388a492fb8b06f258ba10",
       "size": 610777
@@ -97,6 +117,11 @@
       "path": "assets/an_texture_sets/as_uMeshParam_fl_race_result_rank00/tx_uTex_fl_race_result_rank00_0.png",
       "hash": "5ea6b2273bc0d6a9df5c23c6a01515969cec95e86a1a954034771dc82e86af09",
       "size": 3611001
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_ratingrace_result_class00/tx_uTex_fl_ratingrace_result_class00_0.png",
+      "hash": "53661a2647a2a7fb025836b190e9c693c6940b51ac13c111529a0e19f4aed670",
+      "size": 379026
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_arc_btn_trainingmenu_ssmatch00/tx_uTex_fl_singlemode_arc_btn_trainingmenu_ssmatch00_0.diff.png",
@@ -730,8 +755,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_start_tagtraining00/tx_uTex_fl_singlemode_pioneer_start_tagtraining00_0.png",
-      "hash": "867eed07c5bfaae3e9ed8d2d98c1ed6fad13fb8ce5d1e5d8b26ba51e07c4b7fa",
-      "size": 557042
+      "hash": "e9b28fe4f3b0db87f4d7f02e61c0c6af955c3526913676dedddc2c3e02c55c9c",
+      "size": 448813
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_training_facility_upgrade00/tx_uTex_fl_singlemode_pioneer_training_facility_upgrade00_0.png",
@@ -745,8 +770,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_txt_evaluateresult00/tx_uTex_fl_singlemode_pioneer_txt_evaluateresult00_0.png",
-      "hash": "8e0f93cb4477c128ccc19f40fac7ac8efc13caeff078c7c062eae61d92de3f6d",
-      "size": 959720
+      "hash": "c77611b1d55e51aada7c010ba6322ebf9e371bad195b08e78cdfdb720947921e",
+      "size": 947147
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_txt_shimatraining00/tx_uTex_fl_singlemode_pioneer_txt_shimatraining00_0.png",
@@ -755,8 +780,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_txt_tagtrainingresult00/tx_uTex_fl_singlemode_pioneer_txt_tagtrainingresult00_0.png",
-      "hash": "6e126a079af510fc1879acf3ada9ff2690b81bbba2cf6f6e0b9f3015ac6b543e",
-      "size": 974975
+      "hash": "225613871ae8cab987a89547e1f37307d2b0091bfd212ad90c314698b6668377",
+      "size": 846562
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_sectionstart01/tx_uTex_fl_singlemode_sectionstart01_0.diff.png",
@@ -859,6 +884,11 @@
       "size": 6418
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_title_chararank00/tx_uTex_fl_singlemode_title_chararank00_0.png",
+      "hash": "139e19738f035be33bf3effe2d0f18c37b5405123ca87c196a087ac223b3de2f",
+      "size": 50767
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_title_getreward00/tx_uTex_fl_singlemode_title_getreward00_0.diff.png",
       "hash": "15e49802eb915c9634071fb7f0694e6c4d4a951d7e759dcdfe4d0c68f2845cf3",
       "size": 67574
@@ -907,6 +937,11 @@
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_venus_btn_trainingmenu00/tx_uTex_fl_singlemode_venus_btn_trainingmenu00_0.diff.png",
       "hash": "86032b9953786f6cfb855ea5d9021f13e53e71646fbeb7464433ebe881a1c783",
       "size": 6343
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_teambuilding_evalution_text00/tx_uTex_fl_teambuilding_evalution_text00_0.png",
+      "hash": "2bb7a4c074a6cd6b14833e263d3dca996ca88444d900f65cb31dc00a5611c909",
+      "size": 247481
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_trainingreport_reward00/tx_uTex_fl_trainingreport_reward00_0.png",
@@ -7344,6 +7379,11 @@
       "size": 928
     },
     {
+      "path": "assets/story/data/50/1028/storytimeline_501028708.json",
+      "hash": "7dbe9d046ae5d68c759a95156c56f23e10d06f940bf44d6fb0187a6a5c88e265",
+      "size": 2304
+    },
+    {
       "path": "assets/story/data/50/1041/storytimeline_501041100.json",
       "hash": "e858eac1f1f1ace12d76f60f51378b11763f58aa23a55902cf867533352fbb16",
       "size": 11240
@@ -7882,6 +7922,16 @@
       "path": "assets/textures/chara/chr1023/petit/petit_chr_1023_102346_0071.diff.png",
       "hash": "d4c61eb65da6d63c34829a1d770192d6276330948c57bb0edf2b67ff10795cd1",
       "size": 15324
+    },
+    {
+      "path": "assets/textures/chara/chr1028/petit/petit_chr_1028_102840_0070.png",
+      "hash": "7a31d6e21d85c201815d71c76ef46899ec804317f30346c6f088b9541726da97",
+      "size": 160286
+    },
+    {
+      "path": "assets/textures/chara/chr1028/petit/petit_chr_1028_102840_0071.png",
+      "hash": "3d324cb76c7f0c52af7bb31d948e4a657b90383e0147ace0ffdae59268cecc69",
+      "size": 167629
     },
     {
       "path": "assets/textures/chara/chr1032/petit/petit_chr_1032_103201_0070.png",
@@ -10089,6 +10139,11 @@
       "size": 377708
     },
     {
+      "path": "assets/textures/outgame/campaign/title/utx_obj_title_logo_0177.png",
+      "hash": "ce7902ee53d603b4f546fe139c1e996859b0f14c83a5d939b980d562c7130fd6",
+      "size": 507763
+    },
+    {
       "path": "assets/textures/outgame/campaign/title/utx_obj_title_logo_0863.png",
       "hash": "21813447c68a13ca1653ff0c4791497e7d4e4d905730693893f270f31e917523",
       "size": 551197
@@ -10619,6 +10674,11 @@
       "size": 996371
     },
     {
+      "path": "assets/textures/outgame/comic/tex_comic_1050_01.png",
+      "hash": "adb9add05335926f5010c88e11cb8766176e07fa0b8e42fc448739fcd3ec590c",
+      "size": 1248410
+    },
+    {
       "path": "assets/textures/outgame/comic/tex_comic_1051_01.diff.png",
       "hash": "760d543849e30934450fc8af6ec6dd2df2143b70f47750275eaf0ca84bcdc1f9",
       "size": 913372
@@ -10642,6 +10702,11 @@
       "path": "assets/textures/outgame/comic/tex_comic_1053_01.diff.png",
       "hash": "d88a2e1fdc071ea200da5182124b5e812be993f1774165b229aaca335325b801",
       "size": 1183203
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1053_01.png",
+      "hash": "826c7b4c297f02a644485b985a203d744ae999f15b21df3bc3ac022e216de3f0",
+      "size": 1425586
     },
     {
       "path": "assets/textures/outgame/comic/tex_comic_1054_01.diff.png",
@@ -12010,8 +12075,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "ce8dd46edfbf9f41be219965763fe91f85c5cb0da1de0a1d90aa9ca224e06d56",
-      "size": 241815
+      "hash": "3a641f053d0f295f4de58902c79166164ef18db3f9278b5321cc413b4f49b363",
+      "size": 242005
     },
     {
       "path": "character_system_text_dict_mod.json",
@@ -12035,8 +12100,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "225b515468a707c1b53b6c5f1666bf354f3ab19aa70fa903894ea6a440d985d0",
-      "size": 275230
+      "hash": "b2812b138287c47e304763041cee79482f99a6d6c7a1b0aa961645bf17758116",
+      "size": 276522
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -12050,8 +12115,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "d1e78a32924e282377ae489fb3cd003564127a296122585414a72c20adf53e2e",
-      "size": 2991015
+      "hash": "d52002af67d0509a8b12df4e5b0d588edde281a6a295ce18a4d77c67cde9e92d",
+      "size": 3009102
     }
   ]
 }
