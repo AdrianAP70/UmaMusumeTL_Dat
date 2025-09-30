@@ -1,0 +1,69 @@
+{
+    "title": "Race Victory!",
+    "text_block_list": [
+        {
+            "name": "Hishi Akebono",
+            "text": "Yaaay~~! First place!!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Fufu, everyone who cheered for me is smiling, and \nthat makes it super Bono☆"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hey, Trainer, I want to ask you too... how was my \nrun today?",
+            "choice_data_list": [
+                "It was totally Bono!",
+                "Could use just a little more!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Mmmmm~! Nice Bono☆"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ehehe, seeing you smile too, Trainer, makes me so \nhappy~!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "When I see your smile, Trainer, somehow—"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I feel safe... and now I’m getting hungry~!",
+            "choice_data_list": [
+                "<size=30>Let’s celebrate with chanko hotpot when we get back!</size>",
+                "<size=30>We’ll celebrate with chanko hotpot when we get back!</size>"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yay☆ I’ll eat a ton and give it my all next time \ntoo~!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Huh... does that mean it wasn’t enough?",
+            "choice_data_list": [
+                "You can bring out even more smiles!",
+                "<size=30>You’re someone who can bring out even more smiles!</size>"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "........!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Of course! Leave it to me, Trainer!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hehe, my arms are itching to go! I’ll turn the whole \nvenue into a smiling chanko hotpot~!!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With the next race ahead, Hishi Akebono looks more \nthan fired up!"
+        }
+    ]
+}

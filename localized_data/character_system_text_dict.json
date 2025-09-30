@@ -76,7 +76,8 @@
         "2031": "Come on, guys, let's go!",
         "20046": "Let's go!",
         "80000": "that's enough for today",
-        "140008": "chuckling"
+        "140008": "chuckling",
+        "400012": "Here are the event missions. Fufu... for you, this might be way too easy?"
     },
     "1006": {
         "11": "Cygames",
@@ -1821,7 +1822,8 @@
     "1055": {
         "11": "Cygames",
         "12": "Umamusume, Pretty Derby!",
-        "920000": "I'm coming!"
+        "920000": "I'm coming!",
+        "400001": "Neicha, Laurel, Mayano... even a scarecrow!? Oh no... Not enough tickets!"
     },
     "1056": {
         "11": "Cygames",
