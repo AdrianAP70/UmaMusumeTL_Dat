@@ -5138,5 +5138,22 @@
     "SingleMode194106": "$(scale 80)Factor Designation Path",
     "SingleMode194118": "Set",
     "SingleMode194105": "Factor Assignment Check",
-    "SingleMode194120": "Factor Assignment Check"
+    "SingleMode194120": "Factor Assignment Check",
+    "Common626014": "There are no campaigns currently being held.",
+    "Shop626030": "Reroll Sparks",
+    "Common626018": "No TP/Carats cost for reacquiring Factors during the valid period!  ",
+    "Shop626031": "Factor Selection",
+    "Common626019": "$(nb)$(scale 80)No Carats cost for selecting Factors during the valid\nperiod!",
+    "Shop626036": "Breakdown of Expiration Details",
+    "Common626013": "By purchasing UmaMask, you can receive special benefits.",
+    "Race0530": "Lack of Stamina",
+    "Race0504": "$(scale 90)Your speed dropped significantly because you ran out of stamina mid-race. Try training your Stamina more.  ",
+    "SingleMode0428": "Continue using alarm clock?",
+    "SingleMode0429": "・The slot number will be re-drawn.",
+    "SingleMode0430": "$(nb)・Motivation +1, for next race only.",
+    "SingleMode0431": "Does not increase if already in Best Condition. ",
+    "SingleModeScenarioFree425009": "$(scale 90)It will not result in <color=#ff911c>Training End</color> without continuing.",
+    "SingleMode0432": "$(nb)$(scale 80)Daily free use, {0} Left!",
+    "Race0058": "Rewards that exceed the <color=#ff911c>limit</color> will be sent to your Mailbox.",
+    "SingleMode0410": "Reserved Race in Progress"
 }

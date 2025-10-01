@@ -44341,7 +44341,8 @@
         "305": "I want to 『be there』 for you",
         "306": "From \"4.2 Light Years\" Away",
         "307": "You are \"scintillation\"",
-        "308": "Because 『ILY』"
+        "308": "Because 『ILY』",
+        "381": "Go for it, Crown!"
     },
     "192": {
         "10001": "Trainer's Office",
@@ -50683,12 +50684,21 @@
         "5": "$(scale 80)Daahahaha! It can't \nget better than this!"
     },
     "377": {
-        "2": "Increased Attempts"
+        "2": "Increased Attempts",
+        "1": "Increased Rewards"
     },
     "416": {
         "1": "Uma Stroll",
         "3": "Uma Stroll (Sea)",
         "2": "Gal Stroll",
         "4": "KFC Stroll"
+    },
+    "382": {
+        "1": "Increases the amount of obtainable items during Training.",
+        "2": "Get 3 extra tickets each day."
+    },
+    "378": {
+        "1": "Increases the amount of obtainable items during Training.",
+        "2": "Get 3 extra tickets each day."
     }
 }
