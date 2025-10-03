@@ -1,8 +1,222 @@
 {
-  "title": "Go for it, Crown!",
-  "text_block_list": [
-    {
-      "text": "A large red-and-white striped tent came into view. As I pulled out my ticket with growing excitement, the scent of butter drifted in from somewhere, tickling my nose."
-    }
-  ]
+    "title": "Go for it, Crown!",
+    "text_block_list": [
+        {
+            "text": "A large red-and-white striped tent came into view. As I pulled out my ticket with growing excitement, the scent of butter drifted in from somewhere, tickling my nose.",
+            "choice_data_list": [
+                "Um... where’s the entrance?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Shall I take your hand? Lost little lamb."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Fufu, did that tickle? Sorry, your cute ears were right there, and I couldn’t \nresist teasing you."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "The venue is just ahead! Are you ready to have a buono time?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I’ll make sure you’re completely full and satisfied!! Come on, let’s go!!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Probieren Sie! Sweet and rich like stollen――"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Even if bad stuff happens? Like, you know? Expect an awesome time that’ll flip your mood around."
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Hey, it’s right there! Can you see it too? Can you hear it?――The feeling of a huge marvelous is coming☆★☆"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Ahaha☆ Welcome! To the ‘Delicious☆Marvelous★Circus!!’"
+        },
+        {
+            "text": "Event title logo displayed."
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "When I was still little, the circus came to town!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "There were so many stalls lined up! It was already marvelous before the show even began☆ The smell of popcorn, kids’ excited voices, colorful balloons!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "――And once inside, it was packed with heart-pounding excitement!! The performers, knowing the risks, still――"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "They flew through the air. They danced midair.――All for the smiles of the audience. There was a marvelous born only from polishing the desire to entertain☆"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Ahaha, my heart kept pounding☆ I was so surprised so many times! And then I thought! Someday, I want to be like that too――"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "That’s why, I want to challenge it☆ At the Seitei-sai, with a circus!!!!"
+        },
+        {
+            "name": "Executive Committee Chair",
+            "text": "……I’m sorry, Marvelous. I understand your passion very well, but... in the end, the teachers didn’t grant permission."
+        },
+        {
+            "name": "Executive Committee Chair",
+            "text": "A circus might not be possible at this time……!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Ehhhhhhhhh!!!?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I see... Could you tell us why permission wasn’t granted? Please share the specific reasons."
+        },
+        {
+            "name": "Executive Committee Chair",
+            "text": "Yes. The major points were... ‘staffing’ and ‘safety.’ These two were flagged as concerns――"
+        },
+        {
+            "name": "Executive Committee Chair",
+            "text": "……At this scale, there’s no precedent. So the worry is that without enough staff, it may collapse midway... and then there’s…"
+        },
+        {
+            "name": "Executive Committee Chair",
+            "text": "Regarding safety――most of the acts involve risks that could lead to injuries if they fail. We cannot approve a program that would make fans anxious at a fan appreciation festival."
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Hmm, I see. Then, if we clear those two issues, it’ll be fine☆"
+        },
+        {
+            "name": "Executive Committee Chair",
+            "text": "W-well. Theoretically yes! But... it’s not something easily done, you know?"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Yeah!! Of course I know it won’t be easy! But――"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "The true marvelous lies beyond that☆★☆"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "It might be hard. It might be impossible. But overturning that is what makes it Marvelous☆ So let’s do it!!!"
+        },
+        {
+            "name": "Executive Committee Chair",
+            "text": "――――"
+        },
+        {
+            "name": "Executive Committee Chair",
+            "text": "…A-alright. I’ll try to support you however I can toward making it real!!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Fufu, thanks～! Alright! Then first, let’s gather our comrades! Ooooh!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Ughhh... no way. Losing a nail... that was one of my main lineup, you know～～～!?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Don’t be too down. I’ll help look later too. Let’s check around the cafeteria next."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Uuugh... thanks, Flash... When I’m at my limit, you’re like, number one in the ‘Uma Musume I want by my side’ ranking, right? Seriously... huh?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Alright, one more time. When I snap my fingers... now!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...Huh!? What was that!? Seriously, how’d you do that!?"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Here you go～! …Wait? Wasn’t this carrot flavor? Then, this one? …Or maybe this one?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Wait, what the!? Is your pocket another dimension or something!?"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Yes! Yes! Thanks for the clapping☆ Here we goooooo, take this★☆★"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Whoa!! You can do that!? Never seen that even on Umatokku!!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Everyone～, thanks for watching today～♪ Actually, we’re doing a circus at the Seitei-sai too～."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I’d be really happy if you thought, ‘I want to join too～.’ Here! Take a flyer～!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "………Ah! Before I knew it, I was completely absorbed."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "See～～～? That was kinda fun! Plus, it boosted my mood! Instantly."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "…A circus, huh. Haha, sounds pretty fun!"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "So yeah, count me in～! Let’s blow the roof off with the circus! Woo～☆"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Yessss☆ Jordan’s joining us too! …Hey hey, Flash～? Let’s do the circus together★☆★"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Yes, I suppose so. It seems there will be many problems, but... I believe it’s a performance that has the power to entertain others."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Actually, I also remembered… Fastnacht. The excitement I felt when I saw the carnival back home. So――"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "It may be small, but I’d like to lend my help."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Wait. Wait, please. You haven’t even gotten approval yet? ‘Staffing’? ‘Safety’? Only after handling those?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Yeah. First, solve those issues, and then we can hold the circus!――Let’s work hard together, Flash!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "…Yes. Since I’ve accepted, I’ll definitely see it through. I plan to treat achieving the goal as mandatory and set a detailed schedule, but――"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "………Streng dich an!"
+        }
+    ]
 }
