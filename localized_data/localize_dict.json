@@ -560,8 +560,8 @@
     "Circle0333": "$(nb)Swipe to move camera.",
     "Circle0334": "Request",
     "Circle0335": "Music Index",
-    "Circle0336": "Voiced",
-    "Circle0337": "Silent",
+    "Circle0336": "$(nb)$(scale 80)Voiced",
+    "Circle0337": "$(nb)$(scale 80)Silent",
     "Circle0339": "Club ranking rewards are given the 1st day of every month \nat 5:00 to those who have been a member at least 14 days",
     "Circle0340": "Clubs are eligible in rankings the month after their creation",
     "Circle0345": "About Ranks",
@@ -5155,5 +5155,11 @@
     "SingleModeScenarioFree425009": "$(scale 90)It will not result in <color=#ff911c>Training End</color> without continuing.",
     "SingleMode0432": "$(nb)$(scale 80)Daily free use, {0} Left!",
     "Race0058": "Rewards that exceed the <color=#ff911c>limit</color> will be sent to your Mailbox.",
-    "SingleMode0410": "Reserved Race in Progress"
+    "SingleMode0410": "Reserved Race in Progress",
+    "LiveTheater6620006": "If this option is turned OFF, the Camera Reset button will not appear during the Live, and will only be shown while paused. Even when hidden, you can still reset the camera by tapping the bottom-left corner of the screen.",
+    "LiveTheater6620005": "Show the Camera Reset button during the Live.",
+    "LiveTheater6620004": "This song is played in portrait mode.\nIt supports the Trainer Camera feature.",
+    "LiveTheater6620003": "Gyro",
+    "LiveTheater6620002": "Swipe",
+    "LiveTheater6620001": "Controls"
 }
