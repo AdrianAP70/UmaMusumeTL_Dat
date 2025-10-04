@@ -75,8 +75,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_landscape_btn00/tx_uTex_fl_footer_landscape_btn00_0.png",
-      "hash": "ec14be38bf854a0bcc21f2a1a726f9c6cb1d951d289f4dd9088ce8ea9aa68ee3",
-      "size": 119410
+      "hash": "8fcb9f9ce8489c02f0d28423ca276b7e27c26f1f1e8a34f64634a9ac119555f2",
+      "size": 118307
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_gacha_chara_piece00/tx_uTex_fl_gacha_chara_piece00_0.png",
@@ -8049,6 +8049,16 @@
       "size": 167338
     },
     {
+      "path": "assets/textures/chara/chr1007/petit/petit_chr_1007_100701_0070.png",
+      "hash": "9ff535882c5aeaf13b0fb807d0b5cc52cbb9aff5798248e1d4705e1d22a9ffb5",
+      "size": 162166
+    },
+    {
+      "path": "assets/textures/chara/chr1007/petit/petit_chr_1007_100701_0071.png",
+      "hash": "ed7680ba057c8f6c09a50031112ac6a832323cad85adda673868c9de04db463d",
+      "size": 174401
+    },
+    {
       "path": "assets/textures/chara/chr1008/petit/petit_chr_1008_100801_0070.png",
       "hash": "e65391f8afad8062e05d07e5d5d91f61636f31f2ed9d993e32e763a695661e17",
       "size": 153102
@@ -12210,7 +12220,7 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_badge_shimatraining00.json",
-      "hash": "c1a71f1443c90017e5449754d23c4a571b335eb15753a39a6ceca857fa3caef3",
+      "hash": "48ea3e8a35b94529194c93e683f4323fee2396b1d09ba453a778a46df31c0fc0",
       "size": 332
     },
     {
@@ -12295,8 +12305,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "3a641f053d0f295f4de58902c79166164ef18db3f9278b5321cc413b4f49b363",
-      "size": 242005
+      "hash": "8afc41ab4bad7b5deb99b2e89d4d89b2999fe5383ff793aa3e52a438507a3722",
+      "size": 242165
     },
     {
       "path": "character_system_text_dict_mod.json",
