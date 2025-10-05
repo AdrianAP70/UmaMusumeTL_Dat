@@ -1,0 +1,32 @@
+{
+    "title": "Tutorial",
+    "text_block_list": [
+        {
+            "text": "Good work. Right now, we’re giving a detailed \nexplanation about the 'Uninhabited Island Project' \nto those who are interested――",
+            "name": "Tazuna Hayakawa "
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "<username>, do you need an explanation?",
+            "choice_data_list": [
+                "Listen to the explanation",
+                "Skip the explanation"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Alright then, what would you like me to explain?"
+        },
+        {
+            "name": "Monologue",
+            "text": "When it comes to the 'Uninhabited Island Project' \ntraining, the things I’d like to ask about are――",
+            "choice_data_list": [
+                "About the 'Uninhabited Island Project'",
+                "About 'Construction Plans'",
+                "About 'Development Points'",
+                "About 'Island Training'",
+                "I’m good for now"
+            ]
+        }
+    ]
+}

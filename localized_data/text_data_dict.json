@@ -46570,7 +46570,17 @@
         "501132708": "Race Victory!",
         "501131708": "Race Victory!",
         "501127708": "Race Victory!",
-        "400010200": "Target Race Victory!"
+        "400010200": "Target Race Victory!",
+        "400002041": "Tutorial",
+        "400003027": "Tutorial",
+        "400010002": "Tutorial",
+        "400009002": "Tutorial",
+        "400008002": "Tutorial",
+        "400007001": "Tutorial",
+        "400006002": "Tutorial",
+        "400005000": "Tutorial",
+        "400004002": "Tutorial",
+        "400011001": "Tutorial"
     },
     "264": {
         "29": "Hikari (NPC)"
