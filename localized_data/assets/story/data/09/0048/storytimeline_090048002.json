@@ -1,193 +1,193 @@
 {
-    "title": "ときめきマジシャン！",
+    "title": "Tokimeki Magician!",
     "text_block_list": [
         {
-            "name": "フジキセキ",
-            "text": "改めまして、ようこそ。\n私たちのサーカスへ。"
+            "name": "Fuji Kiseki",
+            "text": "Once again, welcome. To our circus."
         },
         {
-            "name": "フジキセキ",
-            "text": "今日はなんと、特別なものを用意したんだ。\n君が憧れる――君の知らない“フジキセキ”さ。"
+            "name": "Fuji Kiseki",
+            "text": "Today, I’ve prepared something special. The Fuji Kiseki you admire—one you’ve never seen before."
         },
         {
-            "name": "フジキセキ",
-            "text": "たとえば、普段は見せないこんな私も。\n…………ふふっ。"
+            "name": "Fuji Kiseki",
+            "text": "For example, a side of me I don’t usually show... hehe."
         },
         {
-            "text": "着飾ったこんな私も。お見せしたうえで……\nその先。新しい私を見せたいんだ。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "Even the me all dressed up like this. I’ll show you that, and beyond that... I want to reveal a new me."
         },
         {
-            "text": "さあ、どうか釘付けになって。\n――マジックショーの開幕だ。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "Now then, be captivated. The magic show begins."
         },
         {
-            "text": "んんっ……それでは問題を整理しましょう。『人員』『安全性』\n――まず解決すべき課題は『人員』でしょうか？",
-            "name": "エイシンフラッシュ"
+            "name": "Eishin Flash",
+            "text": "Mmm... then let’s organize the issues. 'Staff' and 'Safety.' The first problem to address should be 'Staff,' correct?"
         },
         {
-            "text": "人員か……ミニサーカスのおかげで、フラッシュたちは\n加入してくれたけど――ふむ。効率はあまりよくないかな？",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "Staff, huh... Thanks to the mini-circus, Flash and the others have joined, but hmm... efficiency isn’t great, is it?"
         },
         {
-            "text": "ねえっ☆　じゃあさじゃあさ、配信とか校内放送とかで\n『おーい！　サーカスやろー★』って、呼びかけるのはっ？",
-            "name": "マーベラスサンデー"
+            "name": "Marvelous Sunday",
+            "text": "Hey☆ Then how about we use a livestream or school broadcast to call out, 'Hey! Let’s do a circus★'?"
         },
         {
-            "text": "配信……ええ、いいと思います。\nしかし、ただ呼びかけるだけで来てくれるでしょうか？",
-            "name": "エイシンフラッシュ"
+            "name": "Eishin Flash",
+            "text": "A livestream... yes, that could work. But will they really come just from that call?"
         },
         {
-            "text": "……うん。それなら、私に任せてくれないかな？\n一度やってみたかったんだ――生配信でマジックショー！",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "...Yeah. In that case, could you leave it to me? I’ve always wanted to try it—doing a live magic show!"
         },
         {
-            "text": "ここで、カメラを一瞬だけ隠して……\n――いや、これだと“わかる”人もでてくるかな。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "Here, I’ll hide the camera for just a moment... Hmm, no, that might let some people figure it out."
         },
         {
-            "text": "ちょっと確認しよう。\n録画を止めてくれるかい？",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "Let’s check for a moment. Could you stop the recording?"
         },
         {
-            "text": "……あはっ。面白いな、こう見えちゃうのか。\n生配信は、考えることがまたひとつ違うところにあるなぁ。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "...Aha, interesting. So that’s how it looks. Livestreaming really makes you think about different things, doesn’t it?"
         },
         {
-            "text": "どうどう？　上手くいきそうっ？\n本番、明日だけど！",
-            "name": "マーベラスサンデー"
+            "name": "Marvelous Sunday",
+            "text": "So, so? Does it look like it’s going well? The real thing’s tomorrow though!"
         },
         {
-            "text": "うーん、まだ成功率は低そうかな？\n私としても、手慣れたいつものマジックではないからね。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "Hmm, the success rate still looks low. Even for me, this isn’t my usual well-practiced magic, after all."
         },
         {
-            "text": "でも……ふふっ。問題はないよ。\nあと1日あるなら、充分すぎるくらいかな。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "But... hehe. No problem. If I still have one more day, that’s more than enough."
         },
         {
-            "text": "あははっ☆　わかったーっ！\nフジがそう言うなら、きっと大丈夫だねっ★",
-            "name": "マーベラスサンデー"
+            "name": "Marvelous Sunday",
+            "text": "Ahaha☆ Got it! If Fuji says that, then it’ll definitely be fine★"
         },
         {
-            "text": "ああ、もちろん。期待してくれてていいよ。\n――それに応えるのが、私だからね。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "Yeah, of course. You can expect great things. That’s what I’m here for."
         },
         {
-            "text": "お集まりのポニーちゃん、ご来場の皆々様、\nこんにちは。――貴方のフジキセキだよ。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "To all the gathered ponies and everyone attending—hello. It’s your Fuji Kiseki."
         },
         {
-            "text": "『マジック配信？』『どんなのやるの！？』……ふふ、焦らないで？\nきっと、お眼鏡にかなうものを提供してみせるから。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "'A magic stream?' 'What kind of tricks!?' ...Hehe, no need to rush. I’ll make sure to give you something truly worth watching."
         },
         {
-            "text": "私がいるここ、わかるかい？　そう、トレセン学園だね。\nでも？　私がひとたび、指を鳴らせば――3、2、1！",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "Do you know where I am right now? That’s right, Tracen Academy. But once I snap my fingers—3, 2, 1!"
         },
         {
-            "text": "――あはっ。うーん、いい天気！\nこんにちは、牛さん！　ここは空気が美味しいね！",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "Aha! What a nice day! Hello, Mr. Cow! The air is so fresh here!"
         },
         {
-            "text": "『いやいや……』『録画でしょ？　さすがに』――うんうん。\nみんながそう思うのも、よーくわかるよ。でも、本当にそうかな？",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "'No way...' 'This has to be pre-recorded, right?' Heh, I totally get why you’d think that. But... are you sure about that?"
         },
         {
-            "text": "『まって……なんで私のコメント読まれた！！？』『あっ（驚愕）』\n『そうだ、録画なら読めないはず！』『ウッソだろ、、、』",
-            "name": "コメント"
+            "name": "Comments",
+            "text": "'Wait... why did she read my comment!?' 'Ah! (shock)' 'If it was recorded, she couldn’t read it!' 'No way...'"
         },
         {
-            "text": "『背景が偽物なんじゃ？』……あははっ、面白いことを言うね！\nほら、見て！　この牛さんが偽物に見えるかい？",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "'Isn’t the background fake?' ...Ahaha, what a funny thing to say! Look, see for yourself! Does this cow look fake to you?"
         },
         {
-            "text": "そうだ！　この牛さんに今からご飯をあげようか。\n待っていて。ちょっと買ってくるよ。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "That’s it! I’ll feed the cow now. Wait right there, I’ll go buy some food."
         },
         {
-            "text": "『あれ。なんか一瞬、映像が……』",
-            "name": "コメント"
+            "name": "Comments",
+            "text": "'Huh... the video just flickered for a sec...'"
         },
         {
-            "text": "ただいま！　……あれ、ここはどこだろう？\nせっかく牛さんのご飯を調達してきたんだけど。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "I’m back! ...Huh, where am I now? I just went to get some food for the cow."
         },
         {
-            "text": "……ねえ、また別の場所にいるんですけど～～～！？\nどういう仕掛け～～～！？",
-            "name": "ウマ娘A"
+            "name": "Umamusume A",
+            "text": "Uh, hey, I’m seeing her in a completely different place now!? What kind of trick is this!?"
         },
         {
-            "text": "以上で公演は終了だよ。\nふふ、楽しんでくれたかな？",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "That’s all for today’s performance. Hehe, did you enjoy it?"
         },
         {
-            "text": "『感動した』『最高』『また観たい』……ありがとう！　少しでも\n心が動いてくれたなら嬉しいし――そんな君に、お願いがあってね。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "'That was amazing!' 'Best show ever!' 'I want to see it again!' ...Thank you! I’m happy if I moved your heart, even a little—and I have a favor to ask."
         },
         {
-            "text": "どうか、私と一緒に。\nもっと多くの人の心を、動かしてほしいんだ。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "Please, join me. Let’s move even more hearts together."
         },
         {
-            "text": "はーいっ☆　入団希望の列はこっちだよっ！\n並んで、並んでー！",
-            "name": "マーベラスサンデー"
+            "name": "Marvelous Sunday",
+            "text": "Okaaay☆ Those who want to join, line up over here! Form a line, everyone!"
         },
         {
-            "text": "あっ、フジ先輩だっ！　配信見ましたっ！\nあれ見てたら、お力になりたいと思って！",
-            "name": "ウマ娘A"
+            "name": "Umamusume A",
+            "text": "Ah, Fuji! I saw your stream! Watching it made me want to help out!"
         },
         {
-            "text": "わ、私も……！　もらった分の、お礼……じゃないですけど。\n楽しそうだなって……はい。",
-            "name": "ウマ娘B"
+            "name": "Umamusume B",
+            "text": "M-me too...! It’s not exactly payback for what I got, but... it looked so fun, so... yes."
         },
         {
-            "text": "ふふっ、ありがとうポニーちゃんたち。\nその気持ちが嬉しいよ。――これからよろしくね！",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "Hehe, thank you, ponies. Your feelings make me happy. Let’s do our best together from here on!"
         },
         {
-            "text": "私も拝見しましたが……その、非常にワクワクしました。\n意欲的な“遊び心”に満ちていて、夢中になりました。",
-            "name": "エイシンフラッシュ"
+            "name": "Eishin Flash",
+            "text": "I watched it as well... and honestly, it was thrilling. It was full of playful creativity, and I was completely absorbed."
         },
         {
-            "text": "あははっ、やったあ！\n少しでも挑戦しているように見えていたら、嬉しいな。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "Ahaha, I did it! I’m glad if it looked like I was challenging myself, even a little."
         },
         {
-            "text": "それが、今回の配信のテーマだったから。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "That was the theme of this stream, after all."
         },
         {
-            "text": "いい機会だし、そろそろ見せたいんだ。\nひとつ上の挑戦をする私――みんなが望む以上の“私”を。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "It’s a good opportunity, and I think it’s time I show it—a version of me taking on a higher challenge, one beyond what everyone expects."
         },
         {
-            "text": "フジさんならこれくらいやってくれる、のその先――\nそれをやってこそ、フジキセキでしょう？",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "The me who does even more than people say 'Fuji can handle this much'—that’s what makes me Fuji Kiseki, right?"
         },
         {
-            "text": "だから、目を離さないで。\n今日より明日、明日より明後日のほうが――",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "So don’t take your eyes off me. Because tomorrow, and the day after tomorrow..."
         },
         {
-            "text": "私は、君の見蕩れる私になっているはずだから。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "I’ll become a version of myself you can’t take your eyes off."
         },
         {
-            "text": "……ねえねえっ☆　もしかして、フジがサーカスやる理由もそれ？\n新たな挑戦！　したいの？",
-            "name": "マーベラスサンデー"
+            "name": "Marvelous Sunday",
+            "text": "Heeey☆ Could it be, Fuji’s reason for doing the circus is that too? A new challenge! You want to take one on?"
         },
         {
-            "text": "うん！　そうだよ。\nサーカスの舞台でなら、私を試せる――そう思ってね。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "Yeah, that’s right! On the circus stage, I can test myself—that’s what I thought."
         },
         {
-            "text": "マーベラーーース☆★☆　いいねいいねっ★\nフジもやる気だっ！！　これなら、成功間違いなしっ！",
-            "name": "マーベラスサンデー"
+            "name": "Marvelous Sunday",
+            "text": "Marveeeloos☆★☆ That’s awesome★ Fuji’s fired up!! With that attitude, there’s no way we can fail!"
         },
         {
-            "text": "あはは、気が早いなぁ。……でも、うん。\n成功させようね、きっと。",
-            "name": "フジキセキ"
+            "name": "Fuji Kiseki",
+            "text": "Ahaha, you’re so eager. ...But yeah, let’s make it a success, for sure."
         }
     ]
 }
