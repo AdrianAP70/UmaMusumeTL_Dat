@@ -1039,19 +1039,9 @@
       "size": 3043029
     },
     {
-      "path": "assets/atlas/common/DIScommon.diff.png",
-      "hash": "ff4d1511868cbfa2804628c7391ca39406f922d7cf8b27f2c7766ea5474993c8",
-      "size": 324648
-    },
-    {
-      "path": "assets/atlas/common/DIScommon.png",
-      "hash": "098daf43d793b03ea8f0d14d64de7d4cd21dda1c048ed317aaa5bc103ef44765",
-      "size": 2163992
-    },
-    {
       "path": "assets/atlas/common/common.diff.png",
-      "hash": "b8c47ccd859cb0194070ddbb656bf8249ce8674c8cf3edf144d6f84b66291140",
-      "size": 32912
+      "hash": "257dd16bb7120a5e0eecc392e3ead6beebeaa879cda7ab077279a80ae8ee2f1f",
+      "size": 32815
     },
     {
       "path": "assets/atlas/common/common.json",
@@ -1060,8 +1050,8 @@
     },
     {
       "path": "assets/atlas/common/common.png",
-      "hash": "9235d9dfc3a83ed0478239cb8b1f5adef5cc37de2e8de4478da4bb39bda03db9",
-      "size": 2197562
+      "hash": "4cd64e93b71704bb80e98a029bb233b4cc8e590b8c02a4abad8020855edbde28",
+      "size": 2234110
     },
     {
       "path": "assets/atlas/directory/directory.json",
@@ -11027,6 +11017,11 @@
       "path": "assets/textures/outgame/comic/tex_comic_1038_01.diff.png",
       "hash": "ca6b19627a6631a9a1f4973b2eaad3eec5a7b0fa4c521ae165548b999f97008a",
       "size": 983097
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1038_01.png",
+      "hash": "48a27745f603780b377637f4047c8b1d5c436ca975055efb54fda2f40e02bf2e",
+      "size": 1216589
     },
     {
       "path": "assets/textures/outgame/comic/tex_comic_1039_01.diff.png",
