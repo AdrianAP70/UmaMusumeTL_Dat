@@ -1389,19 +1389,14 @@
       "size": 238224
     },
     {
-      "path": "assets/atlas/umamusume/umamusume.diff.png",
-      "hash": "5095e5e45bdd7da62b606ff25f48e5bc5b1cf0384a588c09d5296ae83f2d3937",
-      "size": 12000
-    },
-    {
       "path": "assets/atlas/umamusume/umamusume.json",
       "hash": "078741a56b351cf66279b8f68f59ae43832ddd2c3b5a20fa335717b562d7d982",
       "size": 166
     },
     {
       "path": "assets/atlas/umamusume/umamusume.png",
-      "hash": "38135659f35d3e104bb550140e0bbee44ea300148e33557afe01f6309aa824e4",
-      "size": 453191
+      "hash": "43ae2f4ec4276e741a64160c07b0954cfd7f5f777cebf17cafbb449318a125b4",
+      "size": 222288
     },
     {
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1004001.json",
@@ -8442,6 +8437,16 @@
       "path": "assets/textures/chara/chr1068/petit/petit_chr_1068_106802_0071.png",
       "hash": "4e18e06ffe1544eea79baf3cc6e4f11bd9c526cc034dbdcfe7d322f92bfaa0f6",
       "size": 169056
+    },
+    {
+      "path": "assets/textures/chara/chr1077/petit/petit_chr_1077_107746_0070.png",
+      "hash": "c748794553d98ce407e47fee56a5f34f4cf6e10384fd9d1e4ed51e63fd712f0d",
+      "size": 159708
+    },
+    {
+      "path": "assets/textures/chara/chr1077/petit/petit_chr_1077_107746_0071.png",
+      "hash": "f976a3b34ef235c274ca946b59ed9d416b167d484b3fa027e29f39d80b140bdf",
+      "size": 166882
     },
     {
       "path": "assets/textures/chara/chr1081/petit/petit_chr_1081_108101_0070.png",
