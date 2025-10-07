@@ -1,0 +1,237 @@
+{
+    "title": "Shining Spotlight!",
+    "text_block_list": [
+        {
+            "name": "Uma Girl A",
+            "text": "We sincerely apologize for the inconvenience! Due to an accident, we are currently experiencing a power shortage and have temporarily suspended the performance!"
+        },
+        {
+            "name": "Spectator A",
+            "text": "Eh... are they okay? It looks serious... Is there anything we can do to help?"
+        },
+        {
+            "name": "Uma Girl A",
+            "text": "For those who need to move, we’ll hand out flashlights! Please feel free—oh, would you like one? Having some light might make you feel safer!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "No, I’m fine... but... having some light... makes me feel calm..."
+        },
+        {
+            "name": "Child",
+            "text": "...Hey, mister, what are you doing? If you keep your phone light on, the battery’s gonna run out, you know?"
+        },
+        {
+            "name": "Spectator B",
+            "text": "Ah, this... how should I say it? I just want them to feel safe!"
+        },
+        {
+            "name": "Spectator A",
+            "text": "--! Then I’ll do it too! Wait, if everyone does it, wouldn’t it get pretty bright!?",
+            "choice_data_list": [
+                "<size=32>...Alright. Me too!!</size>",
+                "<size=32>...Yeah. Me too!!</size>"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Lights began to flicker one by one throughout the darkened venue. Before realizing it, I had raised my phone’s flashlight too—"
+        },
+        {
+            "name": "Monologue",
+            "text": "As if to cheer for the girls who had entertained us until now. Before long, the audience seats had turned into a dazzling sea of light—"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "...Ahaha☆"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "I was supposed to give them something... but I ended up receiving it instead."
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "But that’s right! That’s what Marvelous is!! Something everyone creates☆ Something everyone discovers★"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "That’s why this sea of light everyone made is also the crystallization of our Marvelous...—Ah!!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Hey! I just thought of it! A way to reach the biggest Marvelous ever☆"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Ahaha☆ Thank you, everyone! This sparkling sea—it’s sooooo Marvelous!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Thanks to you, I’ve been able to walk this far! Because your lights guided me—so I won’t lose my way to the stage!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "And you know what? Have you noticed? The sea of light you all created... it’s reflected above too. Look up, at the ceiling!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Hmm? Can’t see it yet?—Ahaha. Then I’ll show you right now! Here we goーーー☆★☆"
+        },
+        {
+            "name": "Uma Girl A",
+            "text": "It’s coming...! Everyone, ready? On my cue...!"
+        },
+        {
+            "name": "Marvelous and the others",
+            "text": "3, 2, 1! MAAARVELOUS☆★☆"
+        },
+        {
+            "name": "Spectator A",
+            "text": "Waaah!? What’s this... the circus tent is!!!?"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "(...What brilliant improvisation. If they can’t project the deep sea, tying it to the sea of light given by the audience—and using the real starry sky instead...)"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "I’m glad... that this is Hokkaido."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "(Thanks to the clear air, the stars and moon are functioning as part of the stage. With this much brightness, they can truly show the performance they envisioned.)"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "(...Heh. Maybe from the very moment they decided to perform here, this grand finale was destined to happen...)"
+        },
+        {
+            "name": "Monologue",
+            "text": "One month before the circus performance—"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Actually! The circus—I want to hold it in Hokkaido☆★☆"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...Huh? The circus, in Hokkaido...? What do you mean? Isn’t that for the Sacred Hoof Festival? Wouldn’t that normally be held at the academy?"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Yeah, that’s right! But Marvelous has to reach the whole country!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "So let’s go beyond☆★☆"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "A-are you serious...?"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Of course! Marvelous can be conveyed even through a screen! But still, I want to meet everyone out there in person!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Because when you hand-deliver it, Marvelous becomes even moooore Marvelous☆★☆"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "People who can’t see the festival! People who can’t watch races live! What if the circus came to them?"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Ahaha☆ They’d be surprised for sure! Smiling from ear to ear! That’s truly Marvelous★"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "So if such wonderful things are waiting—then we have to go☆★☆"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "...Ahaha. Wow. You’re serious?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "That’s awesome! Damn, that’s some crazy good vibes!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "...I understand your passion. But as things stand, even holding the circus itself has raised concerns about ‘personnel’ and ‘safety.’"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "And if we hold it outside the academy... naturally, the issues we must overcome will be far greater than for any event held within school grounds."
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Yeah, that’s true! That’s why—everyone together! Let’s make it happen! Oh☆"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Fuji~! Great job! Ahaha☆ The stream was super fun! Marvelous★"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe, thanks! That’s exactly the feedback I wanted to hear."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oh, by the way. The promotion went well too. People from other regions who watched the stream have started applying to join as staff!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "The recruitment on Umatta!? Yayーーー☆ It reached them, Marvelous! To everyone out there!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Yeah, all that effort paid off. With this, we might be able to gather enough local staff."
+        },
+        {
+            "name": "Uma Girl C",
+            "text": "Yeah... alright! The success rate just shot up! At this rate, even the real show—"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Maaaarvelous☆★☆ Everyone’s performance is perfect now! Thanks to Akebono!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Eh~? That’s not true~. I just helped everyone relax a little."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I get it though, when you’re going all the way out there, you can’t help but think, ‘We can’t show them anything subpar!’"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "That’s why this is everyone’s real strength. I’m just glad you can all show it now♪"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "We’re hereーーー☆ Hakodate, yeahーーー!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Yeeahーーー☆★☆ Tomorrow’s the big day! I hope tons of people come to see us★"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Riiight! Then let’s go check out the tent already♪ I’ll show you the way! It’s quicker from this exit!"
+        },
+        {
+            "name": "Marvelous Sunday",
+            "text": "Oh! You seem familiar with this place! Have you been to this airport before?"
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "Yeah, I’ve raced here a few times. And, well..."
+        },
+        {
+            "name": "Tosen Jordan",
+            "text": "That’s why I wanted to come back. One more time. Here."
+        }
+    ]
+}
