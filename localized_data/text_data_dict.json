@@ -2043,7 +2043,9 @@
         "149": "A fragment of a rainbow-colored gemstone rumored to draw forth hidden power. Tradable for Rainbow Limit Break Crystals at the shop.",
         "145": "A golden gemstone rumored to draw forth hidden power. Used to uncap SR support cards.",
         "144": "A rainbow-colored gemstone rumored to draw forth hidden power. Used to uncap SSR support cards.",
-        "4": "Mile shoes used to raise Awakening Lv."
+        "4": "Mile shoes used to raise Awakening Lv.",
+        "296": "Permanently increases the maximum number of Daily Sales that can open per day.",
+        "287": "Can be exchanged for 10,000,000 Monies each."
     },
     "13": {
         "10001": "Tutorial gacha",
@@ -3821,7 +3823,9 @@
         "291": "Factor Research Report",
         "282": "Stroll Mood",
         "223": "KFC Original Chicken Barrel",
-        "264": "Hat Sabure"
+        "264": "Hat Sabure",
+        "296": "Daily Sale opening Limit Up",
+        "287": "Gold Bar"
     },
     "24": {
         "1": "Sprint shoes used to raise Awakening Lv. ",
@@ -4434,7 +4438,9 @@
         "291": "Agnes Tachyon's research report. Can be used to improve a trait.",
         "282": "Umamusume’s desire to go for a stroll. Each item allows 1 Uma Stroll.",
         "264": "A famous and very popular sweet in BoCity! Its taste is startlingly good! When used, restores 30 TP",
-        "223": "A barrel filled with fried chicken made with a secret recipe. Restores 100 TP when used."
+        "223": "A barrel filled with fried chicken made with a secret recipe. Restores 100 TP when used.",
+        "296": "Permanently increases the maximum number of Daily Sales that can open per day.",
+        "287": "Can be exchanged for 10,000,000 Monies each."
     },
     "25": {
         "48": "Mainly obtained by converting R support cards in the support card vault.",
@@ -13767,7 +13773,10 @@
         "20004": "Carnival Pt \nShop",
         "20005": "Carnival Pt \nShop",
         "20006": "Carnival Pt \nShop",
-        "20007": "Carnival Pt \nShop"
+        "20007": "Carnival Pt \nShop",
+        "1002": "Special Monies\nExchange",
+        "1001": "Monies Exchange",
+        "1003": "Monies \nExchange"
     },
     "41": {
         "8201": "Unlocked after watching Main Story Volume 1, Chapter 1, Ep. 14",
@@ -18867,7 +18876,8 @@
         "308": "$(scale 90)Let your Trainee <color=#ff9900>carry on veteran's legacies</color>. Their <color=#ff9900>Legacy Sparks </color>will increase attributes and aptitudes at the start of training, and cause <color=#ff9900>Legacy Events</color> during training to help them grow. Veterans won't disappear from your Hall of Fame, so take advantage to raise ever stronger Trainees!",
         "293": "$(scale 90)Get 1 upon login, and 1 upon completing development. <color=#ff9900>Up to 2 per day</color> of ‘Stroll Mood’ can be obtained. ‘Stroll Mood’ can be <color=#ff9900>stocked up to 10</color>. 1 ‘Stroll Mood’ = 1 stroll.",
         "294": "$(scale 90)Going for a stroll increases the <color=#ff9900>affection</color> with the <color=#ff9900>Trainee stroll partner</color>. Additionally, a <color=#ff9900>stroll scene</color> will play depending on the selected location. Scenes once viewed can be replayed from the Uma-sanpo screen, by tapping the Trainee icon in the unlocked scenes list.\n",
-        "314": "$(scale 90)In the Trainer’s Agenda, you can <color=#ff9900>skip</color> contents such as Daily Races and the Team Trials! You can also <color=#ff9900>skip them all at once</color>. Decide on your <color=#ff9900>skip policy</color> and enjoy playing a lot of content!"
+        "314": "$(scale 90)In the Trainer’s Agenda, you can <color=#ff9900>skip</color> contents such as Daily Races and the Team Trials! You can also <color=#ff9900>skip them all at once</color>. Decide on your <color=#ff9900>skip policy</color> and enjoy playing a lot of content!",
+        "329": "$(scale 90)<color=#ff9900>Uncap Crystals</color> can be exchanged for Support Cards eligible for Limit Break. Exchanged Support Cards will be automatically <color=#ff9900>Uncapped</color>. You cannot exchange for Support Cards you do not own or those already fully Uncapped."
     },
     "64": {
         "6": "Reward from \"{0}\".",

@@ -5162,5 +5162,14 @@
     "LiveTheater6620003": "Gyro",
     "LiveTheater6620002": "Swipe",
     "LiveTheater6620001": "Controls",
-    "Error0022": "Under Maintenance"
+    "Error0022": "Under Maintenance",
+    "Common511002": "Unlock Crystal\nExchange",
+    "Shop511007": "Crystal Info",
+    "Shop511004": "Please select Support Card to exchange",
+    "Shop511003": "<atlas=PreIn sprite=utx_ico_notice_00/><color=#ff4400>You can select from Support Cards eligible for Performance Uncap.</color>",
+    "Common511001": "Limit Break Lv",
+    "Outgame511049": "Release Date",
+    "Outgame511050": "Limit Break",
+    "Common600001": "9,999 exchanges/trade",
+    "Shop511002": "Support Cards with Max Limit Break unlocked will be sent to Inventory."
 }
