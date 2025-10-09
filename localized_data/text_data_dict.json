@@ -15835,7 +15835,7 @@
         "101171": "$(nb)If you overtake someone during the Middle Leg or later, then on the Last Straight, your speed will increase; (End only) if you overtake at least three times, your speed will increase tremendously instead.",
         "101191": "$(nb)If you're in the back of the pack 2/3 through the race, your will get a speed boost; then, if it's a Medium or Long distance race in Nakayama or Hanshin and you're on any straight, you will get a great speed boost.",
         "101201": "$(nb)If you're in the first half of the pack during at the fourth furlong, your speed will increase; it will increase tremendously if you've also activated the No Second Thoughts and No Third Chances skills.",
-        "101211": "$(nb)If you overtook someone during the Final Corner, then during the Last Spurt, your speed will increase; if it's a sprint or Mile race and you're in the middle of the pack, it will increase greatly.",
+        "101211": "$(scale 80)$(ho 1)$(nb)If you overtook someone during the Final Corner, then during the Last Spurt, your speed will increase; if it's a sprint or Mile race and you're in the middle of the pack, it will increase greatly.",
         "101241": "$(nb)If you're in the first half of the pack at a random time during the second half of the Middle Leg, your speed will increase; it will increase greatly if you're no more than 10m from the lead in 1600–2000m races.",
         "101271": "$(nb)If you're in the middle of the pack on any straight during the second half of the race, your speed will increase; the effect is stronger in Long races",
         "101311": "$(nb)If you're not in the front halfway through the race, you will get a speed boost; (sprint/Mile only) then, during the Last Spurt, you will get a great speed boost",
@@ -16869,7 +16869,7 @@
         "901171": "$(nb)If you overtake someone during the Middle Leg or later, then on the Last Straight, your speed will increase; (End only) if you overtake at least three times, your speed will increase tremendously instead",
         "901191": "$(nb)If you're in the back of the pack 2/3 through the race, your will get a speed boost; then, if it's a Medium or Long distance race in Nakayama or Hanshin and you're on any straight, you will get a great speed boost",
         "901201": "$(nb)If you're in the first half of the pack during at the fourth furlong, your speed will increase; it will increase tremendously if you've also activated the 無二 and 無三 skills",
-        "901211": "$(nb)If you overtook someone during the Final Corner, then during the Last Spurt, your speed will increase; if it's a sprint or Mile race and you're in the middle of the pack, it will increase greatly",
+        "901211": "$(nb)2If you overtook someone during the Final Corner, then during the Last Spurt, your speed will increase; if it's a sprint or Mile race and you're in the middle of the pack, it will increase greatly",
         "901241": "$(nb)If you're in the first half of the pack at a random time during the second half of the Middle Leg, your speed will increase; it will increase greatly if you're no more than 10 m from the lead in 1600–2000 m races",
         "901271": "$(nb)If you're in the middle of the pack on any straight during the second half of the race, your speed will increase; the effect is stronger in Long races",
         "901311": "$(nb)If you're not in the front halfway through the race, you will get a speed boost; (sprint/Mile only) then, during the Last Spurt, you will get a great speed boost",
@@ -18877,7 +18877,8 @@
         "293": "$(scale 90)Get 1 upon login, and 1 upon completing development. <color=#ff9900>Up to 2 per day</color> of ‘Stroll Mood’ can be obtained. ‘Stroll Mood’ can be <color=#ff9900>stocked up to 10</color>. 1 ‘Stroll Mood’ = 1 stroll.",
         "294": "$(scale 90)Going for a stroll increases the <color=#ff9900>affection</color> with the <color=#ff9900>Trainee stroll partner</color>. Additionally, a <color=#ff9900>stroll scene</color> will play depending on the selected location. Scenes once viewed can be replayed from the Uma-sanpo screen, by tapping the Trainee icon in the unlocked scenes list.\n",
         "314": "$(scale 90)In the Trainer’s Agenda, you can <color=#ff9900>skip</color> contents such as Daily Races and the Team Trials! You can also <color=#ff9900>skip them all at once</color>. Decide on your <color=#ff9900>skip policy</color> and enjoy playing a lot of content!",
-        "329": "$(scale 90)<color=#ff9900>Uncap Crystals</color> can be exchanged for Support Cards eligible for Limit Break. Exchanged Support Cards will be automatically <color=#ff9900>Uncapped</color>. You cannot exchange for Support Cards you do not own or those already fully Uncapped."
+        "329": "$(scale 90)<color=#ff9900>Uncap Crystals</color> can be exchanged for Support Cards eligible for Limit Break. Exchanged Support Cards will be automatically <color=#ff9900>Uncapped</color>. You cannot exchange for Support Cards you do not own or those already fully Uncapped.",
+        "61": "$(scale 90)At the Sacred Hoof Festival, Marvelous Sunday and her friends decided to put on— a circus! However, issues like staffing and safety soon stood in their way. Even after the show began, trouble kept piling up on site— Will they be able to achieve the “Marvelous” success they’re aiming for...!?"
     },
     "64": {
         "6": "Reward from \"{0}\".",

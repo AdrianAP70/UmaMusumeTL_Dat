@@ -77,7 +77,8 @@
         "20046": "Let's go!",
         "80000": "that's enough for today",
         "140008": "chuckling",
-        "400012": "Here are the event missions. Fufu... for you, this might be way too easy?"
+        "400012": "Here are the event missions. Fufu... for you, this might be way too easy?",
+        "400116": "Turns out Hishi Ama actually helped make the outfit too... fufu. She could’ve told me!"
     },
     "1006": {
         "11": "Cygames",
@@ -585,7 +586,9 @@
         "12": "Umamusume, Pretty Derby!",
         "20039": "I'm so excited～♪",
         "23015": "I'm so excited～♪",
-        "110002": "Oh~ A race~? No matter \nwho the opponent is, \nbring it on~☆"
+        "110002": "Oh~ A race~? No matter \nwho the opponent is, \nbring it on~☆",
+        "400003": "Ehehe, I’m so excited~! Once we’re done, it’s chanko hotpot time! Let’s do our best♪",
+        "400010": "<size=29>Hokkaido salmon really fresh & tasty~ The meat’s so plump♪ Next time, I wanna catch one myself!</size>"
     },
     "1029": {
         "11": "Cygames",
@@ -1320,7 +1323,9 @@
         "90020": "Happy Valentine's Day",
         "90021": "Happy Valentine's Day",
         "140008": "Fufu",
-        "400002": "$(nb)Ah, that’s right, they said they’d help. City & others... Even though everyone’s busy... true pals are unbeatable☆  "
+        "400002": "$(nb)Ah, that’s right, they said they’d help. City & others... Even though everyone’s busy... true pals are unbeatable☆  ",
+        "400117": "It pops, right? Go grab it at the stand, Visual Boom Burger! I’m the one who made the buns green!",
+        "400011": "I thought it might not suit me... Ahaha. Yeah, I’m glad I came. I’m glad I did the circus."
     },
     "1049": {
         "11": "Cygames",
@@ -1825,7 +1830,8 @@
         "12": "Umamusume, Pretty Derby!",
         "920000": "I'm coming!",
         "400001": "Neicha, Laurel, Mayano... even a scarecrow!? Oh no... Not enough tickets!",
-        "110000": "Training♪ Training♪\nLet’s do it together☆★"
+        "110000": "Training♪ Training♪\nLet’s do it together☆★",
+        "400118": "Did you have fun? You did, right? Ahaha☆ Don’t say it yet—tell me at the next show!"
     },
     "1056": {
         "11": "Cygames",
@@ -3336,7 +3342,10 @@
         "260000": "By using Special Transfer to move a Veteran Umamusume to another team, you will receive a thank-you gift!",
         "260005": "By using Special Transfer to introduce a Veteran Umamusume to another Trainer, you will receive a thank-you gift!",
         "260002": "It seems there are trainers who wish to transfer a Veteran Umamusume!",
-        "200001": "Fufu♪ Are you curious about the \nsecrets of the Umamusume?"
+        "200001": "Fufu♪ Are you curious about the \nsecrets of the Umamusume?",
+        "23005": "As expected of you, Trainer. You have quite the eye for things♪",
+        "220003": "Fufu, thank you for the exchange♪",
+        "23004": "Thank you very much. Please use it with care♪"
     },
     "9002": {
         "300001": "Mission complete! Don't forget to claim your rewards!",
