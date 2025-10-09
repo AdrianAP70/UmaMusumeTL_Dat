@@ -789,6 +789,11 @@
       "size": 220394
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_island_complete01/tx_uTex_fl_singlemode_pioneer_island_complete01_0.png",
+      "hash": "068fd161ad8be3e791c374ea3547940df1eab9aeb04a7aa1f4db9df3cc57656d",
+      "size": 554160
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_island_hint00/tx_uTex_fl_singlemode_pioneer_island_hint00_0.diff.png",
       "hash": "5c71198593d8a9748ce1aefd01115b90a28c22a88207abce35fe992fe3f145c1",
       "size": 2995
@@ -854,6 +859,11 @@
       "size": 126506
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_start_tagtraining00/tx_uTex_fl_singlemode_pioneer_start_tagtraining00_0.png",
+      "hash": "ce24c9b645728865cb7c1f45ff0a7ccd3909f9e326139d267b56a2e71f68e63d",
+      "size": 542659
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_training_facility_upgrade00/tx_uTex_fl_singlemode_pioneer_training_facility_upgrade00_0.diff.png",
       "hash": "a8d89ba6c5ac08d8789e23495e2203f0b1d2f0cd601c35428a84c2de3a145615",
       "size": 57768
@@ -882,6 +892,11 @@
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_txt_tagtrainingresult00/tx_uTex_fl_singlemode_pioneer_txt_tagtrainingresult00_0.diff.png",
       "hash": "34c7e599cee390dd5da26d0c608e5c59d27a42b32c6abccf8e33e63ef537b1c6",
       "size": 325729
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_txt_tagtrainingresult00/tx_uTex_fl_singlemode_pioneer_txt_tagtrainingresult00_0.png",
+      "hash": "8c1e85cf12c3386c1ba1168c33b538a1d74762846ce6a5356369523b96980136",
+      "size": 1086943
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_sectionstart01/tx_uTex_fl_singlemode_sectionstart01_0.diff.png",
@@ -8574,6 +8589,16 @@
       "size": 171283
     },
     {
+      "path": "assets/textures/chara/chr1121/petit/petit_chr_1121_112101_0070.png",
+      "hash": "072c045687d968c36ac470477417a595e6c5fa8932c29bd5e38bd2628f5ec169",
+      "size": 164573
+    },
+    {
+      "path": "assets/textures/chara/chr1121/petit/petit_chr_1121_112101_0071.png",
+      "hash": "2b8f15d21d276db60ce7de6d73ff86261ad5cabebc47c3479410aa7f477a9f94",
+      "size": 173279
+    },
+    {
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1001_01.png",
       "hash": "fb7785191f4a00201bcdd3746be9083386440c15c8eb6b89c37f42a487beb504",
       "size": 250439
@@ -11404,6 +11429,11 @@
       "size": 948826
     },
     {
+      "path": "assets/textures/outgame/comic/tex_comic_1069_01.png",
+      "hash": "abd8f1326798a26493f774c784f88a69b3d8e45cd3861efdb0abb28d59a10483",
+      "size": 1219370
+    },
+    {
       "path": "assets/textures/outgame/comic/tex_comic_1070_01.diff.png",
       "hash": "44c3120427b82a640154b9b70474995dfc65320e798af2b5982c0b7d02955f6a",
       "size": 1202212
@@ -12545,7 +12575,7 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_header_turncounter00.json",
-      "hash": "11feb8a5d124e9efd60f4a772ab325c01002843599b09d103cbdb4cbab80ab96",
+      "hash": "dac386233d665de98781c1b45e476f5e00ab4869810be8248761429dc6020499",
       "size": 1428
     },
     {
@@ -12620,8 +12650,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "8afc41ab4bad7b5deb99b2e89d4d89b2999fe5383ff793aa3e52a438507a3722",
-      "size": 242165
+      "hash": "dccb0109f09ae1381065abe20933b31bede69c1fb1f17adfeb0f1af0f6038731",
+      "size": 243087
     },
     {
       "path": "character_system_text_dict_mod.json",
@@ -12645,8 +12675,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "b9c6a4de39506ff09d478fa6e3c95c9c18847a845a06d67af5dd833df341c92f",
-      "size": 278915
+      "hash": "650dc9a922f23f8b32190c156fa792f61b9217a3fb7ce172c8fd4d6abea7f68f",
+      "size": 278916
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -12660,8 +12690,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "3fd672bf323d2d8224d0fea49964f6a807d87b105e1cc00d3efd95b88eea9103",
-      "size": 3011137
+      "hash": "06b242547cddc1c2e968960904aae77acad1815882f76349a7b1d5a0bba486f4",
+      "size": 3011487
     }
   ]
 }
