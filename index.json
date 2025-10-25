@@ -14,6 +14,11 @@
       "size": 603375
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_champions_notice_round00/tx_uTex_fl_champions_notice_round00_0.png",
+      "hash": "bb168d107ce8138f5e8498cbc68982db959fec8a55be221934da3e4f65a3787f",
+      "size": 2627742
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_champions_result_finalranking00/tx_uTex_fl_champions_result_finalranking00_0.diff.png",
       "hash": "12ebf2998f1df623453b2a126c8ed7328f8814a0bec9c2d4c4743ac2fa2ab566",
       "size": 71622
@@ -69,6 +74,11 @@
       "size": 75551
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_factorresearch_reward_txt_title00/tx_uTex_fl_factorresearch_reward_txt_title00_0.png",
+      "hash": "ceeeddf962fc684ae2e3ff74f6f629d843d7113d2289322acef06ba0360e38d8",
+      "size": 143576
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.png",
       "hash": "f17a2de54ca2bb6cd6a0b0193f23a6a79ec559e6df1ffaaef3f736a3c118296e",
       "size": 402228
@@ -77,6 +87,11 @@
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_landscape_btn00/tx_uTex_fl_footer_landscape_btn00_0.png",
       "hash": "8fcb9f9ce8489c02f0d28423ca276b7e27c26f1f1e8a34f64634a9ac119555f2",
       "size": 118307
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_gacha_card_limit_break00/tx_uTex_fl_gacha_card_limit_break00_0.png",
+      "hash": "7e3d31fcaa34e3146a3abae63cee22c4f8ec68aabce483f6a8e54b1b17941807",
+      "size": 109147
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_gacha_chara_piece00/tx_uTex_fl_gacha_chara_piece00_0.png",
@@ -10514,6 +10529,11 @@
       "size": 516954
     },
     {
+      "path": "assets/textures/gacha/comment/gacha_comment_109201.png",
+      "hash": "6cb1f134a935f828add2173af3b226a2a6adc0579ab7abee2157eb6251238b0a",
+      "size": 577900
+    },
+    {
       "path": "assets/textures/gacha/comment/gacha_comment_110402.png",
       "hash": "fb1887f7bc322f04e69a1ceb801194335cddb0a13da48a332ba5b4e20e685af5",
       "size": 512495
@@ -10907,6 +10927,11 @@
       "path": "assets/textures/outgame/comic/tex_comic_1016_01.diff.png",
       "hash": "70b553901d550ebb2581e0163b9dbfdad9d4f9b64d5166586d815d0214c627da",
       "size": 1006985
+    },
+    {
+      "path": "assets/textures/outgame/comic/tex_comic_1016_01.png",
+      "hash": "250d1667622225f87838204e41cc6ae00a051ee35ee84f1def2c9568587e75e9",
+      "size": 1225764
     },
     {
       "path": "assets/textures/outgame/comic/tex_comic_1017_01.diff.png",
@@ -12650,8 +12675,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "dccb0109f09ae1381065abe20933b31bede69c1fb1f17adfeb0f1af0f6038731",
-      "size": 243087
+      "hash": "da538b8489cd71cbf23a2ce2f0f68b79b0a8da32d9336dc9474ba5fe611d1e64",
+      "size": 243211
     },
     {
       "path": "character_system_text_dict_mod.json",
@@ -12675,8 +12700,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "650dc9a922f23f8b32190c156fa792f61b9217a3fb7ce172c8fd4d6abea7f68f",
-      "size": 278916
+      "hash": "b7973e3be793e71e289435cd4807d6dc7374f8e75e82cb334c031b8424e914f8",
+      "size": 278962
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -12690,8 +12715,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "06b242547cddc1c2e968960904aae77acad1815882f76349a7b1d5a0bba486f4",
-      "size": 3011487
+      "hash": "7e1ab2f65cfa41dc1f986ff2e05c401bee8fca96560d1bbd650a0acf0410f49c",
+      "size": 3013466
     }
   ]
 }
