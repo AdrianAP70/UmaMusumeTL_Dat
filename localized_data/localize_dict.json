@@ -5171,5 +5171,6 @@
     "Outgame511049": "Release Date",
     "Outgame511050": "Limit Break",
     "Common600001": "{0} exchanges/trade",
-    "Shop511002": "Support Cards with Max Limit Break unlocked will be sent to Inventory."
+    "Shop511002": "Support Cards with Max Limit Break unlocked will be sent to Inventory.",
+    "Character511001": "$(scale 65)Required"
 }

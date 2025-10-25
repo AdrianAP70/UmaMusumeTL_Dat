@@ -725,7 +725,8 @@
         "108101": "[Red Devil Gear] Espoir City",
         "109501": "[Essence] Believe",
         "102802": "[Magic Knight Garland] Hishi Akebono",
-        "105502": "[Trick☆Ribbonetta] Marvelous Sunday"
+        "105502": "[Trick☆Ribbonetta] Marvelous Sunday",
+        "109201": "[Center ◎ Spotlight]Dantsu Flame"
     },
     "5": {
         "100101": "[Special Dreamer]",
@@ -943,7 +944,8 @@
         "9101101": "[Rock-piercing Blue]",
         "109501": "[Essence]",
         "102802": "[Magic Knight Garland]",
-        "105502": "[Trick☆Ribbonetta]"
+        "105502": "[Trick☆Ribbonetta]",
+        "109201": "[Center ◎ Spotlight]"
     },
     "6": {
         "1001": "Special Week",
@@ -2826,7 +2828,7 @@
         "108960": "Signature Racewear (Cheval Grand)",
         "108980": "Skill Cut-in Head (Cheval Grand)",
         "109101": "Voyage Étincelant",
-        "109201": "Signature Racewear (Dantsu Flame)",
+        "109201": "Center ◎ Spotlight (Dantsu Flame)",
         "109301": "Prism",
         "109323": "Autumnal Andante",
         "109401": "Ruler's Battle Cry",
@@ -15700,7 +15702,12 @@
         "910551": "Cheers☆Wonder Doll!",
         "203952": "Genius Talent",
         "203941": "Don't Blink!",
-        "102802111": "Beckoning Sugar Lantern "
+        "102802111": "Beckoning Sugar Lantern ",
+        "100921": "My Flame Lights the Way",
+        "900921": "My Flame Lights the Way",
+        "204052": "With a Light in My Heart",
+        "203951": "Wonderkid",
+        "105502211": "Showtime, Shoberasta♪"
     },
     "48": {
         "10071": "$(nb)If you're in the second half of the pack halfway through the race, your speed will slightly increase.",
@@ -16523,7 +16530,7 @@
         "203031": "$(nb)If you're in the first half of the pack at a random point during the Middle Leg, your speed will increase.",
         "203032": "$(nb)If you're in the first half of the pack at a random point during the Middle Leg, your speed will slightly increase.",
         "203041": "$(nb)Sprint/Mile・During the first half of the Final Leg, your speed will increase.",
-        "203042": "$(nb)Sprint/Mile・During the first half of the Final Leg, your speed will slightly increase.",
+        "203042": "$(nb)Sprint/Mile・At a random point during the first half of the Final Leg, your speed will slightly increase",
         "203051": "$(nb)Medium・If you're in the first half of the pack during the second half of the Middle Leg, your speed will increase.",
         "203052": "$(nb)Medium・If you're in the first half of the pack during the second half of the Middle Leg, your speed will slightly increase.",
         "203061": "$(nb)Sprint・If there's no one in front of you at the second furlong, your speed will marginally increase; the effect is stronger if you're not on a corner.",
@@ -17532,7 +17539,12 @@
         "910551": "$(nb)When in the Middle group during the final corner in the Last Leg, if other Uma Musume are nearby, speed increases on the Final Straight; if in Best Condition, also slightly moves ahead.",
         "203952": "$(nb)Medium/Long • When Wit is sufficiently high, Wit slightly increases.",
         "203941": "$(nb)Sprint/Mile・Increase speed in the middle leg.",
-        "102802111": "$(nb)Sprint/Mile・At a random point in the Middle Leg, your speed will greatly increase."
+        "102802111": "$(nb)Sprint/Mile・At a random point in the Middle Leg, your speed will greatly increase.",
+        "100921": "$(nb)If you're in the first half of the pack (but not leading) halfway through the race, your speed will increase; the effect is stronger in Medium races",
+        "900921": "$(nb)If you're in the first half of the pack (but not leading) halfway through the race, your speed will increase; the effect is stronger in Medium races",
+        "204052": "$(nb)Mile/Medium・At a random point during the first half of the Final Leg, your speed will slightly increase",
+        "203951": "Medium/Long・If your base Wit is at least 1200, Wit and Speed stats are increased by 60",
+        "105502211": "Medium/Long・When Wit is sufficiently high, both Wit and Speed increase; on \"Good\" track condition, they greatly increase."
     },
     "49": {
         "1": "50 Carats",
@@ -36811,7 +36823,13 @@
         "10550203": "Cheers☆Wonder Doll!",
         "2039501": "Genius Talent",
         "2039502": "Genius Talent",
-        "2039503": "Genius Talent"
+        "2039503": "Genius Talent",
+        "10920101": "My Flame Lights the Way",
+        "10920102": "My Flame Lights the Way",
+        "10920103": "My Flame Lights the Way",
+        "2040501": "With a Light in My Heart",
+        "2040502": "With a Light in My Heart",
+        "2040503": "With a Light in My Heart"
     },
     "148": {
         "1": "Ace Bonus",
@@ -41172,7 +41190,13 @@
         "10550203": "Increases Stamina, Power, and Guts caps, and grants a Skill Hint for \"Cheers☆Wonder Doll!\"",
         "2039501": "This Factor grants a Skill Hint for \"Genius Talent\".",
         "2039502": "This Factor grants a Skill Hint for \"Genius Talent\".",
-        "2039503": "This Factor grants a Skill Hint for \"Genius Talent\"."
+        "2039503": "This Factor grants a Skill Hint for \"Genius Talent\".",
+        "10920101": "Increases Stamina and Guts limit caps, and grants a Skill Hint for \"My Flame Lights the Way\".",
+        "10920102": "Increases Stamina and Guts limit caps, and grants a Skill Hint for \"My Flame Lights the Way\".",
+        "10920103": "Increases Stamina and Guts limit caps, and grants a Skill Hint for \"My Flame Lights the Way\".",
+        "2040501": "This Factor grants a Skill Hint for \"With a Light in My Heart\".",
+        "2040502": "This Factor grants a Skill Hint for \"With a Light in My Heart\".",
+        "2040503": "This Factor grants a Skill Hint for \"With a Light in My Heart\"."
     },
     "173": {
         "9001": "Secretary to the Director",
