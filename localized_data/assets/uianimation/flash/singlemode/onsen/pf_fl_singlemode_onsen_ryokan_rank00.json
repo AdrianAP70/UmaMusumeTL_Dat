@@ -1,0 +1,26 @@
+{
+    "windows": {
+        "bundle_name": "S4LC24TV3O6NHVW2JBSP757CBZZSYUHK"
+    },
+    "data": {
+    "motion_parameter_list": {
+      "1": {
+        "name": "mc_txt_remaining00",
+        "text_param_list": {
+          "0": {
+            "target_object": "txt_goal00",
+            "text": "Goal"
+          },
+          "1": {
+            "target_object": "txt_comp00",
+            "text": "Completed"
+          },
+          "2": {
+            "target_object": "txt_num00",
+            "text": "{num}"
+          }
+        }
+      }
+    }
+  
+}

@@ -726,7 +726,8 @@
         "109501": "[Essence] Believe",
         "102802": "[Magic Knight Garland] Hishi Akebono",
         "105502": "[Trick☆Ribbonetta] Marvelous Sunday",
-        "109201": "[Center ◎ Spotlight]Dantsu Flame"
+        "109201": "[Center ◎ Spotlight]Dantsu Flame",
+        "108002": "[Yoiyami Neo-Kagura]Transcend"
     },
     "5": {
         "100101": "[Special Dreamer]",
@@ -945,7 +946,8 @@
         "109501": "[Essence]",
         "102802": "[Magic Knight Garland]",
         "105502": "[Trick☆Ribbonetta]",
-        "109201": "[Center ◎ Spotlight]"
+        "109201": "[Center ◎ Spotlight]",
+        "108002": "[Yoiyami Neo-Kagura]"
     },
     "6": {
         "1001": "Special Week",
@@ -1103,7 +1105,8 @@
         "9046": "Saint Lite",
         "9047": "Speed Symboli",
         "9048": "Haiseiko",
-        "9049": "Tucker Bryne"
+        "9049": "Tucker Bryne",
+        "9050": "Kenko Hoshina"
     },
     "7": {
         "1001": "Azumi Waki",
@@ -3025,7 +3028,8 @@
         "904801": "Haiseiko's Outfit",
         "904901": "Tucker Bryne's Outfit",
         "102840": "Magic Knight Garland",
-        "105540": "Trick☆Ribbonetta"
+        "105540": "Trick☆Ribbonetta",
+        "108002": "Yoiyami Neo-Kagura"
     },
     "15": {
         "15": "Spectator Outfit 1",
@@ -15707,7 +15711,11 @@
         "900921": "My Flame Lights the Way",
         "204052": "With a Light in My Heart",
         "203951": "Wonderkid",
-        "105502211": "Showtime, Shoberasta♪"
+        "105502211": "Showtime, Shoberasta♪",
+        "110801": "Geothermal Overdrive",
+        "910801": "Geothermal Overdrive",
+        "203981": "Vigorous Spirit",
+        "108002211": "Heh, I'm not letting this slip~☆"
     },
     "48": {
         "10071": "$(nb)If you're in the second half of the pack halfway through the race, your speed will slightly increase.",
@@ -17544,7 +17552,11 @@
         "900921": "$(nb)If you're in the first half of the pack (but not leading) halfway through the race, your speed will increase; the effect is stronger in Medium races",
         "204052": "$(nb)Mile/Medium・At a random point during the first half of the Final Leg, your speed will slightly increase",
         "203951": "Medium/Long・If your base Wit is at least 1200, Wit and Speed stats are increased by 60",
-        "105502211": "Medium/Long・When Wit is sufficiently high, both Wit and Speed increase; on \"Good\" track condition, they greatly increase."
+        "105502211": "Medium/Long・When Wit is sufficiently high, both Wit and Speed increase; on \"Good\" track condition, they greatly increase.",
+        "110801": "$(nb)Dirt・When mid-race approaches, greatly increases speed for short time. If you're in the front; later, near the middle of the race, slightly moves forward when being caught up",
+        "910801": "$(nb)Dirt・When mid-race approaches, slightly increases speed for a short time if you're in the front; later, near the middle of the race, slightly advances forward when being caught up",
+        "203981": "$(nb)Dirt • During the third corner before the final corner, advances forward when in the front",
+        "108002211": "$(nb)Dirt • During the third corner before the final corner, advances forward when in the front; afterwards, when a rival activates a speed skill, slightly advances forward"
     },
     "49": {
         "1": "50 Carats",
@@ -30569,7 +30581,10 @@
         "30267": "[Catstone Light O] Calstone Light O",
         "30268": "[This Eve I Dedicate To You, My Lord] Durandal",
         "30269": "[Today Was Fun] Dantsu Flame",
-        "30271": "[Magic from the stage] Fuji Kiseki"
+        "30271": "[Magic from the stage] Fuji Kiseki",
+        "30275": "[Genius Utopia]Tokai Teio",
+        "30276": "[Yururi Yukoma Inn]Kenko Hoshina",
+        "10138": "[Yukoma Inn Landlady] Kenko Hoshina"
     },
     "76": {
         "10001": "[Tracen Academy]",
@@ -31051,7 +31066,10 @@
         "30267": "[Catstone Light O]",
         "30268": "[This Eve I Dedicate To You, My Lord]",
         "30269": "[Today Was Fun]",
-        "30271": "[Magic from the stage]"
+        "30271": "[Magic from the stage]",
+        "30275": "[Genius Utopia]",
+        "30276": "[Yururi Yukoma Inn]",
+        "10138": "[Yukoma Inn Landlady]"
     },
     "77": {
         "10001": "Special Week",
@@ -31540,7 +31558,9 @@
         "30266": "Chrono Genesis",
         "30267": "Calstone Light O",
         "30268": "Durandal",
-        "30269": "Dantsu Flame"
+        "30269": "Dantsu Flame",
+        "10138": "Kenko Hoshina",
+        "30276": "Kenko Hoshina"
     },
     "78": {
         "10001": "Special Week",
@@ -31988,7 +32008,9 @@
         "30242": "Almond Eye",
         "30243": "Gran Alegria",
         "30257": "Tucker Bryne",
-        "30251": "Espoir City"
+        "30251": "Espoir City",
+        "10138": "Kenko Hoshina",
+        "30276": "Kenko Hoshina"
     },
     "88": {
         "10001": "My name is Special Week! My dream is to be the best Trainee in Japan! I'm gonna pull my own weight to make my moms proud!",
@@ -33135,7 +33157,8 @@
         "8": "$(scale 90)Director Akikawa's announcement pushes Tracen Academy into a farming boom! The sun beckons all to the fields until the moon gathers everyone together at the dining table. It's time for another day of hard work!",
         "9": "$(scale 90)A mechanical Trainee appears at Tracen Academy. She is the brainchild of genius inventor Sugar Lights. Many issues remain in this early model… so help enhance her and make the inventor's dream come true!",
         "10": "$(scale 90)When the Twinkle Series faces bad times, a few legendary Trainees step up! Unifying all involved in racing, they seek to push the Twinkle Series back to its heights… and into a new era!",
-        "11": "$(scale 90)The Uninhabited Island Project was the result of taking a chance on Tucker Bryne's dream, passionate Trainees, and giving in to instincts! Train body and mind out in the wilds, and build the greatest training site ever!"
+        "11": "$(scale 90)The Uninhabited Island Project was the result of taking a chance on Tucker Bryne's dream, passionate Trainees, and giving in to instincts! Train body and mind out in the wilds, and build the greatest training site ever!",
+        "12": "$(scale 90)An invitation of healing arrives from <color=#FF6D26>“Yukoma Hot Springs”</color> for the busy Umamusume. However, the hot spring town faces a decline...!? A good life begins with a good rest. Let’s rediscover “recovery” and live healthily.\n"
     },
     "121": {
         "1": "Debut",
@@ -34823,7 +34846,9 @@
         "9047": "A legendary pioneer, laying the road to the rest of the world.",
         "9048": "A national star☆ An idol gathering massive attention♪",
         "1075": "Child of the Pure Great Nature.",
-        "1095": "The ‘Fastest’ is the pinnacle of mastery, an indomitable craftswoman Umamusume."
+        "1095": "The ‘Fastest’ is the pinnacle of mastery, an indomitable craftswoman Umamusume.",
+        "9049": "A passionate leader who pushes forward as the person in charge of the Deserted Island Project.",
+        "9050": "A hot spring goddess who has mastered the art of “relaxation.”"
     },
     "147": {
         "101": "Speed",
@@ -36829,7 +36854,10 @@
         "10920103": "My Flame Lights the Way",
         "2040501": "With a Light in My Heart",
         "2040502": "With a Light in My Heart",
-        "2040503": "With a Light in My Heart"
+        "2040503": "With a Light in My Heart",
+        "10800201": "Geothermal Overdrive",
+        "10800202": "Geothermal Overdrive",
+        "10800203": "Geothermal Overdrive"
     },
     "148": {
         "1": "Ace Bonus",
@@ -37186,7 +37214,9 @@
         "30267": "Catstone Light O",
         "30268": "This Eve I Dedicate To You, My Lord",
         "30269": "Today Was Fun",
-        "30271": "Magic from the stage"
+        "30271": "Magic from the stage",
+        "30275": "Genius Utopia",
+        "30276": "Yururi Yukoma Inn"
     },
     "151": {
         "1": "Friendship Bonus",
@@ -37620,7 +37650,9 @@
         "30269": "Training Bonus when Friendship over 80.",
         "30271": "Speed Bonus and Power Bonus when Friendship over 80.",
         "30272": "Speed Bonus and Power Bonus when Friendship over 80.",
-        "30273": "Motivation Effect and Power Bonus when Friendship over 80."
+        "30273": "Motivation Effect and Power Bonus when Friendship over 80.",
+        "30275": "Skill Pt bonus when Friendship over 80",
+        "30276": "$(nb)$(scale 80)Training Effect increases and Stamina\nusage decreases when Friendship over 80"
     },
     "157": {
         "1001": "May 2",
@@ -38904,7 +38936,8 @@
         "9046": "Saint Lite",
         "9047": "Speed Symboli",
         "9048": "Haiseiko",
-        "9049": "Tucker Bryne"
+        "9049": "Tucker Bryne",
+        "9050": "Kenko Hoshina"
     },
     "171": {
         "12": "Login Bonus",
@@ -41196,7 +41229,10 @@
         "10920103": "Increases Stamina and Guts limit caps, and grants a Skill Hint for \"My Flame Lights the Way\".",
         "2040501": "This Factor grants a Skill Hint for \"With a Light in My Heart\".",
         "2040502": "This Factor grants a Skill Hint for \"With a Light in My Heart\".",
-        "2040503": "This Factor grants a Skill Hint for \"With a Light in My Heart\"."
+        "2040503": "This Factor grants a Skill Hint for \"With a Light in My Heart\".",
+        "10800201": "This Factor increases Power and Wit caps and grants a Skill Hint for \"Geothermal Overdrive\".",
+        "10800202": "This Factor increases Power and Wit caps and grants a Skill Hint for \"Geothermal Overdrive\".",
+        "10800203": "This Factor increases Power and Wit caps and grants a Skill Hint for \"Geothermal Overdrive\"."
     },
     "173": {
         "9001": "Secretary to the Director",
