@@ -9,6 +9,11 @@
       "size": 450413
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_announce_supportcard00/tx_uTex_fl_announce_supportcard00_0.png",
+      "hash": "7304d28241d5c86cc45bbd03c7d4c2a82db01a1babd6337032d8c5200c0c8a81",
+      "size": 2491345
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_champions_notice_round00/tx_uTex_fl_champions_notice_round00_0.diff.png",
       "hash": "3c42e0909391953a64424795024425412978e70cbd1dbe9117fb3bee4b6f72f3",
       "size": 603375
@@ -724,6 +729,31 @@
       "size": 1188813
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_btn_trainingmenu00/tx_uTex_fl_singlemode_onsen_btn_trainingmenu00_0.png",
+      "hash": "11204083f3f4cfe13b90386406ddf7cd23d81842ed34f3dba74920f21f91758f",
+      "size": 152891
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_btn_trainingmenu01/tx_uTex_fl_singlemode_onsen_btn_trainingmenu01_0.png",
+      "hash": "d3c60ca2ddb609640bbbda584320f2c3dc1cd70014b9a6044733b545288a22ac",
+      "size": 92247
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_header_hpgauge00/tx_uTex_fl_singlemode_onsen_header_hpgauge00_0.png",
+      "hash": "9354d0317053d780ec8d04bc71aa341f6d6b7702852300529bb40da6be01c577",
+      "size": 59217
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_ryokan_rank00/tx_uTex_fl_singlemode_onsen_ryokan_rank00_0.png",
+      "hash": "54640926611d95a4e4da8a4cf0d32851da30ef5d53516c461f1792bd57e81e9c",
+      "size": 255490
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_ticket_btn00/tx_uTex_fl_singlemode_onsen_ticket_btn00_0.png",
+      "hash": "1d2e643c355c58c61594ea96b21934ad9aaa28372a77fb4db94477321eae62af",
+      "size": 351093
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_btn_evaluate_decide00/tx_uTex_fl_singlemode_pioneer_btn_evaluate_decide00_0.png",
       "hash": "cb46e3ba6862707e6cc2fa158a766f06e2d496ef17da230a25185d0444d655b5",
       "size": 312190
@@ -1314,6 +1344,16 @@
       "size": 166
     },
     {
+      "path": "assets/atlas/singlemodescenarioonsen/singlemodescenarioonsen.json",
+      "hash": "c01f364534148a70c61a120eb80c3e2452f5c243652cd2b58413086d7ebca069",
+      "size": 166
+    },
+    {
+      "path": "assets/atlas/singlemodescenarioonsen/singlemodescenarioonsen.png",
+      "hash": "a7942e313164d5cd2fd8a1c8b82981f673ca6843130545b8d2dcda68de2f2552",
+      "size": 1069601
+    },
+    {
       "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.diff.png",
       "hash": "4b3d3260e556332def78368a6aa81e085a46f01767b5ab0c25a00b51252b6d02",
       "size": 16458
@@ -1427,6 +1467,16 @@
       "path": "assets/atlas/teamstadium/teamstadiumW.png",
       "hash": "1d7d65b891be314cedd1c0b1ba6db6492be2aa9effe4bd64225a125706bc573b",
       "size": 1666502
+    },
+    {
+      "path": "assets/atlas/trainingchallenge/trainingchallenge.json",
+      "hash": "ea4770b7572f3b9d090cc9aa733cb06a51dd051b1c16b8ee449b5400d07803fc",
+      "size": 166
+    },
+    {
+      "path": "assets/atlas/trainingchallenge/trainingchallenge.png",
+      "hash": "a89eabc6fd7eae43dc5d0606ff84440e4c31e4e6088324d5260c6b7bb063ef6c",
+      "size": 624653
     },
     {
       "path": "assets/atlas/trainingreport/trainingreport.diff.png",
@@ -8584,6 +8634,16 @@
       "size": 179002
     },
     {
+      "path": "assets/textures/chara/chr1099/petit/petit_chr_1099_109901_0070.png",
+      "hash": "8675dee34e9ef06efee76ae688a34a9c0636bbe2c713c53af8b7e6b355f89b49",
+      "size": 160115
+    },
+    {
+      "path": "assets/textures/chara/chr1099/petit/petit_chr_1099_109901_0071.png",
+      "hash": "d595ccb24b3c3a0941a31906af08be1bb69a7e956e463c8768ecaf8623839ed2",
+      "size": 162070
+    },
+    {
       "path": "assets/textures/chara/chr1104/petit/petit_chr_1104_110410_0070.png",
       "hash": "d36691ec9dcd1a9f994bb4fdc66e068be60abbf0728db69374852586fada27dc",
       "size": 155902
@@ -9242,6 +9302,16 @@
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9044_01.png",
       "hash": "0af844a7025cc341996e85e14970f5b2e2fa04268b04866771731184a80f0e1f",
       "size": 261846
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9049_01.png",
+      "hash": "42c130fa4fab133fedaae9d967fbd1c96ca0ee30b4f572b4c984d6ea3b4800c3",
+      "size": 121845
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9050_01.png",
+      "hash": "421a2971ee7c65c0986c08da10b8647f3a2a9b50053e8d0ab16e544a70b009b5",
+      "size": 132154
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_1/psbPhotoshop.psd",
@@ -10282,6 +10352,11 @@
       "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_9044_03.png",
       "hash": "3c5dff45f9e56b4df29931e066ae2a5d58c1de5c8ef9539e89d6e28a3c635e11",
       "size": 328066
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_9050_03.png",
+      "hash": "92a9f51965a04badc7710e9d4fe2450d8fdf07730e1aa48fc138028737d80d2d",
+      "size": 307546
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_3/psdPhotoshop.psd",
@@ -12449,6 +12524,16 @@
       "size": 166
     },
     {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_header_turncounter00.json",
+      "hash": "e1fe762fd04823f2cc3c51cb1d1e2397fcd08e721d633854b0114e36a85ca1fa",
+      "size": 1427
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_ryokan_rank00.json",
+      "hash": "057629010350604732b8e51751206c2d2575e66db18f71601182d13677d05f1c",
+      "size": 541
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/pf_fl_singlemode_break_resultpoint_record00.json",
       "hash": "f45ac2771234eef7322da7c075fd0fe0f2c531b47014ddd32ad4e40a5aa83450",
       "size": 166
@@ -12675,8 +12760,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "da538b8489cd71cbf23a2ce2f0f68b79b0a8da32d9336dc9474ba5fe611d1e64",
-      "size": 243211
+      "hash": "892cc52b96a6af28788180d069d409563a1406fa87fd1501660ddd277fd71cc5",
+      "size": 243419
     },
     {
       "path": "character_system_text_dict_mod.json",
@@ -12690,8 +12775,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "f572a9001a27a7b55e79555d7ea0594a724e8c22ec04447dcd4165de345d2097",
-      "size": 9784
+      "hash": "d205dff1952afd9b41043c8563285dd8ce187615b383d4522a9e1cc240c4846c",
+      "size": 9855
     },
     {
       "path": "includesandroid",
@@ -12700,8 +12785,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "b7973e3be793e71e289435cd4807d6dc7374f8e75e82cb334c031b8424e914f8",
-      "size": 278962
+      "hash": "243a1f82298111059cfce4d3772b1457b624a031713b5f9adb68eaa5760dd1a8",
+      "size": 280925
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -12715,8 +12800,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "7e1ab2f65cfa41dc1f986ff2e05c401bee8fca96560d1bbd650a0acf0410f49c",
-      "size": 3013466
+      "hash": "e54dd82eb5a8050941c340d4a3482aa0df09b376ecad407d7de1db20834eee25",
+      "size": 3016196
     }
   ]
 }
