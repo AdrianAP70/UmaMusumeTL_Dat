@@ -50790,5 +50790,60 @@
     "378": {
         "1": "Increases the amount of obtainable items during Training.",
         "2": "Get 3 extra tickets each day."
+    },
+    "398": {
+        "6": "Energy <color=#ff911c>+35</color>",
+        "9": "Energy <color=#ff911c>+5</color>",
+        "12": "Energy <color=#ff911c>+5</color>",
+        "15": "Energy <color=#ff911c>+5</color>",
+        "18": "Energy <color=#ff911c>+15</color>",
+        "21": "Energy <color=#ff911c>+15</color>",
+        "24": "Energy <color=#ff911c>+15</color>",
+        "27": "Energy <color=#ff911c>+15</color>",
+        "34": "Energy <color=#ff911c>+30</color>",
+        "36": "Energy <color=#ff911c>+20</color>",
+        "2": "$(nb)$(scale 90)Increases Bond Gauge for 3 Umas with the lowest Bond by <color=#ff911c>10</color>!",
+        "37": "Skill Pts <color=#ff911c>+100</color>",
+        "38": "Activates Hint Gain effect twice",
+        "39": "Stamina can temporarily recover up to 150",
+        "3": "Removes all conditions: Night Owl, Dry Skin & Migraine",
+        "5": "Motivation <color=#ff911c>+1</color>",
+        "1": "Training Effect <color=#ff911c>10%</color>",
+        "4": "Failure Rate <color=#ff911c>-20%</color>"
+    },
+    "407": {
+        "9": "Energy <color=#ff911c>+5</color>",
+        "12": "Energy <color=#ff911c>+5</color>",
+        "15": "Energy <color=#ff911c>+5</color>",
+        "18": "Energy <color=#ff911c>+15</color>",
+        "21": "Energy <color=#ff911c>+15</color>",
+        "24": "Energy <color=#ff911c>+15</color>",
+        "27": "Energy <color=#ff911c>+15</color>",
+        "34": "Energy <color=#ff911c>+30</color>"
+    },
+    "408": {
+        "1010010": "Energy <color=#ff911c>+{0}</color>",
+        "1020003": "$(nb)$(scale 90)Increases Bond Gauge for 3 Umas with the lowest Bond by <color=#ff911c>{0}</color>!",
+        "1010030": "Skill Pts <color=#ff911c>+{0}</color>",
+        "1070000": "Activates Hint Gain effect twice",
+        "1080000": "Stamina can temporarily recover up to 150",
+        "1040001": "Removes all conditions: Night Owl, Dry Skin & Migraine",
+        "1010020": "Motivation <color=#ff911c>+{0}</color>",
+        "10000": "Training Effect <color=#ff911c>{0}%</color>",
+        "140101": "Speed Friendship Bonus <color=#ff911c>{0}%</color>",
+        "140105": "Stamina Friendship Bonus <color=#ff911c>{0}%</color>",
+        "140102": "Power Friendship Bonus <color=#ff911c>{0}%</color>",
+        "140103": "Guts Friendship Bonus <color=#ff911c>{0}%</color>",
+        "120000": "Failure Rate <color=#ff911c>-20%</color>"
+    },
+    "402": {
+        "1": "Hole Digger",
+        "2": "Earth Drill",
+        "3": "Metal Crown"
+    },
+    "399": {
+        "2": "Soil Layer",
+        "3": "Rock Layer",
+        "1": "Sand Layer"
     }
 }
