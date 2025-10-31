@@ -12770,8 +12770,8 @@
     },
     {
       "path": "assets/uianimation/flashcombine/action/singlemode/onsen/fa_singlemode_onsen_ryokan_rank00.json",
-      "hash": "e71255faa49d086e458eec61017ee40e208615b6215c43fcd1b835a1f8381bfd",
-      "size": 627
+      "hash": "619bfd911afafa5c060a69aa3b340b4efe817d9cb5a9683c41dcd7762300da17",
+      "size": 858
     },
     {
       "path": "assets/uianimation/flashcombine/action/singlemode/pioneer/fa_singlemode_pioneer_badge_shimatraining00.json",
@@ -12805,8 +12805,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "bec1d188d65e83e07cdb2035b31863275de9d3d8785ac4e607c7b6e2738a3707",
-      "size": 281190
+      "hash": "954b73987aba9c2097ef380af5f0a1427a0f69fe04abd9e6b1c073307f2e124b",
+      "size": 282702
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -12820,8 +12820,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "e54dd82eb5a8050941c340d4a3482aa0df09b376ecad407d7de1db20834eee25",
-      "size": 3016196
+      "hash": "e803b1df0b03af36e623b9316492f541f4d736f196cd0f365ce1e0a31dfb7c8b",
+      "size": 3018795
     }
   ]
 }
