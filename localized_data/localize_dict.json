@@ -5220,5 +5220,9 @@
     "SingleModeScenarioOnsen419012": "Rating",
     "SingleModeScenarioOnsen194032": "Excavation Power Bonus",
     "SingleModeScenarioOnsen419011": "Excavation Power Details",
-    "SingleModeScenarioOnsen194029": "The effect of base stats and Factors on Excavation \nPower varies for each attribute"
+    "SingleModeScenarioOnsen194029": "The effect of base stats and Factors on Excavation \nPower varies for each attribute",
+    "Gacha124001": "Period",
+    "Gacha124005": "After the usage period ends, you will no longer \nbe able to use your stock for Free Scout draws.",
+    "Gacha124002": "You can use your daily {0} Free Scout Stock to draw  \n<color=#ff9900>{1} time(s)</color> in the {2} Free Scouts.",
+    "Gacha124006": "Scout Stock Notification"
 }
