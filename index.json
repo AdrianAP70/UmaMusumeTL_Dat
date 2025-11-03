@@ -1350,8 +1350,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenarioonsen/singlemodescenarioonsen.png",
-      "hash": "7ac789b79a47204356b16b111183787705a8f13d5959807ba9d36dac29bd1f69",
-      "size": 1061487
+      "hash": "8bcc3adb8d4556644c5742cc55eba83e2f7c05a564e058826a46fd4b372a187f",
+      "size": 1045126
     },
     {
       "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.diff.png",
@@ -9269,6 +9269,11 @@
       "size": 118856
     },
     {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1134_01.png",
+      "hash": "eba8157cefb0ce4f5f937b277c282d12224b9b2d05edbcc49ec59f521e1fc395",
+      "size": 143260
+    },
+    {
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1135_01.png",
       "hash": "d576e82deda4355c202f12a3b138d80169bd465d23be4fa1c754aeb679e395fa",
       "size": 118901
@@ -9712,6 +9717,11 @@
       "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1130_02.png",
       "hash": "6185d6484d7cb384ac7a15c7c09ad24208a24e1216907530304d47843d6ed101",
       "size": 201475
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1134_02.png",
+      "hash": "2785902e92c5d93c5f36fc5e5423973715f0d37a3a4b307a7ef7d5b0cea19201",
+      "size": 159353
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_9004_02.png",
@@ -12805,8 +12815,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "954b73987aba9c2097ef380af5f0a1427a0f69fe04abd9e6b1c073307f2e124b",
-      "size": 282702
+      "hash": "419dbb6f5c9404881fda33787b97604bd6e1072e1a34fc34a67b3772fe1d41f1",
+      "size": 283034
     },
     {
       "path": "race_jikkyo_comment_dict.json",
