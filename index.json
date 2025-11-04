@@ -745,13 +745,18 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_ryokan_rank00/tx_uTex_fl_singlemode_onsen_ryokan_rank00_0.png",
-      "hash": "e5ac6eebd1716e9e001df12f0c456d3d4697e58d6e76b0a2ec93e8f1603a63f8",
-      "size": 250915
+      "hash": "11cfdc6862860cf48c4a2fe0bb1b0a36fa0a89225297d7acd390c713a796e0ad",
+      "size": 236272
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_ryokan_rankup00/tx_uTex_fl_singlemode_onsen_ryokan_rankup00_0.png",
+      "hash": "35e9cbed83f1daa20be3ddfda675b68646eb029dbf684c1f03ebcf20b8a953b6",
+      "size": 1966276
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_ticket_btn00/tx_uTex_fl_singlemode_onsen_ticket_btn00_0.png",
-      "hash": "1d2e643c355c58c61594ea96b21934ad9aaa28372a77fb4db94477321eae62af",
-      "size": 351093
+      "hash": "f948dc6ffa2493e9f812a4e27b4c1f8ad377ff989f8933a9dfe5111dac2c41dc",
+      "size": 359322
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_btn_evaluate_decide00/tx_uTex_fl_singlemode_pioneer_btn_evaluate_decide00_0.png",
@@ -1350,8 +1355,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenarioonsen/singlemodescenarioonsen.png",
-      "hash": "8bcc3adb8d4556644c5742cc55eba83e2f7c05a564e058826a46fd4b372a187f",
-      "size": 1045126
+      "hash": "c24857cce6e230a136a816d6ebda326c6ab32838738f396b7b6463723c8c8b33",
+      "size": 1040254
     },
     {
       "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.diff.png",
