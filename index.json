@@ -729,6 +729,11 @@
       "size": 1188813
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_bathing_ticket_get00/tx_uTex_fl_singlemode_onsen_bathing_ticket_get00_0.png",
+      "hash": "fcaff9a0b48a2a3c7ccb5bd1f4411e7409a30420ee0e367b4d39cfc0fe231601",
+      "size": 341532
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_btn_trainingmenu00/tx_uTex_fl_singlemode_onsen_btn_trainingmenu00_0.png",
       "hash": "11204083f3f4cfe13b90386406ddf7cd23d81842ed34f3dba74920f21f91758f",
       "size": 152891
@@ -739,9 +744,29 @@
       "size": 92247
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_equipment_get00/tx_uTex_fl_singlemode_onsen_equipment_get00_0.png",
+      "hash": "928a995f2de0afb3ccd544e31b177ff6ffec87033c44e8c4e5694a0e93f5a8d1",
+      "size": 199912
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_event_join00/tx_uTex_fl_singlemode_onsen_event_join00_0.png",
+      "hash": "e917281cee5e442eb7ec35503fe12ff9c94f39cf71d1a6631db20ec983aa729a",
+      "size": 207144
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_header_hpgauge00/tx_uTex_fl_singlemode_onsen_header_hpgauge00_0.png",
       "hash": "9354d0317053d780ec8d04bc71aa341f6d6b7702852300529bb40da6be01c577",
       "size": 59217
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_header_turncounter00/tx_uTex_fl_singlemode_onsen_header_turncounter00_0.png",
+      "hash": "08e57289804b0acb2d3d44ad097cbe498f41074dc6a9d7c1c925491c7889ff11",
+      "size": 19352
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_hotspring_map_result01/tx_uTex_fl_singlemode_onsen_hotspring_map_result01_0.png",
+      "hash": "68c642e480a2a918457ed208827f5df7d244f643f61930511df504d36023d44d",
+      "size": 148304
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_ryokan_rank00/tx_uTex_fl_singlemode_onsen_ryokan_rank00_0.png",
@@ -759,6 +784,11 @@
       "size": 359322
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_onsen_yuami_btn00/tx_uTex_fl_singlemode_onsen_yuami_btn00_0.png",
+      "hash": "70c0d052f222e9aadd31eea3d6939e11128afab8adbc87d269078cc73de48c04",
+      "size": 364013
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_btn_evaluate_decide00/tx_uTex_fl_singlemode_pioneer_btn_evaluate_decide00_0.png",
       "hash": "cb46e3ba6862707e6cc2fa158a766f06e2d496ef17da230a25185d0444d655b5",
       "size": 312190
@@ -769,14 +799,9 @@
       "size": 102691
     },
     {
-      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_btn_trainingmenu_shima00/tx_uTex_fl_singlemode_pioneer_btn_trainingmenu_shima00_0.diff.png",
-      "hash": "df47ef39b8e61174f4eae485d67b7d9490d8b6343263dd10acb1c5fe1c462fbd",
-      "size": 16807
-    },
-    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_btn_trainingmenu_shima00/tx_uTex_fl_singlemode_pioneer_btn_trainingmenu_shima00_0.png",
-      "hash": "bab57ae3c573b942f46b3c07869ccc0123253c7a36e9dddbfed4da49c7f3f0f1",
-      "size": 318795
+      "hash": "4452e8c019c72a5dd5b11972e211fa66cc3aced764cccae2cde850fbf560d569",
+      "size": 148793
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_construction_progress00/tx_uTex_fl_singlemode_pioneer_construction_progress00_0.png",
@@ -12705,8 +12730,8 @@
     },
     {
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_btn_trainingmenu_shima00.json",
-      "hash": "112e75f9d58d7ea9f13c8f66fab2fd3d1d787df5a3bbba4e18e0b308d73fa3db",
-      "size": 698
+      "hash": "7ae5ee063634fb0b0d7a5b06a6b48f5c541c8158102657aba0b5e82963aedd82",
+      "size": 1189
     },
     {
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_header_turncounter00.json",
@@ -12810,8 +12835,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "d205dff1952afd9b41043c8563285dd8ce187615b383d4522a9e1cc240c4846c",
-      "size": 9855
+      "hash": "f6d4692ec764116a759a0024f55d5455e54e001d4fa3a2bd78d89a7f6c3b1e62",
+      "size": 9991
     },
     {
       "path": "includesandroid",
@@ -12820,8 +12845,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "419dbb6f5c9404881fda33787b97604bd6e1072e1a34fc34a67b3772fe1d41f1",
-      "size": 283034
+      "hash": "5aaba462213a98cb357cd4dc9b66c87fa62a1754fd0a9cfb6d88c65296480f70",
+      "size": 284523
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -12835,8 +12860,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "e803b1df0b03af36e623b9316492f541f4d736f196cd0f365ce1e0a31dfb7c8b",
-      "size": 3018795
+      "hash": "321363f66cd1adbba714b1cf56aa6458bcc8f8ca2c883d224c99fc5407be4a05",
+      "size": 3023495
     }
   ]
 }
