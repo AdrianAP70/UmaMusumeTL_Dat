@@ -20136,7 +20136,8 @@
         "720031": "JBC Classic Master",
         "730001": "Gold Carrot Button",
         "730002": "Diamond Carrot Button",
-        "730003": "Red Diamond Carrot Button"
+        "730003": "Red Diamond Carrot Button",
+        "512101": "Paradise ♪ Yukoma Hot Spring Village"
     },
     "66": {
         "100101": "Unlocked from the start",
@@ -33144,7 +33145,8 @@
         "8": "Harvest! Feast! \nThe Great Food Festival",
         "9": "Run, Mecha Trainee!\n-Invention of Dreams-",
         "10": "The Twinkle Legends",
-        "11": "Welcome to the Wilds\n-DESIGN YOUR ISLAND-"
+        "11": "Welcome to the Wilds\n-DESIGN YOUR ISLAND-",
+        "12": "Paradise ♪ Yukoma Hot Spring Village"
     },
     "120": {
         "1": "$(scale 90)The petite and eccentric Director Akikawa has declared the establishment of a new tournament, the <color=#FF6D26>URA Finale</color>! Trainers and trainees will have to work as one if they want to be crowned the inaugural URA champions!",
@@ -50806,20 +50808,60 @@
         "37": "Skill Pts <color=#ff911c>+100</color>",
         "38": "Activates Hint Gain effect twice",
         "39": "Stamina can temporarily recover up to 150",
-        "3": "Removes all conditions: Night Owl, Dry Skin & Migraine",
+        "3": "$(nb)$(scale 90)Removes all conditions: Night Owl, Skin Outbreak & Migraine",
         "5": "Motivation <color=#ff911c>+1</color>",
         "1": "Training Effect <color=#ff911c>10%</color>",
-        "4": "Failure Rate <color=#ff911c>-20%</color>"
+        "4": "Failure Rate <color=#ff911c>-20%</color>",
+        "7": "Speed friendship bonus <color=#ff911c>15%</color>",
+        "16": "Speed friendship bonus <color=#ff911c>25%</color>",
+        "28": "Speed friendship bonus <color=#ff911c>45%</color>",
+        "8": "Power friendship bonus <color=#ff911c>20%</color>",
+        "19": "Power friendship bonus <color=#ff911c>40%</color>",
+        "30": "Power friendship bonus <color=#ff911c>60%</color>",
+        "10": "Stamina friendship bonus <color=#ff911c>20%</color>",
+        "22": "Stamina friendship bonus <color=#ff911c>40%</color>",
+        "29": "Stamina friendship bonus <color=#ff911c>60%</color>",
+        "11": "Guts friendship bonus <color=#ff911c>20%</color>",
+        "20": "Guts friendship bonus <color=#ff911c>40%</color>",
+        "31": "Guts friendship bonus <color=#ff911c>60%</color>",
+        "13": "Wit friendship bonus <color=#ff911c>20%</color>",
+        "25": "Wit friendship bonus <color=#ff911c>40%</color>",
+        "32": "Wit friendship bonus <color=#ff911c>60%</color>",
+        "14": "Stats gained when training goals are achieved <color=#ff911c>+30%</color>",
+        "26": "Stats gained when training goals are achieved <color=#ff911c>+60%</color>",
+        "35": "Stats gained when training goals are achieved <color=#ff911c>+80%</color>",
+        "17": "Hint rate bonus <color=#ff911c>100%</color>",
+        "23": "Stamina usage <color=#ff911c>-10%</color>"
     },
     "407": {
-        "9": "Energy <color=#ff911c>+5</color>",
-        "12": "Energy <color=#ff911c>+5</color>",
-        "15": "Energy <color=#ff911c>+5</color>",
-        "18": "Energy <color=#ff911c>+15</color>",
-        "21": "Energy <color=#ff911c>+15</color>",
-        "24": "Energy <color=#ff911c>+15</color>",
-        "27": "Energy <color=#ff911c>+15</color>",
-        "34": "Energy <color=#ff911c>+30</color>"
+        "9": "$(scale 90)Energy <color=#ff911c>+5</color>",
+        "12": "$(scale 90)Energy <color=#ff911c>+5</color>",
+        "15": "$(scale 90)Energy <color=#ff911c>+5</color>",
+        "18": "$(scale 90)Energy <color=#ff911c>+15</color>",
+        "21": "$(scale 90)Energy <color=#ff911c>+15</color>",
+        "24": "$(scale 90)Energy <color=#ff911c>+15</color>",
+        "27": "$(scale 90)Energy <color=#ff911c>+15</color>",
+        "34": "$(scale 90)Energy <color=#ff911c>+30</color>",
+        "7": "$(scale 90)Speed friendship bonus <color=#ff911c>15%</color>",
+        "16": "$(scale 90)Speed friendship bonus <color=#ff911c>25%</color>",
+        "28": "$(scale 90)Speed friendship bonus <color=#ff911c>45%</color>",
+        "8": "$(scale 90)Power friendship bonus <color=#ff911c>20%</color>",
+        "19": "$(scale 90)Power friendship bonus <color=#ff911c>40%</color>",
+        "30": "$(scale 90)Power friendship bonus <color=#ff911c>60%</color>",
+        "10": "$(scale 90)Stamina friendship bonus <color=#ff911c>20%</color>",
+        "22": "$(scale 90)Stamina friendship bonus <color=#ff911c>40%</color>",
+        "29": "$(scale 90)Stamina friendship bonus <color=#ff911c>60%</color>",
+        "11": "$(scale 90)Guts friendship bonus <color=#ff911c>20%</color>",
+        "20": "$(scale 90)Guts friendship bonus <color=#ff911c>40%</color>",
+        "31": "$(scale 90)Guts friendship bonus <color=#ff911c>60%</color>",
+        "13": "$(scale 90)Wit friendship bonus <color=#ff911c>20%</color>",
+        "25": "$(scale 90)Wit friendship bonus <color=#ff911c>40%</color>",
+        "32": "$(scale 90)Wit friendship bonus <color=#ff911c>60%</color>",
+        "14": "$(scale 90)Stats gained when training\\ngoals are achieved <color=#ff911c>+30%</color>",
+        "26": "$(scale 90)Stats gained when training\\ngoals are achieved <color=#ff911c>+60%</color>",
+        "35": "$(scale 90)Stats gained when training\\ngoals are achieved <color=#ff911c>+80%</color>",
+        "17": "$(scale 90)Hint rate bonus <color=#ff911c>100%</color>",
+        "23": "$(scale 90)Stamina usage <color=#ff911c>-10%</color>"
     },
     "408": {
         "1010010": "Energy <color=#ff911c>+{0}</color>",
@@ -50827,14 +50869,18 @@
         "1010030": "Skill Pts <color=#ff911c>+{0}</color>",
         "1070000": "Activates Hint Gain effect twice",
         "1080000": "Stamina can temporarily recover up to 150",
-        "1040001": "Removes all conditions: Night Owl, Dry Skin & Migraine",
+        "1040001": "$(nb)$(scale 90)Removes all conditions: Night Owl, Skin Outbreak & Migraine",
         "1010020": "Motivation <color=#ff911c>+{0}</color>",
         "10000": "Training Effect <color=#ff911c>{0}%</color>",
         "140101": "Speed Friendship Bonus <color=#ff911c>{0}%</color>",
         "140105": "Stamina Friendship Bonus <color=#ff911c>{0}%</color>",
         "140102": "Power Friendship Bonus <color=#ff911c>{0}%</color>",
         "140103": "Guts Friendship Bonus <color=#ff911c>{0}%</color>",
-        "120000": "Failure Rate <color=#ff911c>-20%</color>"
+        "120000": "Failure Rate <color=#ff911c>-20%</color>",
+        "140106": "Wit friendship bonus <color=#ff911c>{0}%</color>",
+        "80000": "Stats gained when training goals are achieved <color=#ff911c>+{1}%</color>",
+        "20000": "Hint rate bonus <color=#ff911c>{0}%</color>",
+        "40000": "Stamina usage <color=#ff911c>-{0}%</color>"
     },
     "402": {
         "1": "Hole Digger",
@@ -50845,5 +50891,37 @@
         "2": "Soil Layer",
         "3": "Rock Layer",
         "1": "Sand Layer"
+    },
+    "412": {
+        "4": "Renowned Hot Spring Lodge",
+        "5": "Legendary Hot Spring Lodge",
+        "2": "Trendy Hot Spring Inn",
+        "3": "Famous Hot Spring Inn",
+        "1": "Secluded Hot Spring Inn"
+    },
+    "432": {
+        "4": "Renowned Hot Spring Lodge",
+        "5": "Legendary Hot Spring Lodge",
+        "3": "Famous Hot\\nSpring Inn",
+        "1": "Secluded Hot\\nSpring Inn",
+        "2": "Trendy Hot\\nSpring Inn"
+    },
+    "397": {
+		"1": "Yukoma Hot Spring",
+        "2": "Swift Gallop",
+        "3": "$(scale 80)Perseverance Spring",
+        "4": "Clarity Spring",
+		"5": "Swift Spring",
+        "6": "$(scale 85)Strong Legs Spring",
+		"7": "Sturdy Spring",
+        "8": "Sky Flight Spring",
+        "10": "Legendary Spring"
+    },
+    "422": {
+        "140101": "スピードの友情ボーナス <color=#ff6d26>{0}%</color>",
+        "140102": "Power Friendship Bonus <color=#ff6d26>{0}%</color>",
+        "140105": "Stamina Friendship Bonus <color=#ff6d26>{0}%</color>",
+        "140103": "Guts Friendship Bonus <color=#ff6d26>{0}%</color>",
+        "140106": "Wit friendship bonus <color=#ff6d26>{0}%</color>"
     }
 }
