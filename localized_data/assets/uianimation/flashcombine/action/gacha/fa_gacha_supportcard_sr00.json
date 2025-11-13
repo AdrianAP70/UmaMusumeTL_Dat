@@ -1,0 +1,38 @@
+{
+    "windows": {
+        "bundle_name": "424BGVKWPUTFAN6L4NBQN6HPX5EK56ZO"
+    },
+    "data": {
+		"an_root": {
+        "motion_parameter_list": {
+			"1": {
+                "plane_param_list": {
+                    "1": {
+                        "position_offset": {
+                            "x": -100.0,
+                            "y": 85.0,
+                            "z": 0.0
+                        }
+                    }
+                }
+            },
+            "2": {
+                "text_param_list": {
+                    "0": {
+						"scale": {
+                            "x": 0.80,
+                            "y": 0.80,
+                            "z": 0.80
+                        },
+                        "position_offset": {
+                            "x": -400.0,
+                            "y": 20.0,
+                            "z": 0.0
+                        }
+                    }
+                }
+            }
+        }
+	}
+  }
+}
