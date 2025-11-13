@@ -12829,6 +12829,21 @@
       "size": 2995
     },
     {
+      "path": "assets/uianimation/flashcombine/action/gacha/fa_gacha_supportcard_r00.json",
+      "hash": "641edd4be65ba4dea0e7e36273c6091f58322ee2ce381f9ab9a4248e7312320c",
+      "size": 968
+    },
+    {
+      "path": "assets/uianimation/flashcombine/action/gacha/fa_gacha_supportcard_sr00.json",
+      "hash": "9d37d31e82b149eac81081e92393fce71daf9eaee7adc975acc4cde351332895",
+      "size": 969
+    },
+    {
+      "path": "assets/uianimation/flashcombine/action/gacha/fa_gacha_supportcard_ssr00.json",
+      "hash": "7f6aad112aed17f9a45c5da0eda4766c7ba9efcd2963007a027bba4bc406e73f",
+      "size": 969
+    },
+    {
       "path": "assets/uianimation/flashcombine/action/singlemode/onsen/fa_singlemode_onsen_ryokan_rank00.json",
       "hash": "619bfd911afafa5c060a69aa3b340b4efe817d9cb5a9683c41dcd7762300da17",
       "size": 858
@@ -12880,8 +12895,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "8b2d6128343af351ce7d0c43727a6182e70a43b4a82543b74e72106d465e74b2",
-      "size": 3025157
+      "hash": "c7a3259cd3ab9ca6d26bca186c52f7083a2581188673b69de3ce57657d3bc1ce",
+      "size": 3025482
     }
   ]
 }
