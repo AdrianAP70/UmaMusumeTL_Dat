@@ -46660,7 +46660,8 @@
         "400006002": "Tutorial",
         "400005000": "Tutorial",
         "400004002": "Tutorial",
-        "400011001": "Tutorial"
+        "400011001": "Tutorial",
+        "400012020": "One day, at Yukoma Hot Spring...♪"
     },
     "264": {
         "29": "Hikari (NPC)"
@@ -50618,17 +50619,25 @@
     },
     "388": {
         "1001": "As long as the Goal Race's fan req. is not met, partake in races that match your Uma's aptitudes.",
-        "1002": "As long as the Goal's fan req. is not met, partake in races that match your Uma's aptitudes.",
-        "1003": "As long as the Goal Race's race req. is not met, partake in races that match your Uma's aptitudes.",
-        "1004": "Partake in races that match your Uma's aptitudes when she has yet to win a race once.",
+        "1002": "If you haven't achieved your target number \nof fans, enter a race that suits your aptitude.",
+        "1003": "If you have not achieved race results of your \ntarget race, enter race that suits aptitude.",
+        "1004": "When undefeated, enter a race that suits \nyour aptitude",
         "10001": "As long as the Goal Race's fan req. is not met, partake in races that match your Uma's aptitudes.",
-        "10002": "As long as the Goal's fan req. is not met, partake in races that match your Uma's aptitudes.",
-        "10003": "As long as the Goal Race's race req. is not met, partake in races that match your Uma's aptitudes.",
-        "10004": "Partake in races that match your Uma's aptitudes when she has yet to win a race once.",
+        "10002": "If you haven't achieved your target number \nof fans, enter a race that suits your aptitude.",
+        "10003": "If you have not achieved race results of your \ntarget race, enter race that suits aptitude.",
+        "10004": "When undefeated, enter a race that suits \nyour aptitude",
         "11001": "When you don't have enough fans to qualify \ntarget race, enter race that suits aptitude.",
         "11002": "If you haven't achieved your target number \nof fans, enter a race that suits your aptitude.",
         "11003": "If you have not achieved race results of your \ntarget race, enter race that suits aptitude.",
-        "11004": "When undefeated, enter a race that suits \nyour aptitude"
+        "11004": "When undefeated, enter a race that suits \nyour aptitude",
+        "12001": "When you don't have enough fans to qualify \ntarget race, enter race that suits aptitude.",
+        "2001": "When you don't have enough fans to qualify \ntarget race, enter race that suits aptitude.",
+        "2002": "If you haven't achieved your target number \nof fans, enter a race that suits your aptitude.",
+        "12002": "If you haven't achieved your target number \nof fans, enter a race that suits your aptitude.",
+        "2003": "If you have not achieved race results of your \ntarget race, enter race that suits aptitude.",
+        "12003": "If you have not achieved race results of your \ntarget race, enter race that suits aptitude.",
+        "2004": "When undefeated, enter a race that suits \nyour aptitude",
+        "12004": "When undefeated, enter a race that suits \nyour aptitude"
     },
     "390": {
         "10001": "Darley Arabian's Training",
@@ -50651,7 +50660,9 @@
         "110006": "Pause when creating a construction plan and \nmanually select facilities",
         "110007": "If you have an Island Training Ticket, you can \npause & choose whether to manually conduct \nIsland Training.",
         "110003": "Event [Training Center Recommendation]",
-        "110005": "Event [A reward from Tucker!]"
+        "110005": "Event [A reward from Tucker!]",
+        "120005": "Pause at spring selection to manually choose \nspring and upgrade gear",
+        "120003": "Event \"One day, at Yukoma Hot Spring...♪\""
     },
     "394": {
         "3": "Fans <color=#FF6D26>+{0}</color>",
@@ -50696,7 +50707,9 @@
         "43": "Affected by {0}\n<color=#FF6D26>Challenge Zone</color> will prevent {0}.",
         "44": "Friendship Gauge of all support cards and all allies <color=#FF6D26>+{0}</color>\nFriend and group types excluded.",
         "45": "<atlas=SingleModeScenarioPioneer sprite=utx_ico_pioneer_resource_s_00/> Dev Pt<color=#FF6D26>+{0}</color>",
-        "46": "All support cards' specialty rate <color=#FF6D26>{0}</color> next turn.\nFriend and group types excluded."
+        "46": "All support cards' specialty rate <color=#FF6D26>{0}</color> next turn.\nFriend and group types excluded.",
+        "48": "Bath Ticket <color=#FF6D26>+{0}</color>",
+        "49": "Enables Super Recovery"
     },
     "400": {
         "10100": "Speed Facility Lv 0",
@@ -50758,11 +50771,14 @@
         "110001": "Do not continue when participating in a race \nfor which you are not suited",
         "10002": "Do not continue when racing in G2 or lower \nrace.",
         "100002": "Do not continue when racing in G2 or lower \nrace.",
-        "110002": "Do not continue when racing in G2 or lower \nrace."
+        "110002": "Do not continue when racing in G2 or lower \nrace.",
+        "120002": "Do not continue when racing in G2 or lower \nrace.",
+        "120001": "Do not continue when participating in a race \nfor which you are not suited"
     },
     "389": {
         "11101": "Event [Training Center Recommendation]",
-        "11102": "A reward from Tucker!"
+        "11102": "A reward from Tucker!",
+        "12101": "Event \"One day, at Yukoma Hot Spring...♪\""
     },
     "418": {
         "1": "Depends on your choice in the event\n'タッカーさんからの、ご褒美！'."
@@ -50831,7 +50847,8 @@
         "26": "Stats gained when training goals are achieved <color=#ff911c>+60%</color>",
         "35": "Stats gained when training goals are achieved <color=#ff911c>+80%</color>",
         "17": "Hint rate bonus <color=#ff911c>100%</color>",
-        "23": "Stamina usage <color=#ff911c>-10%</color>"
+        "23": "Stamina usage <color=#ff911c>-10%</color>",
+        "33": "If your support card types are 5+, 3 extra members\nappear in training"
     },
     "407": {
         "9": "$(scale 90)Energy <color=#ff911c>+5</color>",
@@ -50861,7 +50878,8 @@
         "26": "$(scale 90)Stats gained when training\\ngoals are achieved <color=#ff911c>+60%</color>",
         "35": "$(scale 90)Stats gained when training\\ngoals are achieved <color=#ff911c>+80%</color>",
         "17": "$(scale 90)Hint rate bonus <color=#ff911c>100%</color>",
-        "23": "$(scale 90)Stamina usage <color=#ff911c>-10%</color>"
+        "23": "$(scale 90)Stamina usage <color=#ff911c>-10%</color>",
+        "33": "$(scale 90)If your support card types are\n5+, 3 extra members appear in\ntraining"
     },
     "408": {
         "1010010": "Energy <color=#ff911c>+{0}</color>",
@@ -50880,7 +50898,8 @@
         "140106": "Wit Friendship Bonus <color=#ff911c>{0}%</color>",
         "80000": "Stats gained when training goals are achieved <color=#ff911c>+{1}%</color>",
         "20000": "Hint rate bonus <color=#ff911c>{0}%</color>",
-        "40000": "Stamina usage <color=#ff911c>-{0}%</color>"
+        "40000": "Stamina usage <color=#ff911c>-{0}%</color>",
+        "50001": "If your support card types are 5+, 3 extra members\nappear in training"
     },
     "402": {
         "1": "Hole Digger",
@@ -50900,11 +50919,11 @@
         "1": "Secluded Hot Spring Inn"
     },
     "432": {
-        "4": "Renowned Hot Spring Lodge",
-        "5": "Legendary Hot Spring Lodge",
-        "3": "Famous Hot\\nSpring Inn",
-        "1": "Secluded Hot\\nSpring Inn",
-        "2": "Trendy Hot\\nSpring Inn"
+        "4": "$(scale 70)Renowned Hot Spring Lodge",
+        "5": "$(scale 70)Legendary Hot Spring Lodge",
+        "3": "$(scale 70)Famous Hot Spring Inn",
+        "1": "$(scale 70)Secluded Hot Spring Inn",
+        "2": "$(scale 70)Trendy Hot Spring Inn"
     },
     "397": {
 		"1": "Yukoma Hot Spring",
@@ -50915,6 +50934,7 @@
         "6": "$(scale 85)Strong Legs Spring",
 		"7": "Sturdy Spring",
         "8": "Sky Flight Spring",
+		"9": "$(scale 80)Hidden Spring Yukoma",
         "10": "Legendary Spring"
     },
     "422": {
