@@ -30586,7 +30586,8 @@
         "30271": "[Magic from the stage] Fuji Kiseki",
         "30275": "[Genius Utopia]Tokai Teio",
         "30276": "[Yururi Yukoma Inn]Kenko Hoshina",
-        "10138": "[Yukoma Inn Landlady] Kenko Hoshina"
+        "10138": "[Yukoma Inn Landlady] Kenko Hoshina",
+        "20091": "[Brewing Silence]Sakura Chitose O"
     },
     "76": {
         "10001": "[Tracen Academy]",
@@ -31071,7 +31072,8 @@
         "30271": "[Magic from the stage]",
         "30275": "[Genius Utopia]",
         "30276": "[Yururi Yukoma Inn]",
-        "10138": "[Yukoma Inn Landlady]"
+        "10138": "[Yukoma Inn Landlady]",
+        "20091": "[Brewing Silence]"
     },
     "77": {
         "10001": "Special Week",
@@ -37224,7 +37226,8 @@
         "30269": "Today Was Fun",
         "30271": "Magic from the stage",
         "30275": "Genius Utopia",
-        "30276": "Yururi Yukoma Inn"
+        "30276": "Yururi Yukoma Inn",
+        "20091": "Brewing Silence"
     },
     "151": {
         "1": "Friendship Bonus",
