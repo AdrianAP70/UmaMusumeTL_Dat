@@ -16916,7 +16916,7 @@
         "910231": "$(nb)Slightly increase speed during middle leg by maintaining a good position from the start to the second half of the race",
         "910241": "$(nb)If you overtake someone during the Final Corner or beyond, then: 1) if you're in the front, your speed will slightly increase; 2) if you're in the middle of the pack, your acceleration will slightly increase.",
         "910251": "$(nb)If you stayed in the back of the pack for the entire first half of the race, then during the Final Corner, you will get slight a speed boost; the effect is stronger in Long races.",
-        "910261": "$(nb)Slightly increase speed by taking a tiny breath when running in the leading group during a middle leg corner and you detect a Trainee behind",
+        "910261": "$(ho 1)$(nb)Slightly increase speed by taking a tiny breath when running in the leading group during a middle leg corner and you detect a Trainee behind",
         "910271": "$(nb)During any downhill around the end of the Middle Leg, if you're 2nd on worse and close to the lead, your speed will slightly increase; if it's a medium distance race, your acceleration will too.",
         "910291": "$(nb)Around the middle of the race, if you're near the front and about to overtake someone, your speed will slightly increase; the effect is stronger in Mile races.",
         "910301": "$(nb)During the Middle Leg, if you're in the first half of the pack but aren't in the lead, your speed will marginally increase, your stamina will slightly recover, and you will slightly drain stamina from all enemies ahead of you.",
