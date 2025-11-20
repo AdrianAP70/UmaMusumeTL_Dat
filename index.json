@@ -29,6 +29,11 @@
       "size": 71622
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_chara_talent_levelup00/tx_uTex_fl_chara_talent_levelup00_0.png",
+      "hash": "5c44f6d4dfb235a9c576a325578c4667e7db2462e2bd8cc29e42b1319d7b26b4",
+      "size": 404421
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_chara_txt_hint_lvup00/tx_uTex_fl_chara_txt_hint_lvup00_0.diff.png",
       "hash": "1248f51ef047134b96a3396e2bc75bc9415099fa1530b6072a9363a2c363f176",
       "size": 61631
@@ -1200,8 +1205,8 @@
     },
     {
       "path": "assets/atlas/common/common.png",
-      "hash": "4cd64e93b71704bb80e98a029bb233b4cc8e590b8c02a4abad8020855edbde28",
-      "size": 2234110
+      "hash": "c4183ec205e37cdf2b41221989997adc7b3ccd2448c9116feac57b19d697758f",
+      "size": 2191092
     },
     {
       "path": "assets/atlas/directory/directory.json",
@@ -1282,6 +1287,16 @@
       "path": "assets/atlas/photostudio/photostudio.png",
       "hash": "7652fcec4d0b67bfdc6eb3adf4cd13aee8648bf4ce5c3fc93d83482e777cc8b2",
       "size": 108194
+    },
+    {
+      "path": "assets/atlas/practicerace/practicerace.diff.png",
+      "hash": "ef056f132cb72538efb85df8a1233df6468b97393702b9c7426930024bd3b9b8",
+      "size": 71288
+    },
+    {
+      "path": "assets/atlas/practicerace/practicerace.json",
+      "hash": "766bdd3bd81de7cc78c142795721675a9e9fd901705eeae5f24a34b77745d02a",
+      "size": 150
     },
     {
       "path": "assets/atlas/race/race.diff.png",
@@ -8649,6 +8664,16 @@
       "size": 169056
     },
     {
+      "path": "assets/textures/chara/chr1074/petit/petit_chr_1074_107446_0070.png",
+      "hash": "71af656f53c98fa9762f142717adb14c9afbb3db4c605be340c8ca4412333adb",
+      "size": 179400
+    },
+    {
+      "path": "assets/textures/chara/chr1074/petit/petit_chr_1074_107446_0071.png",
+      "hash": "65f6a069bed8b13723bad3219501f854eaebee0d1f04ec78fed857d6cca4d46f",
+      "size": 186978
+    },
+    {
       "path": "assets/textures/chara/chr1077/petit/petit_chr_1077_107746_0070.png",
       "hash": "c748794553d98ce407e47fee56a5f34f4cf6e10384fd9d1e4ed51e63fd712f0d",
       "size": 159708
@@ -11089,6 +11114,11 @@
       "size": 1190385
     },
     {
+      "path": "assets/textures/outgame/comic/tex_comic_1017_01.png",
+      "hash": "689ad4dea95d4d4b8a5f2d10ea749b8d5d9264e40e0736cba25316196f4caf8f",
+      "size": 1453093
+    },
+    {
       "path": "assets/textures/outgame/comic/tex_comic_1018_01.diff.png",
       "hash": "fde201eb249b29368349d1251a9c28fff7118f26daffffe1b0b6228d47a0eb24",
       "size": 1257853
@@ -12845,7 +12875,7 @@
     },
     {
       "path": "assets/uianimation/flashcombine/action/gacha/fa_gacha_supportcard_ssr00.json",
-      "hash": "ca1b6f266150217ab004de6c78a4cfee513a52ff9b77fbe1afaf2a579223097d",
+      "hash": "779e57221e68ee10af2331bbb9d0478bc9f27c602a6a7e4f063401f2729d9b8e",
       "size": 969
     },
     {
@@ -12857,6 +12887,11 @@
       "path": "assets/uianimation/flashcombine/action/singlemode/pioneer/fa_singlemode_pioneer_badge_shimatraining00.json",
       "hash": "607e2f4619ce6fbada6c2b039f573acefe4b121fe27cd058f7c8769561cc944c",
       "size": 274
+    },
+    {
+      "path": "assets/uianimation/flashcombine/timeline/chara/tat_chara_talent_levelup00.json",
+      "hash": "a9c15fc199fb1090f4b19d8fec19e728800d8d458e0ecf0ab1b3b0592721d0cb",
+      "size": 1
     },
     {
       "path": "character_system_text_dict.json",
@@ -12900,8 +12935,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "8bc37c8bd47c396cd1ce58ecadecbd8d0b76348c716504cf301226c550bfa3b8",
-      "size": 3025610
+      "hash": "dc656b865c01bc0fcda3697e119abb7532f8ec81c4b3aa30f3ce24a99860a5fb",
+      "size": 3025617
     }
   ]
 }
