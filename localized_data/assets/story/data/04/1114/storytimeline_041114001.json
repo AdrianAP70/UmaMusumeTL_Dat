@@ -1,0 +1,279 @@
+{
+  "title": "“It’s a Promise.”",
+  "text_block_list": [
+    {
+      "text": "…I stop once in front of the school gate and gently touch the brand new collar badge.",
+      "choice_data_list": [
+        "<size=32>Alright...</size>"
+      ]
+    },
+    {
+      "text": "My chest trembles. …Starting today, my days here at Tracen Academy as an Umamusume trainer will begin.",       "choice_data_list": [
+        "<size=32>Let’s go...!</size>"
+      ]
+    },
+    {
+      "text": "The destination is already set. …It has been set, long ago."
+    },
+    {
+      "text": "I run with everything I have. …Toward the promised place. Toward her."
+    },
+    {
+      "text": "And then…",
+      "choice_data_list": [
+        "<size=32>Sorry to keep you...</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……Hehe... Are you okay? Your face is completely red."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "But… you rushed here… all the way, with everything you had, right?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Thank you. I’ve been waiting the whole time. …“Trainer!”",
+      "choice_data_list": [
+        "<size=32>Yeah...!</size>",
+        "<size=32>Yeah...</size>"
+      ]
+    },
+    {
+      "text": "Her expression is far more grown-up than back then. Yet the pure, piercing brightness that strikes my chest has never changed."
+    },
+    {
+      "text": "It was such a girl—Buena Vista—that I met. Both of us were still very young."
+    },
+    {
+      "name": "Buena’s Mother",
+      "text": "…Come now, say hello. This is <username>-kun, who moved in next door. Please get along well, okay?",
+      "choice_data_list": [
+        "<size=32>Um… n-nice to meet you, Buena-chan...</size>",
+        "<size=32>Um… n-nice to meet you, Buena-chan...</size>"
+      ]
+    },
+    {
+      "name": "Buena’s Mother",
+      "text": "…Come now, say hello. This is <username>-chan, who moved in next door. Please get along well, okay?",
+      "choice_data_list": [
+        "<size=32>Um… n-nice to meet you, Buena-chan...</size>",
+        "<size=32>Um… n-nice to meet you, Buena-chan...</size>"
+      ]
+    },
+    {
+      "name": "Young Buena",
+      "text": "…Big brother…? Um… you know, I’m Buu-chan. Nice… to meet you?"
+    },
+    {
+      "name": "Young Buena",
+      "text": "…Big sister…? Um… you know, I’m Buu-chan. Nice… to meet you?"
+    },
+    {
+      "text": "I remember. When I nervously grasped the small hand she timidly held out, her fluffy tail gently swayed behind her."
+    },
+    {
+      "name": "Young Buena",
+      "text": "Sniff, uuuh…! It hurts, right? It’s painful, right…? You keep coughing… and your fever… uuuh…!",
+      "choice_data_list": [
+        "<size=32>I’m fine, so… don’t cry, Buena...</size>",
+        "<size=32>I’m fine, so… don’t cry, Buena...</size>"
+      ]
+    },
+    {
+      "name": "Young Buena",
+      "text": "But, but…! You know, I’ve grown bigger. I can carry you now, big brother! See…!?",
+      "choice_data_list": [
+        "<size=32>No no no! It’s fine, I’m fine!</size>"
+      ]
+    },
+    {
+      "name": "Young Buena",
+      "text": "But, but…! You know, I’ve grown bigger. I can carry you now, big sister! See…!?",
+      "choice_data_list": [
+        "<size=32>No no no! It’s fine, I’m fine!</size>"
+      ]
+    },
+    {
+      "text": "I remember. Seeing her so persistent, her overflowing— far too overflowing sensitivity and kindness felt endearing."
+    },
+    {
+      "text": "…I remember. It was a day after Buena Vista had been attending the club where young Umamusume learn to run."
+    },
+    {
+      "name": "Club Trainer",
+      "text": "Okay, everyone! Time for a mock race~. Is everyone ready? Then… on your marks… go!!"
+    },
+    {
+      "name": "Young Buena",
+      "text": "Go! …Taaaahhhhh!!",
+      "choice_data_list": [
+        "<size=32>…!</size>"
+      ]
+    },
+    {
+      "name": "Young Buena",
+      "text": "Hehe… yeah, not yet!! Yaaaaaaahhhh!!"
+    },
+    {
+      "text": "Seeing her serious run for the first time… it was far, far too powerful, striking my heart."
+    },
+    {
+      "text": "…And that night, I was so excited I couldn’t sleep at all.",
+      "choice_data_list": [
+        "<size=32>(And then…)</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…What, you’re choosing to go to a trainer academy!? And the central one…!?",
+      "choice_data_list": [
+        "<size=32>Yeah. …I’ve actually been thinking about it for a long time...</size>",
+        "<size=32>Yeah. …I’ve actually been thinking about it for a long time...</size>"
+      ]
+    },
+    {
+      "text": "“Ever since I first saw you run, I’ve truly always…” Continuing so, I brace myself and strike my chest before her. “I…”",
+      "choice_data_list": [
+        "<size=32>I want to become your trainer someday!</size>",
+        "<size=32>I want to become your trainer someday!</size>"
+      ]
+    },
+    {
+      "text": "“Ever since I first saw you run, I’ve truly always…” Continuing so, I brace myself and strike my chest before her. “I…”",
+      "choice_data_list": [
+        "<size=32>I want to become your trainer someday!</size>",
+        "<size=32>I want to become your trainer someday!</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…!! That… means—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…Ahh… geez. You know I’m a crybaby. Saying it suddenly… it’s a little unfair."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "But… thank you. I’ll work hard too. I’ll definitely pass Tracen Academy!"
+    },
+    {
+      "text": "It was a childish promise, almost reckless. Yet it began to shine brightly… on that day."
+    },
+    {
+      "text": "Buena Vista successfully became a Tracen Academy student… and as for me, I was studying hard to pass the trainer qualification exam that autumn."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Um… how is it? The charm."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I think I made it a bit better than the one I gave you for your entrance exam support… or at least, that’s what I tell myself. Hehehe...",
+      "choice_data_list": [
+        "<size=32>Yeah, it’s beautifully made. Thank you...</size>",
+        "<size=32>Yeah, it’s beautifully made. Thank you...</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "No no. …Ah, I have to get to the stands soon! I want to secure a spot where I can see well.",
+      "choice_data_list": [
+        "<size=32>Yeah. Watching is a valuable learning opportunity...</size>",
+        "<size=32>Yeah. Watching is a valuable learning opportunity...</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Yeah! Both you and I are studying together today! For the “Japan Cup,” did you choose the Umamusume to watch? I did—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I think… Special Week-san!"
+    },
+    {
+      "name": "Special Week",
+      "text": "TAAAAAAAAHHHH!!"
+    },
+    {
+      "name": "Announcer",
+      "text": "It’s Special Week, Special Week!! Special Week takes the lead!!"
+    },
+    {
+      "name": "Announcer",
+      "text": "The other Umamusume are chasing desperately, but Special Week!! Number 13, Special Week, crosses the finish line first!!"
+    },
+    {
+      "name": "Announcer",
+      "text": "Japan’s pride, Special Week!! Defeating even the Arc-winning Umamusume, with dignity— with dignity, wins the “Japan Cup”!!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……………!!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Amazing… amazing, amazing!! What a run, what an impact, what cheers… what a—)",
+      "choice_data_list": [
+        "<size=32>What a… sight...</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…! Yeah. Yeah, yeah…!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "What a breathtaking view…!!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…Hey. Someday, absolutely, we too—!",
+      "choice_data_list": [
+        "<size=32>Yeah. We will too…!!</size>",
+        "<size=32>Yeah. We will too…!!</size>"
+      ]
+    },
+    {
+      "text": "“Someday, we’ll definitely reach such a breathtaking view.”"
+    },
+    {
+      "text": "The childhood promise thus became the irreplaceable dream of the two of us.",
+      "choice_data_list": [
+        "<size=32>(And so, we’ve come this far)</size>",
+        "<size=32>(And so, we’ve come this far)</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Then… once again. …Can I hear it?"
+      ,
+      "choice_data_list": [
+        "<size=32>Yeah. Buena, with me…</size>",
+        "<size=32>Yeah. Buena, with me…</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…Okay.",
+      "choice_data_list": [
+        "<size=32>Will you make a “provisional contract” with me?</size>",
+        "<size=32>Will you make a “provisional contract” with me?</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ah…"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "………Huh?"
+    }
+  ]
+}

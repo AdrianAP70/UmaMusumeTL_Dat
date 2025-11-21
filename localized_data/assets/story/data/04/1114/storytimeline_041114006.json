@@ -1,0 +1,303 @@
+{
+  "title": "“The Time We Couldn't Meet.”",
+  "text_block_list": [
+    {
+      "name": "Buena Vista",
+      "text": "Huh… checking the menu. Hehe, such a serious face."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Just the usual you."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Phew...",
+      "choice_data_list": [
+        "<size=32>Buena, got a moment?</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…! Yes. Is your break over?",
+      "choice_data_list": [
+        "<size=32>No, I just wondered if something was wrong...</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Eh? Ah… no, nothing at all! It just got a little warm, so I spaced out."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Oh right, you’ve got pool training after this, right? Good! Jumping in now would feel amazing.",
+      "choice_data_list": [
+        "<size=32>(She’s a bit tense… if she can’t talk here…)</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…Huh? A day off? Yeah, I’m free. Why?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Eh? You want to go back home? With me…?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Wow… it’s been so long…! Ah, look. That bookstore."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "We used to buy study guides together. And from that butcher shop, we’d get croquettes and share them…"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "It’s all the same.",
+      "choice_data_list": [
+        "<size=32>Let’s walk around a bit!</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Yeah!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hehe, the grass is still overgrown. This place hasn’t changed either."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "We played hide-and-seek here all the time. You’d cover your eyes by that tree and count one, two…"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "You always hid in the same place. …Oh, you were doing that for me, right?",
+      "choice_data_list": [
+        "<size=32>Who knows...</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hehe, the truth is a secret? Then I won’t ask anymore."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "And we often prayed together too. For anything."
+    },
+    {
+      "name": "Young Buena",
+      "text": "Hic… uuh… big brother scraped his knee… please… heal it quickly…!",
+      "choice_data_list": [
+        "<size=32>May it heal cleanly so we can play like always</size>"
+      ]
+    },
+    {
+      "name": "Young Buena",
+      "text": "Hic… uuh… big sister scraped her knee… please… heal it quickly…!",
+      "choice_data_list": [
+        "<size=32>May it heal cleanly so we can play like always</size>"
+      ]
+    },
+    {
+      "name": "Young Buena",
+      "text": "Tomorrow’s sports day! Please make it bright and sunny! Hmmm!",
+      "choice_data_list": [
+        "<size=32>I hope it’ll be perfect weather to run</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "They granted quite a lot of our wishes. Oh, let’s visit and thank them.",
+      "choice_data_list": [
+        "<size=32>Yeah, they’ve taken care of us for so long</size>",
+        "<size=32>Yeah, they’ve taken care of us for so long</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Eh… really? Even recently?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I see. Then we definitely have to thank them!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hello! It’s been a while, ma’am!"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Oh my, Buena-chan and you! My goodness, you’ve both grown so much! I’m so happy you came!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I’m happy to see you again too. Um, do you still sell mugwort buns?"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Of course, dear. You always loved them. Want some today?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…! Yes! Trainer, would you like the same?"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Oh, right. I also have yokan. It’s been your favorite lately, hasn’t it, big brother?"
+    },
+    {
+      "name": "Shopkeeper",
+      "text": "Oh, right. I also have yokan. It’s been your favorite lately, hasn’t it, big sister?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Eh, yokan…? Didn’t you say before it was too sweet for you?",
+      "choice_data_list": [
+        "<size=32>I’ve grown to like the sweetness…</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I see, it is tasty! Then let’s get some of that too."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Oh… that shop closed down…"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I see… this place too…",
+      "choice_data_list": [
+        "<size=32>You’re… not feeling much better, are you?</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "! No… or rather, I see. You were worried about me?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I wondered why you invited me… so that was the reason."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hey… can we stop by the shrine one more time? There’s something I want to pray for.",
+      "choice_data_list": [
+        "<size=32>…Sure</size>"
+      ]
+    },
+    {
+      "text": "(Clang clang… clap clap)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(…I’m not a child anymore. I’ll become an adult quickly. I’ll overcome this loneliness.)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(So please watch over me. So I won’t make you worry. So I can show you a bright smile…!)"
+    },
+    {
+      "text": "(Clink)",
+      "choice_data_list": [
+        "<size=32>…What was that sound?</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Um, over here… ah, an ema fell! Maybe the string snapped…"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hm? This handwriting… I’ve seen it…"
+    },
+    {
+      "text": "It should be familiar handwriting. After all, it was something I wrote recently…!",
+      "choice_data_list": [
+        "<size=32>Ah, that…!</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "“May I become someone worthy of Buena.” …Eh?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…Hey, what does this mean? Can you… tell me?"
+    },
+    {
+      "text": "I told her everything. The shock I felt when I saw how much she’d grown as a runner. How I studied desperately, prayed desperately, to stand beside that distant flower.",
+      "choice_data_list": [
+        "<size=32>…I wanted to make it come true</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…You worked that hard… all while thinking that?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…Even though we spent so much time apart. Even though so many things changed…",
+      "choice_data_list": [
+        "<size=32>But this never changed</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…!",
+      "choice_data_list": [
+        "<size=32>I always wished I could stay by your side</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…We were never apart."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "You stayed just as you always were… your heart was always beside me…"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…Hey, what else?",
+      "choice_data_list": [
+        "<size=32>Eh?</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ah, hehe, sorry for asking suddenly."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I just wanted to know. About you, when we were apart."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "About the you I didn’t know.",
+      "choice_data_list": [
+        "<size=32>Your smile finally came back</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Yeah!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Sorry. I’m okay now. …I finally graduated."
+      ,
+      "choice_data_list": [
+        "<size=32>Graduated… from what?</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hmm…"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Maybe… from being “Lonely Buu-chan”?"
+    }
+  ]
+}

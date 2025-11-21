@@ -1,0 +1,230 @@
+{
+  "title": "“She Ran, and Ran, and Ran.”",
+  "text_block_list": [
+    {
+      "text": "A few days after the incident before the Three Goddesses statue. At the fan event held at the Tokyo Racecourse, an exhibition race was held…"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "…Oh? Hey. Look over there where the trainers are crowding—"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "There’s a shiny new rookie standing alone. Is that the one from the rumors?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Eh, you mean Buena-chan’s childhood friend!? No way, where where!? Wait wait, did you already sign a contract!? Already!? Emo…!!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hehe, yes yes, that’s them! And as for now—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "We’re still in a provisional contract."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ah, it’s about time…! I need to get ready for the race! Well then, Nakayama-san, Jordan-san, I’ll excuse myself here."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "…………Eh, seriously? “Provisional”!? What’s that supposed to meaaaan!?"
+    },
+    {
+      "name": "Announcer",
+      "text": "—Now, the exhibition race is entering its final stage! 400 meters left! Coming from the outside is Buena Vista! Buena Vista with a sharp finish!"
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "Oh my! She’s got quite the finishing burst…! At this level already… hehe, with polish she’ll shine brilliantly!"
+    },
+    {
+      "name": "Mid-career Trainer",
+      "text": "I heard today’s exhibition had top-level competitors gathered… But yeah, even among them, Buena Vista’s on another level!!"
+    },
+    {
+      "name": "Announcer",
+      "text": "—Goal in! First place is Buena Vista!! Buena Vista!! The one who brilliantly livened up the exhibition!!",
+      "choice_data_list": [
+        "<size=32>…………</size>"
+      ]
+    },
+    {
+      "name": "Announcer",
+      "text": "Despite not having debuted yet, it was a performance that promises a bright future. The crowd showers Buena Vista with thunderous applause!"
+    },
+    {
+      "text": "Surrounded by roaring cheers—alone, I clench my fist tightly.",
+      "choice_data_list": [
+        "<size=32>(This is the current “Buena Vista”…)</size>"
+      ]
+    },
+    {
+      "text": "It’s vivid, overwhelming. I feel it painfully. Come to think of it—back then, she was like this too."
+    },
+    {
+      "text": "Back then, I had entered the academy after grueling studying… and the days were harder, harsher than I ever imagined.",
+      "choice_data_list": [
+        "<size=32>(Becoming a trainer felt so far away)</size>"
+      ]
+    },
+    {
+      "text": "Before I knew it—there I stood in front of the academy gate I’d always admired. Ashamed of my own weakness, yet my eyes searched for her."
+    },
+    {
+      "text": "But at that moment, cheers erupted from the grounds—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hff, hff…! Haaaaaaah!!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Nghhhhhh…!! Amaaaaazing…!!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Hah, this is the candidate for our year…? Looks like a losing bet for me…!",
+      "choice_data_list": [
+        "<size=32>…!!</size>"
+      ]
+    },
+    {
+      "text": "…There was no way I could “support each other” with someone like that. From outside the academy fence, seeing her from afar—she looked like a distant, unreachable star."
+    },
+    {
+      "text": "While I was struggling to even become a trainer, she had already left me far behind… as a runner with a shining future.",
+      "choice_data_list": [
+        "<size=32>(But thinking back… maybe she always was)</size>"
+      ]
+    },
+    {
+      "name": "Young Buena",
+      "text": "Haa, huff… big brother, where are you…? Don’t leave Buu-chan behind…!!",
+      "choice_data_list": [
+        "<size=32>Sorry, I’m right here! Come here, Buena...</size>"
+      ]
+    },
+    {
+      "name": "Young Buena",
+      "text": "Haa, huff… big sister, where are you…? Don’t leave Buu-chan behind…!!",
+      "choice_data_list": [
+        "<size=32>Sorry, I’m right here! Come here, Buena...</size>"
+      ]
+    },
+    {
+      "text": "…I could only hold her hand like that for a very short time, when she was still so small."
+    },
+    {
+      "name": "Young Buena",
+      "text": "Hehe, ahahaha!! This way, this way!! Let’s go, big bro—…huh?"
+    },
+    {
+      "name": "Young Buena",
+      "text": "Hehe, ahahaha!! This way, this way!! Let’s go, big sis—…huh?"
+    },
+    {
+      "name": "Young Buena",
+      "text": "Ah, sorry! I ran too fast again… I need to slow down, right? Sorry.",
+      "choice_data_list": [
+        "<size=32>N-no… it’s me, sorry for being slow</size>"
+      ]
+    },
+    {
+      "text": "She soon became faster, faster, endlessly faster. Unlike me—the Umamusume who was born to run.",
+      "choice_data_list": [
+        "<size=32>(…But—!!)</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ah, found you…! Hehe, I’m glad. You came to watch the exhibition, right?",
+      "choice_data_list": [
+        "<size=32>Yeah. I fully understand your current strength...</size>",
+        "<size=32>Yeah. I fully understand your current strength...</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hehe, that’s good. …So, starting tomorrow, can we begin full training?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Your provisional-contract goal from earlier— winning the “Event-Specific Competition.”"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…We’ll have to work very hard. There are insanely strong girls gathered this time—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Among them, the most anticipated are Scarlet-chan, who won both the Oka Sho and Shuka Sho, earning the Double Tiara—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "And Vodka-chan, the Tiara Umamusume who still won the Japan Derby, said to be the dream of all Umamusume."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Facing such representatives of the era… you said you’d make pre-debut me win. Right?",
+      "choice_data_list": [
+        "<size=32>…Yeah, of course</size>",
+        "<size=32>…Yeah, of course</size>"
+      ]
+    },
+    {
+      "text": "After that, I bowed my head and asked her: that she judge whether she should enter a full contract with me."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Judge… um, me? Judge you? But—",
+      "choice_data_list": [
+        "<size=32>…Buena, you’ve been rejecting a lot of scouts, right?</size>",
+        "<size=32>…Buena, you’ve been rejecting a lot of scouts, right?</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "! …You knew?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I’m surprised. I heard today was your first day—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I understand. You’re… an amazing Umamusume...",
+      "choice_data_list": [
+        "<size=32>I understand. You’re… an amazing Umamusume...</size>",
+        "<size=32>I understand. You’re… an amazing Umamusume...</size>"
+      ]
+    },
+    {
+      "text": "That’s why she left me behind so quickly. …But even so, I couldn’t give up."
+    },
+    {
+      "text": "The day I saw her beyond the fence, I ran home grinding my teeth. From that day on, I studied relentlessly, desperately."
+    },
+    {
+      "text": "Because I wanted to catch up. Stand beside her. Not just “because we were childhood friends”—",
+      "choice_data_list": [
+        "<size=32>(I wanted to be someone she’d choose…!)</size>",
+        "<size=32>(I wanted to be someone she’d choose…!)</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "—Yeah. I definitely want to reach the breathtaking scenery that Spe-san once showed me."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "So I’ll choose the trainer who fits best for that. That’s what I intend to do."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…Well then! Starting tomorrow, I’ll be in your care, provisional trainer."
+    }
+  ]
+}

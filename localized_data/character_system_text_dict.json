@@ -3345,7 +3345,8 @@
         "200001": "Fufu♪ Are you curious about the \nsecrets of the Umamusume?",
         "23005": "As expected of you, Trainer. You have quite the eye for things♪",
         "220003": "Fufu, thank you for the exchange♪",
-        "23004": "Thank you very much. Please use it with care♪"
+        "23004": "Thank you very much. Please use it with care♪",
+        "200002": "Our Umamusume talks are fascinating."
     },
     "9002": {
         "300001": "Mission complete! Don't forget to claim your rewards!",
@@ -3385,5 +3386,8 @@
     },
     "1092": {
         "110001": "The academy’s history, huh? There must be so many “main characters” in it..."
+    },
+    "1114": {
+        "70001": "I’m lucky to have someone chasing the same dream with me."
     }
 }

@@ -1,0 +1,308 @@
+{
+  "title": "“Everything, Always, From Now On Too.”",
+  "text_block_list": [
+    {
+      "name": "Buena Vista",
+      "text": "(The final run of summer camp...! The result of working in perfect sync with Trainer-san!)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Yaaaaaaaah!!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Trainer-san, thank you so much!",
+      "choice_data_list": [
+        "<size=32>Congrats on completing the entire training menu!</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Yes! ...This is the end. Summer camp went by in a flash."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hehe, we ran so much. Nothing but running. Is this youth?",
+      "choice_data_list": [
+        "<size=32>Then want to do something more summer-like?</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Eh? ...Is that okay?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Yeah, yeah...! Let’s do it. Wait a second, I’ll look for an event!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Trainer-san, there’s a fireworks festival. Isn’t that very summery?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...We went together before too, right? Mom dressed me in a yukata and we climbed a tall building...",
+      "choice_data_list": [
+        "<size=32>Yeah, I remember. I think—</size>"
+      ]
+    },
+    {
+      "name": "Young Buena",
+      "text": "Waah...! So pretty! Ufufu, ta-ma-yaaa!"
+    },
+    {
+      "name": "Young Buena",
+      "text": "Big brother, which firework do you like? Buu-chan likes the golden one!"
+    },
+    {
+      "name": "Young Buena",
+      "text": "Big sister, which firework do you like? Buu-chan likes the golden one!"
+    },
+    {
+      "name": "Young Buena",
+      "text": "I wanna see them closer...! Then it’d look like they’re falling down softly, right?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...How nostalgic. I wonder if we can see them closer than back then?",
+      "choice_data_list": [
+        "<size=32>Then I’ll find a place like that!</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Really? Hehe, I’ll look forward to it."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Then the meeting time is—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Maybe I came a little too early?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Still... they remembered watching fireworks with me. ...Hehehe)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Since that time, huh. I wonder if Trainer-san still sparkles their eyes even as an adult? Hehe)",
+      "choice_data_list": [
+        "<size=32>Buena, sorry to keep you!</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...! No, I just got here."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Then let’s go. Where is it?",
+      "choice_data_list": [
+        "<size=32>Yeah, this way!</size>",
+        "<size=32>Yeah, this way!</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Eh?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Eh?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ehh...!?",
+      "choice_data_list": [
+        "<size=32>What’s wrong, Buena?</size>",
+        "<size=32>What’s wrong, Buena?</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "W-wrong? But this is... a boat, or rather, we’re on the ocean!?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "You said we’re going to see fireworks... did you... reserve a cruise ship...?",
+      "choice_data_list": [
+        "<size=32>I found it while searching and booked it without thinking!</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Without thinking, huh...!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hehe, hehehe...! Geez...!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...I can’t imagine it... a cruise ship.",
+      "choice_data_list": [
+        "<size=32>This is the closest spot to see the fireworks</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Even unexpected things... you can pull them off so smoothly now."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Adults really are... amazing. You’re getting cooler and cooler."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...You really changed. A lot, since we were kids.",
+      "choice_data_list": [
+        "<size=32>If that’s true, it’s thanks to you</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Because of... me?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(You said it so casually... saying something unbelievable like it’s normal.)",
+      "choice_data_list": [
+        "<size=32>Being just childhood friends wasn’t enough to stand beside you</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Your murmured words were tinted with a hint of bitterness)",
+      "choice_data_list": [
+        "<size=32>I worked as hard as I could, thinking I had to change</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Your eyes looking straight at me were as gentle as ever — but stronger than before)",
+      "choice_data_list": [
+        "<size=32>So if I did change, it’s thanks to you</size>",
+        "<size=32>So if I did change, it’s thanks to you</size>"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "“For Buena, I can work as hard as needed. I can grow endlessly — that’s all there is to it.”"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Big brother."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "...Big sister."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Big brother."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Big sister."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "It’s unfair. No matter how much I chase you... it’s never enough."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Because you keep showing new sides of yourself."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "But... do you ever get lonely again?",
+      "choice_data_list": [
+        "<size=32>...Do you ever feel lonely again?</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "No, not at all. Now I’m just—so happy I can’t help it."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Learning more... wanting to know more... makes me happy."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Both the things about you that never change... and the things that do."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Both the things about you that never change... and the things that do."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Always by your side... closest to you. Is it okay if I watch you like that?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Because I want to know everything from now on too...!",
+      "choice_data_list": [
+        "<size=32>...Of course!</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Fireworks burst into the sky. Far bigger and brighter than the ones we saw that day.)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(A dreamlike spectacle, engraved into my eyes beside you.)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ah, it’s the golden firework...! ...Amazing. It’s sparkling and pouring down...",
+      "choice_data_list": [
+        "<size=32>It’s like golden rain</size>",
+        "<size=32>It’s like golden rain</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Yeah, yeah... sniff. Huh? Somehow... uuuh...!",
+      "choice_data_list": [
+        "<size=32>Overwhelmed?</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Because, because...! It’s just so beautiful...!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Why is it? Compared to back then, it’s even..."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "..."
+    },
+    {
+      "name": "Young Buena",
+      "text": "Big brother, which firework do you like? Buu-chan likes the golden one!"
+    },
+    {
+      "name": "Young Buena",
+      "text": "Big sister, which firework do you like? Buu-chan likes the golden one!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(I kept looking only at the fireworks. I didn’t notice what the golden light illuminated.)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ah, I see."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "How beautiful."
+    }
+  ]
+}

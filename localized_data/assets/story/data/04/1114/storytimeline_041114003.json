@@ -1,0 +1,240 @@
+{
+  "title": "“Yes, That’s Why… Me Too.”",
+  "text_block_list": [
+    {
+      "name": "Buena Vista",
+      "text": "For so, so long. …Ever since I was very small, you were always by my side."
+    },
+    {
+      "name": "Young Buena",
+      "text": "Uu, uuu… I don’t like the rain… sniff…!",
+      "choice_data_list": [
+        "<size=32>Buena, I found you!… Come on, let’s go home together</size>"
+      ]
+    },
+    {
+      "name": "Young Buena",
+      "text": "Ah, big brother! Wah… you’re all soaked…! Are you okay? Did you… look for me a lot…?"
+    },
+    {
+      "name": "Young Buena",
+      "text": "Ah, big sister! Wah… you’re all soaked…! Are you okay? Did you… look for me a lot…?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Clutching the umbrella meant for me, while getting drenched yourself. Even so, you always came for me— the crybaby, spoiled little me."
+    },
+    {
+      "name": "Buena’s Mother",
+      "text": "…So, there’s a race next month for lower-grade elementary kids. What do you think? …Do you want to try entering?"
+    },
+    {
+      "name": "Young Buena",
+      "text": "Yeah! I want to try… I want to run! And then—…Hey, Mom."
+    },
+    {
+      "name": "Young Buena",
+      "text": "If I ask him to come watch… will big brother come? Will he… watch me run again?"
+    },
+    {
+      "name": "Young Buena",
+      "text": "If I ask her to come watch… will big sister come? Will she… watch me run again?"
+    },
+    {
+      "name": "Young Buena",
+      "text": "(And will they look at me again… with those sparkling eyes from last time…?)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "With those eyes that always looked straight at me, with that shine… you always gave my legs the power to become invincible."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…Hey. Someday, for sure, we will too—!"
+    },
+    {
+      "name": "Monologue",
+      "text": "“Yeah. We will too…!!”"
+    },
+    {
+      "name": "Monologue",
+      "text": "“Yeah. We will too…!!”"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "“Someday we’ll definitely reach a breathtaking view like that.”"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…Yes, you were the one I made that precious, precious promise with."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Huff…! Okay, that’s enough for the warm-up!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "So today we’re focusing on training on the woodchip course… right?",
+      "choice_data_list": [
+        "<size=32>Yeah. Let’s start with 1000m</size>",
+        "<size=32>Yeah. Let’s start with 1000m</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "You said you wanted to start at a relaxed intensity, right? Then… a pace of about 18 seconds per furlong?"
+      ,
+      "choice_data_list": [
+        "<size=32>No. I want to start at 20 seconds per furlong</size>",
+        "<size=32>No. I want to start at 20 seconds per furlong</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Eh, that’s pretty slow…! And the woodchip course is gentle on the legs, so—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…Are you maybe really, really worried about me? I’m okay, you know? My body’s stronger than before.",
+      "choice_data_list": [
+        "<size=32>Yeah, that’s true. But still—</size>",
+        "<size=32>Yeah, that’s true. But still—</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I see… The outer loop course I told you about before— so it really had that many hard-ground spots?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I ran there yesterday too… so the stress on the bones must’ve built up. That’s why we should focus on the woodchip course with high cushioning—",
+      "choice_data_list": [
+        "<size=32>But of course, we’ll increase the load gradually</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……Yeah. Understood, Trainer!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hah, hah, hah… whew! 16-second pace, done…! Whew…"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(For a moment… I kind of thought you were still my gentle, gentle “big brother”…)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(For a moment… I kind of thought you were still my gentle, gentle “big sister”…)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(But that’s not right. You’re a trainer now.)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(…You became one for me, like this.)",
+      "choice_data_list": [
+        "<size=32>Alright, break’s over! Last—15-second pace!</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Yes!! I’m off!!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "—Thanks for going over the plan leading up to competition day. I’ll work hard starting tomorrow too, Trainer!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "So, with that… that’s all for today’s meeting, right? If you’d like, want to take a break together? I’ll make some tea."
+      ,
+      "choice_data_list": [
+        "<size=32>Ah, wait… before that, one more thing</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hm?",
+      "choice_data_list": [
+        "<size=32>About the breathtaking view you’re aiming for—</size>",
+        "<size=32>About the breathtaking view you’re aiming for—</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "“What kind of breathtaking view do I want to reach,” huh…"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I mean, sure, I admired Spe-san’s Japan Cup, but I’m not Spe-san. I can’t recreate the exact same scenery."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Of course, I have my own breathtaking view I want to reach! It’s not super concrete yet, though.",
+      "choice_data_list": [
+        "<size=32>Yeah. So… what kind?</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "A “breathtaking view that reaches everyone,” I think."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Carrying as many people’s hopes and dreams on my back as I can. Reaching that place together with as many people as possible—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "A strong, dazzling, glorious scene of victory. That’s the dream I’m aiming for."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "That’s why I want to run in a way that moves everyone’s hearts. A way that makes someone fall in love at first sight and want to cheer forever."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I want to be an Umamusume who can light a powerful, powerful flame of expectation in everyone’s hearts."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "……Hehe. For a pre-debut girl, is that dream a little bold? You’re making that face.",
+      "choice_data_list": [
+        "<size=32>Eh!? No, not at all—</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "But I believe in it."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I’m sure that someday, I’ll reach that breathtaking view I dream of. I believe that."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I’ve never once doubted this feeling. Not even once.",
+      "choice_data_list": [
+        "<size=32>Not even once…</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Ah… again.)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Your face got a little tense.)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "—Alright! This time for sure, the meeting’s over, okay?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Then, let’s take a break together. …I’ll make some warm tea."
+    }
+  ]
+}

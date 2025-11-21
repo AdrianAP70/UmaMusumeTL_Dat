@@ -727,7 +727,8 @@
         "102802": "[Magic Knight Garland] Hishi Akebono",
         "105502": "[Trick☆Ribbonetta] Marvelous Sunday",
         "109201": "[Center ◎ Spotlight]Dantsu Flame",
-        "108002": "[Yoiyami Neo-Kagura]Transcend"
+        "108002": "[Yoiyami Neo-Kagura]Transcend",
+        "111401": "[Heroína Inocente]Buena Vista"
     },
     "5": {
         "100101": "[Special Dreamer]",
@@ -15718,7 +15719,9 @@
         "110801": "Geothermal Overdrive",
         "910801": "Geothermal Overdrive",
         "203981": "Vigorous Spirit",
-        "108002211": "Heh, I'm not letting this slip~☆"
+        "108002211": "Heh, I'm not letting this slip~☆",
+        "204061": "Bold Spirit",
+        "204062": "Firm Resolve"
     },
     "48": {
         "10071": "$(nb)If you're in the second half of the pack halfway through the race, your speed will slightly increase.",
@@ -17012,13 +17015,13 @@
         "1200031": "$(nb)Turf・Become better at Mile races. This skill is exclusively for the event.",
         "1200041": "$(nb)Turf・Become better at Sprint races. This skill is exclusively for the event.",
         "1200051": "$(nb)Dirt・Become better at Medium races. This skill is exclusively for the event.",
-        "1300011": "$(nb)If your motivation is Perfect, your acceleration will permanently marginally increase, you will get a bonus of 60 to all base stats, and you will become immune to debuffs.",
-        "1300021": "$(nb)If it's sunny and the track condition is good, your acceleration will permanently marginally increase, and you will get a bonus of 80 to all base stats.",
-        "1300031": "$(nb)If it's raining and the track condition is bad, your acceleration will permanently slightly increase, and you will get a bonus of 100 to Speed and Stamina stats.",
-        "1300041": "$(nb)If you've started the race in gate block 1, 2, or 3, your speed and acceleration will slightly increase at the start, and then during the Final Leg, your acceleration will slightly increase and your stamina will recover.",
-        "1300051": "$(nb)If you've started the race in gate block 6, 7, or 8, you will get a bonus of 100 to Speed, Stamina, and Power, and then during the Final Leg, your acceleration will slightly increase.",
-        "1300061": "$(nb)During the Final Leg, if your team has activated at least 6 skills combined during the race, your acceleration will increase and your stamina will recover; bonus effect if the skill count is 10 or more.",
-        "1300071": "$(nb)During the Final Leg, your acceleration will slightly increase, you'll get a great speed boost, and your stamina will recover.",
+        "1300011": "$(scale 75)If your motivation is Perfect, your acceleration gains a small permanent boost, all base stats increase by 60,and you become resistant to debuffs.",
+        "1300021": "$(scale 75)If it's sunny and the track condition is good, your acceleration will permanently marginally increase, and you will get a bonus of 80 to all base stats.",
+        "1300031": "$(scale 75)If it's raining and the track condition is bad, your acceleration will permanently slightly increase, and you will get a bonus of 100 to Speed and Stamina stats.",
+        "1300041": "$(scale 75)Starting from gate 1–3 gives a small Speed and acceleration boost at launch,and in the Final Leg your acceleration rises again while also restoring some stamina.",
+        "1300051": "$(scale 75)If you've started the race in gate block 6, 7, or 8, you will get a bonus of 100 to Speed, Stamina, and Power, and then during the Final Leg, your acceleration will slightly increase.",
+        "1300061": "$(scale 75)In the Final Leg, if your team triggers 6+ skills, you gain acceleration and stamina recovery, with an extra bonus if 10+ skills activate.",
+        "1300071": "$(scale 75)During the Final Leg, your acceleration will slightly increase, you'll get a great speed boost, and your stamina will recover.",
         "1400011": "$(nb)During the last spurt, your speed will greatly increase.",
         "1400021": "$(nb)During the Last Spurt, your acceleration will increase",
         "92111091": "$(nb)Pull ahead subtly for a short period when in a final leg corner of a Triple Tiara race. Also increase acceleration subtly if on a downhill.",
@@ -17088,7 +17091,7 @@
         "101201211": "$(nb)End・If you were in the second half of the pack in the Final Leg, then during the first half of the Last Spurt, your speed will greatly increase.",
         "101202111": "$(nb)End・Increase speed for a while when in the trailing pack during the Middle Leg",
         "101202211": "$(nb)End・Medium・If you don't panic (kakari) for the first 2/3 of the race, your acceleration will increase in the first half of the Final Leg.",
-        "101202221": "$(nb)End・Medium・At a random point during the first half of the Final Leg, your acceleration will increase and you'll get a slight speed boost",
+        "101202221": "$(nb)End/Medium・At a random point during the first half of the Final Leg, your acceleration will increase and you'll get a slight speed boost",
         "101301111": "$(nb)Long・If you're in the first half ot the pack during the Middle Leg, your speed will greatly increase.",
         "101301211": "$(nb)Pace・If you're in the first half of the pack during the second half of the Opening Leg, your speed will increase and your stamina will recover.",
         "101302111": "$(nb)Long・At a random point during the Middle Leg, your speed will slightly increase and your stamina will recover.",
@@ -17559,7 +17562,11 @@
         "110801": "$(nb)Dirt・When mid-race approaches, greatly increases speed for short time. If you're in the front; later, near the middle of the race, slightly moves forward when being caught up",
         "910801": "$(nb)Dirt・When mid-race approaches, slightly increases speed for a short time if you're in the front; later, near the middle of the race, slightly advances forward when being caught up",
         "203981": "$(nb)Dirt • During the third corner before the final corner, advances forward when in the front",
-        "108002211": "$(nb)Dirt • During the third corner before the final corner, advances forward when in the front; afterwards, when a rival activates a speed skill, slightly advances forward"
+        "108002211": "$(nb)Dirt • During the third corner before the final corner, advances forward when in the front; afterwards, when a rival activates a speed skill, slightly advances forward",
+        "101141": "$(nb)If you're mid-pack later, move up a bit; in mile or mid-distance, move up a lot.",
+        "901141": "If mid-pack midway, move up a bit",
+        "204061": "$(nb)End・Move up in the 3rd corner if mid-pack in mid-distance.",
+        "204062": "$(nb)End・If mid-pack in the 3rd corner before the final, move up slightly in mid distance."
     },
     "49": {
         "1": "50 Carats",
@@ -34247,7 +34254,14 @@
         "41131003": "It's Already Been Decided By MiRules!",
         "41131005": "Are You Familiar With Miles?",
         "41131006": "Do You Understand Miles?",
-        "41131007": "Do You Love Miles?"
+        "41131007": "Do You Love Miles?",
+        "41114001": "(It’s a Promise.)",
+        "41114002": "(She Ran, and Ran, and Ran.)",
+        "41114003": "(Yes, That’s Why... Me Too.)",
+        "41114004": "(This Is the Beginning.)",
+        "41114005": "(Because We Were Always Together.)",
+        "41114006": "(The Time We Couldn't Meet.)",
+        "41114007": "(Everything, Always, From Now On Too.)"
     },
     "136": {
         "1": "Spectator A",
@@ -36869,7 +36883,10 @@
         "2040503": "With a Light in My Heart",
         "10800201": "Geothermal Overdrive",
         "10800202": "Geothermal Overdrive",
-        "10800203": "Geothermal Overdrive"
+        "10800203": "Geothermal Overdrive",
+        "2040601": "Firm Resolve",
+        "2040602": "Firm Resolve",
+        "2040603": "Firm Resolve"
     },
     "148": {
         "1": "Ace Bonus",
@@ -47687,13 +47704,13 @@
         "4205": "Support event stat gains +25%"
     },
     "297": {
-        "100": "$(nb)When the Hero Gauge is MAXed you can obtain a Hero Skill!",
-        "101": "$(nb)You can look forward to the race results after gaining a Hero Skill even more excitedly!",
-        "102": "$(nb)Some Hero Skills can be activated by using Race Items!",
-        "103": "$(nb)The Hero Gauge will be at MAX soon!",
-        "104": "$(nb)It looks like your team's strong desire for racing will be a great strength!",
-        "200": "$(nb)You can find a lot of info regarding League of Heroes here!",
-        "300": "$(nb)When reaching PLATINUM1 you can obtain a unique title with one eligible Trainee's name!",
+        "100": "When the Hero Gauge is MAXed you can obtain a Hero Skill!",
+        "101": "You can look forward to the race results after gaining a Hero Skill even more excitedly!",
+        "102": "Some Hero Skills can be activated by using Race Items!",
+        "103": "The Hero Gauge will be at MAX soon!",
+        "104": "It looks like your team's strong desire for racing will be a great strength!",
+        "200": "You can find a lot of info regarding League of Heroes here!",
+        "300": "When reaching PLATINUM1 you can obtain a unique title with one eligible Trainee's name!",
         "302": "$(nb)A Trainee's \"Tale\" title can be obtained after the Main Stage ranks are determined!",
         "303": "$(nb)You can check the League Scores obtained by each Trainee in the Main Stage here!",
         "400": "$(nb)You can use Race Items in the Main Stage.",

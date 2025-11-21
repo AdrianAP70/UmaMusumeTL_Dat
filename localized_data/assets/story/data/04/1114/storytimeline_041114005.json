@@ -1,0 +1,187 @@
+{
+  "title": "“Because We Were Always Together.”",
+  "text_block_list": [
+    {
+      "name": "Young Buena",
+      "text": "Hmm… ah! Hehe!"
+    },
+    {
+      "name": "Young Buena",
+      "text": "Big brother! Found you!",
+      "choice_data_list": [
+        "<size=32>Aah, you found me!</size>"
+      ]
+    },
+    {
+      "name": "Young Buena",
+      "text": "Big sister! Found you!",
+      "choice_data_list": [
+        "<size=32>Aah, you found me!</size>"
+      ]
+    },
+    {
+      "name": "Young Buena",
+      "text": "Hehe…! You know, you always hide here. Buu-chan knows it well!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…Before I knew it, I’d remembered everything. The things you like, the things you don’t. Even little habits, naturally. All of it."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…That was just “normal.”"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…Ah, you’re still working. Hehe, good work.",
+      "choice_data_list": [
+        "<size=32>Buena, were you running until this late too?</size>",
+        "<size=32>Buena, were you running until this late?</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Yeah. And you know, during my self-training, I found something…"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ta-da! What do you think this is?",
+      "choice_data_list": [
+        "<size=32>…Ah! The ice cream we used to eat!</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Correct! You liked it, but we haven’t seen it for a while. They revived it. Want to eat together?",
+      "choice_data_list": [
+        "<size=32>…You remembered?</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hehe, we ate it enough times to remember. So, how’s the preparation for the trainer study session? Tough?"
+      ,
+      "choice_data_list": [
+        "<size=32>Well, honestly… I’m pretty nervous</size>",
+        "<size=32>Well, honestly… I’m pretty nervous</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…I see. Hey, is there anything I can help with? Tell me anything! I’ll work hard with you."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Um, this is the room for the trainer study session…"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…You said you were nervous, but… are you okay? Maybe I can peek a little—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Hmm… ah, there you are! …Looks like you’re talking to another trainer?"
+    },
+    {
+      "name": "Peer Trainer",
+      "text": "Long time no see! How’ve you been!? Huh? When did we meet last? It’s been forever, right?",
+      "choice_data_list": [
+        "<size=32>You say that every time we meet</size>",
+        "<size=32>You say that every time we meet</size>"
+      ]
+    },
+    {
+      "name": "Peer Trainer",
+      "text": "Hahhaa! Getting tired of it? Hey, stop. Don’t give me that look!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…Huh?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "So you make that kind of face too…?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…How rare…"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(…The study session has started. But Trainer-san being the first presenter…!)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Everyone’s watching. It’s so quiet… please… do your best…!)"
+    },
+    {
+      "name": "Mid-career Trainer",
+      "text": "…A question about that training method. Setting aside the leg burden, how are you determining the transition timing?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(…Such a sharp question…!)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(To answer properly in this situation…!)",
+      "choice_data_list": [
+        "<size=32>Yes, regarding that, let me explain</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…! Ah… huh? You seem… fine?"
+    },
+    {
+      "name": "New Trainer",
+      "text": "Um! Your presentation earlier was really helpful…! I have something I’d like to ask… may I!?",
+      "choice_data_list": [
+        "<size=32>Sure, please send it to this address</size>"
+      ]
+    },
+    {
+      "name": "Peer Trainer",
+      "text": "Hey! There’s a drinking party after this! You’re coming, right?",
+      "choice_data_list": [
+        "<size=32>Of course!</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "A drinking party…"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…………I see."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…That’s the trainer."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…Hehe, thinking about it, it’s obvious, isn’t it? We haven’t been together all the time."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "There are things I don’t know, faces I haven’t seen—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…………I never saw… that face."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…………Big brother."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…………Big sister."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Did you… go a little farther away?"
+    }
+  ]
+}

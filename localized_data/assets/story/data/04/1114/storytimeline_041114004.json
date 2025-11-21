@@ -1,0 +1,299 @@
+{
+  "title": "“This Is the Beginning.”",
+  "text_block_list": [
+    {
+      "name": "Announcer",
+      "text": "Now, next to appear—these two everyone’s been waiting for! Vodka, and Daiwa Scarlet!!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Hehe, thanks for havin’ me...! Yo Scarlet, you ready to lose to me?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hmph, the only thing I’m ready for is making *you* cry! Ahem… everyone! Please cheer for me today!"
+    },
+    {
+      "name": "Announcer",
+      "text": "Listen to this roaring applause! These two represent the current Umamusume racing world, and without a doubt, they’re today’s biggest spotlight!!"
+    },
+    {
+      "name": "Announcer",
+      "text": "This isn’t the full preparation they’d have for the Twinkle Series, but I’m sure they’ll show us something magnificent!"
+    },
+    {
+      "name": "Announcer",
+      "text": "But—despite that! Even so, the one proudly declaring she “won’t give up victory”… is this rising star of an Umamusume…!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I’m Buena Vista. I’ve trained my hardest for today! Please... cheer for me!"
+    },
+    {
+      "name": "Spectators",
+      "text": "Wooooo, Buena Vista!! Do your beeeest!!"
+    },
+    {
+      "name": "Announcer",
+      "text": "Unbelievable! This level of expectation and attention—so hard to believe it's toward a pre-debut Umamusume! What kind of run will she show us!?",
+      "choice_data_list": [
+        "<size=32>(Really… such incredible cheers...)</size>"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Each time she smiles from atop the paddock, the crowd erupts. After watching that scene closely—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Ah, there you are…! You said you wanted to talk before heading to the course… what’s wrong?",
+      "choice_data_list": [
+        "<size=32>Yeah, so—</size>",
+        "<size=32>Yeah, so—</size>"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "While speaking, I stand directly before her—just one small step closer than usual. Then, looking straight into her eyes, I gently speak.",
+      "choice_data_list": [
+        "<size=32>Before you go, let’s take a moment to focus...</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Focus…?",
+      "choice_data_list": [
+        "<size=32>Yeah. Just try listening to only my voice...</size>",
+        "<size=32>Yeah. Just try listening to only my voice...</size>"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "Umamusume have exceptional hearing. Even from this underground approach tunnel, they can clearly hear the cheers outside."
+    },
+    {
+      "name": "Monologue",
+      "text": "But even with that powerful hearing, they have “directionality.” So I call to her slowly, clearly.",
+      "choice_data_list": [
+        "<size=32>Breathe with me. Inhale… and exhale...</size>",
+        "<size=32>Breathe with me. Inhale… and exhale...</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…h… fuuuuuu……"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Huh. I…"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…I just realized. I was really nervous, wasn’t I?",
+      "choice_data_list": [
+        "<size=32>You’ve always… been incredibly sensitive...</size>",
+        "<size=32>You’ve always… been incredibly sensitive...</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "! …Hehe, yeah, I have. The crowd’s energy totally overwhelmed me."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "But I’m okay now! Thank you, I’m heading out. —I’ll win, Trainer!"
+    },
+    {
+      "name": "Monologue",
+      "text": "And then… the long-awaited event-specific competition finally began."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hah, hah… Hah—!!"
+    },
+    {
+      "name": "Announcer",
+      "text": "From the start, Daiwa Scarlet smoothly takes the lead! What a brilliant position! She’s firmly taking control of the pace!",
+      "choice_data_list": [
+        "<size=32>(It’s fine… keep your pace...!)</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Stay calm. Save your legs, and if you bring it to a final burst— “You can fight even against Daiwa Scarlet”!)"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Stay calm. Save your legs, and if you bring it to a final burst— “You can fight even against Daiwa Scarlet”!)"
+    },
+    {
+      "name": "Vodka",
+      "text": "Alright, LET’S GOOOOOOO!!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(Vodka-chan’s explosive final burst… is terrifying! But she wobbles a bit sometimes… that’s why!!)",
+      "choice_data_list": [
+        "<size=32>There’s a gap to aim at! Go, Buena—!!</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Taaaaaaaaah…!!"
+    },
+    {
+      "name": "Announcer",
+      "text": "Daiwa Scarlet in the lead! Vodka is chasing hard!! But—but Buena Vista! Buena Vista is coming too!!"
+    },
+    {
+      "name": "Announcer",
+      "text": "200m left—will it be Vodka, Daiwa Scarlet, or Buena Vista!? Buena Vista is closing in! The finish line is right there—!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "(It hurts… but I won’t give in! I want to win, I *want* to win!! Here… just here—!)"
+    },
+    {
+      "name": "Monologue",
+      "text": "(Waaaaaaaaaaa…!!)"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Seriously. To get within a nose of those monsters… She’s still ridiculous. …She really entertains, huh."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Sure she was amazing before, but wasn’t she extra amazing today!? Isn’t it obviously thanks to *that* person!?"
+    },
+    {
+      "name": "Red Desire",
+      "text": "Yes. Buena… hehe, I see. I felt a sacred guiding light just now."
+    },
+    {
+      "name": "Red Desire",
+      "text": "Even so, my story won’t stop. Hehehehe…♪"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Fuu…… —It’s over, huh."
+    },
+    {
+      "name": "Monologue",
+      "text": "…I simply nod. My planning was naive—nothing more. As regret and guilt swell, just as I open my mouth to apologize—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…I’m frustrated. So frustrated, really…!!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I wanted to! Just today—just today, I *really* wanted to win. So I could show you.",
+      "choice_data_list": [
+        "<size=32>Eh…?</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I’m frustrated, frustrated! I wanted to show you! That with you—*because* it’s with you, I can win!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "I wanted… to show you…!"
+    },
+    {
+      "name": "Monologue",
+      "text": "For a while, she cries and cries. As if… returning to those childhood days. And then—"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…Remember what I said before? When you asked me about the “scenery” I dreamed of reaching."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "That I would definitely reach that dream scenery. That I never once doubted it."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Do you know why I never doubted?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Do you know why I believed I could run in a way that everyone would love, that everyone would cheer for?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "—It’s because *you* were always there!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Always, always—you were obsessed with my running. Always, always—you cheered your heart out for me!"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Even when we grew up, even when we were apart— you stayed deep inside my heart, always."
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…So, you know?",
+      "choice_data_list": [
+        "<size=32>Buena… you—</size>",
+        "<size=32>Buena… you—</size>"
+      ]
+    },
+    {
+      "name": "Monologue",
+      "text": "And I finally understand. Once again… she was ahead of me."
+    },
+    {
+      "name": "Monologue",
+      "text": "She already saw the answer we were supposed to reach. Even though I’m older… I feel a bit ashamed, and then I open my mouth."
+    },
+    {
+      "name": "Monologue",
+      "text": "Once more. As many times as needed. To catch up to her running ahead, so I can support her back.",
+      "choice_data_list": [
+        "<size=32>Buena, let me say it again. With me—!</size>",
+        "<size=32>Buena, let me say it again. With me—!</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Wait."
+    },
+    {
+      "name": "Monologue",
+      "text": "Then—tap. …Her gently extended fingertip lightly touches my lips.",
+      "choice_data_list": [
+        "<size=32>…!? </size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "Sorry. Can I ask for one selfish thing?"
+    },
+    {
+      "name": "Buena Vista",
+      "text": "If we’re redoing it, I want it from the very beginning. …Is that okay?"
+    },
+    {
+      "name": "Monologue",
+      "text": "And so—once again. Facing her at the promised place.",
+      "choice_data_list": [
+        "<size=32>Sorry to keep you, Buena. With me—</size>",
+        "<size=32>Sorry to keep you, Buena. With me—</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "…Okay!",
+      "choice_data_list": [
+        "<size=32>Will you enter a full contract with me?</size>",
+        "<size=32>Will you enter a full contract with me?</size>"
+      ]
+    },
+    {
+      "name": "Buena Vista",
+      "text": "—Yes, absolutely. My Trainer!"
+    }
+  ]
+}
