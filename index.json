@@ -114,6 +114,11 @@
       "size": 69041
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_heroes_btn_get_heroskill00/tx_uTex_fl_heroes_btn_get_heroskill00_0.png",
+      "hash": "3101708ed8a758091780de10e8973042e87384421a5a8223774c849c0374c512",
+      "size": 460074
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_heroes_evalution_text00/tx_uTex_fl_heroes_evalution_text00_0.png",
       "hash": "a313c48750be64e32198f81c7f7a80dabcde6cfb6fc03ba905473c3a6b765967",
       "size": 207324
@@ -124,9 +129,19 @@
       "size": 76586
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_heroes_get_heroskill00/tx_uTex_fl_heroes_get_heroskill00_0.png",
+      "hash": "c032e0aa4ffc381c77ad91ec3f2edc8392959dd2ad62ca784fb14a93c92a3af9",
+      "size": 474043
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_heroes_matching_comp00/tx_uTex_fl_heroes_matching_comp00_0.diff.png",
       "hash": "ac313eb513b0f2d1f94271b65ed327d21a3ce72da31fa870e1f0c9f0833c0138",
       "size": 380439
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_heroes_matching_comp00/tx_uTex_fl_heroes_matching_comp00_0.png",
+      "hash": "411e0e6ab05823c5a7b3a303dd83fa6f523012250bc5faf2e0c23f79ffcbe78f",
+      "size": 1189099
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_heroes_raceresult_gaugemax00/tx_uTex_fl_heroes_raceresult_gaugemax00_0.diff.png",
@@ -134,14 +149,29 @@
       "size": 360981
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_heroes_raceresult_gaugemax00/tx_uTex_fl_heroes_raceresult_gaugemax00_0.png",
+      "hash": "aba1eeab2679347b553aa6eed7867e26f2d7a6981cf6d00363ad1a0257592115",
+      "size": 828977
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_heroes_raceresult_raceend_pt00/tx_uTex_fl_heroes_raceresult_raceend_pt00_0.diff.png",
       "hash": "7e9cf7854d587880ce96f8d7b3bc0a5956318745a77962ba9d5330826288a512",
       "size": 74623
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_heroes_raceresult_raceend_pt00/tx_uTex_fl_heroes_raceresult_raceend_pt00_0.png",
+      "hash": "f5395072f9bd77b1c9d3849d304cb825cae316b0fa49f1eb33b5412e15ddb0cf",
+      "size": 578197
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_heroes_txt_racereward00/tx_uTex_fl_heroes_txt_racereward00_0.diff.png",
       "hash": "34c10b6a21f7c9788f0a8087a685c98b864595cf69c3d4e7b10e8dae2c8b3307",
       "size": 39106
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_heroes_txt_racereward00/tx_uTex_fl_heroes_txt_racereward00_0.png",
+      "hash": "171d24241fe517d162c0f3524de97aca7e408d8e35975a082a4646238075cc78",
+      "size": 209224
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_job_txt_result00/Utx_uTex_fl_job_txt_result00_0.png",
@@ -1310,8 +1340,8 @@
     },
     {
       "path": "assets/atlas/practicerace/practicerace.diff.png",
-      "hash": "ef056f132cb72538efb85df8a1233df6468b97393702b9c7426930024bd3b9b8",
-      "size": 71288
+      "hash": "d7fe97563f1310e624f8fe0e92c5c5b8be8b7c00a1a7398973ddaa3655dbaa1e",
+      "size": 59473
     },
     {
       "path": "assets/atlas/practicerace/practicerace.json",
@@ -6089,6 +6119,41 @@
       "size": 9303
     },
     {
+      "path": "assets/story/data/04/1114/storytimeline_041114001.json",
+      "hash": "62ce6b2100e1b65fdd05e161c1c2129bb183f1232b507a352a2b227f99cae0fc",
+      "size": 9754
+    },
+    {
+      "path": "assets/story/data/04/1114/storytimeline_041114002.json",
+      "hash": "e55c311d3b963a996fdfb0da3aed156163fef37e8c28da8324fdbde40c2c044d",
+      "size": 8507
+    },
+    {
+      "path": "assets/story/data/04/1114/storytimeline_041114003.json",
+      "hash": "15b853558bd95850afb268f79048af5fc087a1b224b0582882e14c14d1775f07",
+      "size": 8092
+    },
+    {
+      "path": "assets/story/data/04/1114/storytimeline_041114004.json",
+      "hash": "03f9f77c7296e85a17e72c2b77d3e3724d62cc5fe90e205c179a55104e1cebcb",
+      "size": 10069
+    },
+    {
+      "path": "assets/story/data/04/1114/storytimeline_041114005.json",
+      "hash": "238881d238da94121b2ce05dfa3bb880aefb5d1209335e71848e078b1e368fa1",
+      "size": 5434
+    },
+    {
+      "path": "assets/story/data/04/1114/storytimeline_041114006.json",
+      "hash": "aa66632fa01c7a04dcba752efc0ee98bb5c3f29e763604af63f50326aac2194f",
+      "size": 8694
+    },
+    {
+      "path": "assets/story/data/04/1114/storytimeline_041114007.json",
+      "hash": "5819fba861a36d25f6867f848640aab460ed01b3dba3434496fc238ea061fd4c",
+      "size": 8792
+    },
+    {
       "path": "assets/story/data/04/1115/storytimeline_041115001.json",
       "hash": "b440e1caa1f70391ffb1f75e9a50489595be5ed1a1930daf3c1606983d172851",
       "size": 10506
@@ -8769,6 +8834,16 @@
       "size": 171283
     },
     {
+      "path": "assets/textures/chara/chr1114/petit/petit_chr_1114_111401_0070.png",
+      "hash": "393081529ebdb83c5cfeffa0e6624c0eb2bbafa8543147572c76546ba3807738",
+      "size": 168461
+    },
+    {
+      "path": "assets/textures/chara/chr1114/petit/petit_chr_1114_111401_0071.png",
+      "hash": "3a93c4eb61193ae095a8ff2e60dab63e022b96e915c756ca497e9b746def2b2b",
+      "size": 174854
+    },
+    {
       "path": "assets/textures/chara/chr1121/petit/petit_chr_1121_112101_0070.png",
       "hash": "072c045687d968c36ac470477417a595e6c5fa8932c29bd5e38bd2628f5ec169",
       "size": 164573
@@ -9365,8 +9440,8 @@
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1134_01.png",
-      "hash": "eba8157cefb0ce4f5f937b277c282d12224b9b2d05edbcc49ec59f521e1fc395",
-      "size": 143260
+      "hash": "e85d060eed0f249f95adb50310481cb8f3abf41a5a1350d1d96aae6fde980983",
+      "size": 109468
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1135_01.png",
@@ -9820,8 +9895,8 @@
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1134_02.png",
-      "hash": "2785902e92c5d93c5f36fc5e5423973715f0d37a3a4b307a7ef7d5b0cea19201",
-      "size": 159353
+      "hash": "cb492c9c673956b3a9eb39760b7b3aed5208dab4f8e69c540c859fc87f5e8217",
+      "size": 117205
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_9004_02.png",
@@ -10752,6 +10827,11 @@
       "path": "assets/textures/gacha/comment/gacha_comment_111101.png",
       "hash": "238775039156255a1c8b2a5759678521f8ac83d63fdbf239e48cb1ede29df52d",
       "size": 507309
+    },
+    {
+      "path": "assets/textures/gacha/comment/gacha_comment_111401.png",
+      "hash": "ac7ea526873da9972ce1f1b670d53cefd8cfabe4f26c2b2317ecfcd5c532ab33",
+      "size": 428089
     },
     {
       "path": "assets/textures/gacha/comment/gacha_comment_111501.png",
@@ -12915,8 +12995,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "cc20e19eeb25722ca67e5a59d2fb669bd5d6414696daa20ddd9c9bc6fee74c85",
-      "size": 243424
+      "hash": "0ba2ae2d75fea899f9b0a8fc2a09cd147ee223ddb7e9b74b3975ebe35204dbf6",
+      "size": 243582
     },
     {
       "path": "character_system_text_dict_mod.json",
@@ -12940,8 +13020,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "f26bfeb62f6fd3f1b53c914b257532f6ce06dbcbd5ea38bf3e3890589eda886f",
-      "size": 285499
+      "hash": "33787e1138102668341053c12dce47d4ac12b267b9464509bd6e406a06a13cf4",
+      "size": 285515
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -12955,8 +13035,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "d16958fcd5ded3bb2e2480c97c2c89dc0a0d1356b2f4344925808847ea9c7f40",
-      "size": 3025803
+      "hash": "8c3145d3e64c13a37e0230150ba98c9571374ce4d8e68816e096cd49680cca80",
+      "size": 3026618
     }
   ]
 }
