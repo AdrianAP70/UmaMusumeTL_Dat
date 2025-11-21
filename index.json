@@ -114,6 +114,11 @@
       "size": 69041
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_heroes_evalution_text00/tx_uTex_fl_heroes_evalution_text00_0.png",
+      "hash": "a313c48750be64e32198f81c7f7a80dabcde6cfb6fc03ba905473c3a6b765967",
+      "size": 207324
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_heroes_get_heroskill00/tx_uTex_fl_heroes_get_heroskill00_0.diff.png",
       "hash": "ec4326573bfd24167961a20b10e87a6a5e482dfeb35683e19282df3c17822034",
       "size": 76586
@@ -1232,6 +1237,21 @@
       "path": "assets/atlas/factorresearch/factorresearch.png",
       "hash": "34bd1becc7f9732fdafd117be16e7a60f1ddd0f4e2248b567a490f1c36e28de3",
       "size": 674412
+    },
+    {
+      "path": "assets/atlas/heroes/heroes.diff.png",
+      "hash": "3ac1558595dabb844776f7207f90fe9f5f3826228394920ec3df40339d78e17f",
+      "size": 963674
+    },
+    {
+      "path": "assets/atlas/heroes/heroes.json",
+      "hash": "b8d76d1000b7e407f7700f737e85fc01d83dcac8222d8b32adc0407fab4a47f2",
+      "size": 150
+    },
+    {
+      "path": "assets/atlas/heroes/heroes.png",
+      "hash": "7a253c59e58cf42312fee7212aac0b894ce7029bb533bec689654680829cd4a0",
+      "size": 2410712
     },
     {
       "path": "assets/atlas/home/DIShome.png",
@@ -12910,8 +12930,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "f6d4692ec764116a759a0024f55d5455e54e001d4fa3a2bd78d89a7f6c3b1e62",
-      "size": 9991
+      "hash": "82624b4bb7ec8ac72b59bfd25d937b1062a69551d5e15ccf61ff267b7e9fc201",
+      "size": 10040
     },
     {
       "path": "includesandroid",
@@ -12920,8 +12940,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "f5d5875ea981e9cb7ce7c71bb671822d0155b13c04eeb121f6cd3ad467d81890",
-      "size": 285296
+      "hash": "f26bfeb62f6fd3f1b53c914b257532f6ce06dbcbd5ea38bf3e3890589eda886f",
+      "size": 285499
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -12935,8 +12955,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "dc656b865c01bc0fcda3697e119abb7532f8ec81c4b3aa30f3ce24a99860a5fb",
-      "size": 3025617
+      "hash": "d16958fcd5ded3bb2e2480c97c2c89dc0a0d1356b2f4344925808847ea9c7f40",
+      "size": 3025803
     }
   ]
 }
