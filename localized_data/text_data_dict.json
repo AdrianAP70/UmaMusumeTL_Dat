@@ -7576,7 +7576,8 @@
         "1203202": "Sprinters Stakes (HARD)",
         "1203301": "Shuuka Sho (HARD)",
         "1203302": "Shuuka Sho (HARD)",
-        "904208": "Junior Debut Race"
+        "904208": "Junior Debut Race",
+        "670025": "League of Heroes Main Stage"
     },
     "29": {
         "100101": "February S",
@@ -12283,7 +12284,8 @@
         "25263": "Nagatsuki Stakes",
         "25264": "Uzumasa Stakes",
         "25265": "Prix Niel",
-        "25266": "Prix Foy"
+        "25266": "Prix Foy",
+        "13025": "League of Heroes Main Stage"
     },
     "33": {
         "1001": "February Stakes",
@@ -47685,25 +47687,25 @@
         "4205": "Support event stat gains +25%"
     },
     "297": {
-        "100": "When the Hero Gauge is MAXed \nyou can obtain a Hero Skill!",
-        "101": "You can look forward to the race results \nafter gaining a Hero Skill even more excitedly!",
-        "102": "Some Hero Skills can be activated \nby using Race Items!",
-        "103": "The Hero Gauge will be at MAX soon!",
-        "104": "It looks like your team's strong desire for \nracing will be a great strength!",
-        "200": "You can find a lot of info regarding \nLeague of Heroes here!",
-        "300": "When reaching PLATINUM1 you can obtain a \nunique title with one eligible Trainee's name!",
-        "302": "A Trainee's \"Tale\" title can be obtained \nafter the Main Stage ranks are determined!",
-        "303": "You can check the League Scores obtained \nby each Trainee in the Main Stage here!",
-        "400": "You can use Race Items in the Main Stage.",
-        "401": "You can change your team name until \nthe Main Stage ends",
-        "402": "Your League Score is a sum of all the \nscore obtained from finishing positions.",
-        "403": "Weather and going are \nrandomized every 5 races.",
-        "404": "You need to select 3 Trainees \nto register a team.",
-        "405": "Registering a team grants rewards.",
-        "500": "The Extra Stage is a one-shot race \nwith 12 participants.",
-        "501": "Weather and going are randomized every race.",
-        "502": "Teams can be changed until \nthe registration period ends.",
-        "503": "Race Items aren't usable in the Extra Stage."
+        "100": "$(nb)When the Hero Gauge is MAXed you can obtain a Hero Skill!",
+        "101": "$(nb)You can look forward to the race results after gaining a Hero Skill even more excitedly!",
+        "102": "$(nb)Some Hero Skills can be activated by using Race Items!",
+        "103": "$(nb)The Hero Gauge will be at MAX soon!",
+        "104": "$(nb)It looks like your team's strong desire for racing will be a great strength!",
+        "200": "$(nb)You can find a lot of info regarding League of Heroes here!",
+        "300": "$(nb)When reaching PLATINUM1 you can obtain a unique title with one eligible Trainee's name!",
+        "302": "$(nb)A Trainee's \"Tale\" title can be obtained after the Main Stage ranks are determined!",
+        "303": "$(nb)You can check the League Scores obtained by each Trainee in the Main Stage here!",
+        "400": "$(nb)You can use Race Items in the Main Stage.",
+        "401": "$(nb)$(scale 90)You can change your team name until the Main Stage ends",
+        "402": "$(nb)$(scale 70)Your League Score is a sum of all the score obtained from finishing positions.",
+        "403": "$(nb)Weather and going are randomized every 5 races.",
+        "404": "$(nb)You need to select 3 Trainees to register a team.",
+        "405": "$(nb)Registering a team grants rewards.",
+        "500": "$(nb)The Extra Stage is a one-shot race with 12 participants.",
+        "501": "$(nb)Weather and going are randomized every race.",
+        "502": "$(nb)Teams can be changed until the registration period ends.",
+        "503": "$(nb)Race Items aren't usable in the Extra Stage."
     },
     "298": {
         "1": "{0} Training Gains",

@@ -1628,7 +1628,7 @@
     "Menu0136": "Enter code",
     "Menu0137": "Enter code",
     "Menu0140": "Code input complete",
-    "Menu213001": "Profile",
+    "Menu213001": "$(scale 90)Profile and\nTrainer Card",
     "Menu424001": "Inventory",
     "Menu511001": "Story data auto-deletion",
     "Menu511002": "Event data auto-deletion",
@@ -5253,5 +5253,8 @@
     "Common419008": "\nCannot reset — not set yet",
     "SingleModeScenarioOnsen194049": "Bath ticket count is at the <color=#FF911C>maximum</color>, proceed with \nthe command?",
     "SingleModeScenarioOnsen194050": "No more bath tickets \ncan be obtained",
-    "SingleMode508021": "Add Goal"
+    "SingleMode508021": "Add Goal",
+    "Champions0074": "Reset current setup and auto-form the team?",
+    "TeamStadium0048": "The lineup hasn’t changed",
+    "Outgame608042": "The lineup hasn’t changed"
 }
