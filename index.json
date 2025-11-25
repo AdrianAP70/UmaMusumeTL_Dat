@@ -899,24 +899,9 @@
       "size": 30536
     },
     {
-      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_header_turncounter00_DISABLED/tx_uTex_fl_singlemode_pioneer_header_turncounter00_0.diff.png",
-      "hash": "a6224b02493119b01c39c6cf9dddad013e000ec8358c5cd22e7c2ede5779f174",
-      "size": 10873
-    },
-    {
-      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_header_turncounter00_DISABLED/tx_uTex_fl_singlemode_pioneer_header_turncounter00_0.png",
-      "hash": "79627f12837e8a0aeb98473952b0638e9e99e7cd0a3ac6be8f1590d10309af47",
-      "size": 9254
-    },
-    {
-      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_header_turncounter00_DISABLED/tx_uTex_fl_singlemode_pioneer_header_turncounter00_0_TELL.png",
-      "hash": "c360a3a41b0ff47f8ef4259647fa7270061f24d38ff5df07e2ee5dcf048bed91",
-      "size": 24511
-    },
-    {
-      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_header_turncounter00_DISABLED/tx_uTex_fl_singlemode_pioneer_header_turncounter00_2.png",
-      "hash": "5413613cd6e134f9970646b72c97dd8999993d0c8af93a46eed4be94636e83be",
-      "size": 37596
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_header_turncounter00/tx_uTex_fl_singlemode_pioneer_header_turncounter00_0_A.png",
+      "hash": "cff6a117d3557064790fb3403099c8a313a9b5e57a0775d093c8e91b61d7ae80",
+      "size": 14557
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_pioneer_island_complete01/tx_uTex_fl_singlemode_pioneer_island_complete01_0.diff.png",
@@ -13020,8 +13005,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "33787e1138102668341053c12dce47d4ac12b267b9464509bd6e406a06a13cf4",
-      "size": 285515
+      "hash": "e856acdef479dcbc5e36b33f58eef1ccbafb60e8dec37d1c39e2ec6979b0a917",
+      "size": 285516
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -13035,8 +13020,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "8c3145d3e64c13a37e0230150ba98c9571374ce4d8e68816e096cd49680cca80",
-      "size": 3026618
+      "hash": "6f59ec7b873d3cc1d77d7abedae1915c0dba1bffb6c174cfde7146ca6acf8dd2",
+      "size": 3026701
     }
   ]
 }
