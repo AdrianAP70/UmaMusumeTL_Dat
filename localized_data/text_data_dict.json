@@ -20148,7 +20148,8 @@
         "730001": "Gold Carrot Button",
         "730002": "Diamond Carrot Button",
         "730003": "Red Diamond Carrot Button",
-        "512101": "Paradise ♪ Yukoma Hot Spring Village"
+        "512101": "Paradise ♪ Yukoma Hot Spring Village",
+        "310149": "True Story!! Golden Holy Night 24h"
     },
     "66": {
         "100101": "Unlocked from the start",
@@ -42268,7 +42269,8 @@
         "1045": "June's Vibrant Statices",
         "1046": "Summer Days Graffiti (With You)",
         "1047": "Words, Hearts, Resonate",
-        "1048": "Act 0: Spotlight, Reach for the Trapeze!"
+        "1048": "Act 0: Spotlight, Reach for the Trapeze!",
+        "1049": "True Story!! Golden Holy Night 24h"
     },
     "190": {
         "1": "Complete a training once",
@@ -44323,7 +44325,13 @@
         "1991": "Finish top 3 in Tenno Sho (Spring) during training",
         "2079": "Finish top 3 in Tenno Sho (Spring) during training",
         "1988": "Finish top 3 in the Tenno Sho (Autumn) during training",
-        "2033": "Finish top 3 in the Tenno Sho (Autumn) during training"
+        "2033": "Finish top 3 in the Tenno Sho (Autumn) during training",
+        "2083": "Run in the Team Trials once",
+        "2085": "Complete all event daily missions",
+        "2084": "Let's login",
+        "2082": "Win a race in training once",
+        "2081": "Complete a training once",
+        "2086": "Complete a training once"
     },
     "191": {
         "41": "Hello! Halloween!",
@@ -44455,7 +44463,15 @@
         "386": "Thrilling Tightrope!",
         "385": "Shining Aerialist!",
         "384": "Determined Juggler!",
-        "383": "Warmhearted Ringmaster!"
+        "383": "Warmhearted Ringmaster!",
+        "389": "Roar, jingle bells",
+        "390": "Run! Christmas Police",
+        "391": "Drop or Over",
+        "392": "Beyond all guesses and hopes!",
+        "393": "\nMake or break, total chaos",
+        "394": "Dance, joyful player",
+        "395": "Make noise, party time",
+        "396": "Beyond it lies the Christmas night"
     },
     "192": {
         "10001": "Trainer's Office",
@@ -45052,7 +45068,8 @@
         "1044": "Dreamy Night Parade",
         "1045": "June's Vibrant Statices",
         "1046": "Summer Days Graffiti",
-        "1047": "Words, Hearts, Resonate"
+        "1047": "Words, Hearts, Resonate",
+        "1049": "True Story!! Golden Holy Night 24h"
     },
     "215": {
         "1001": "Trainee active in mid-distance",
