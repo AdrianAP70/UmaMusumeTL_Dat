@@ -8829,6 +8829,16 @@
       "size": 16910
     },
     {
+      "path": "assets/textures/chara/chr1092/petit/petit_chr_1092_109201_0070.png",
+      "hash": "977fabab501f91e41c817e0a5f466f4309659ac16b99ba56b58988c82c84d62e",
+      "size": 156493
+    },
+    {
+      "path": "assets/textures/chara/chr1092/petit/petit_chr_1092_109201_0071.png",
+      "hash": "e790e792cd49b5f344f52e88ad4870ad8bb7cb3956acf426f2b1ed9212828f86",
+      "size": 165688
+    },
+    {
       "path": "assets/textures/chara/chr1097/petit/petit_chr_1097_109701_0070.png",
       "hash": "ded22fa66afb0df4d006dec292e347ef340fccc5231136da06187851e986ac3e",
       "size": 168518
@@ -13030,8 +13040,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "1439b5c4fa8cdac6dce6ab098dfb1376e040bda4760bf676ac515ec851b28cb3",
-      "size": 243661
+      "hash": "a61975788662e4cddb0baaf7bec5a91234197e5bb707739bac7d59e877dbb1c4",
+      "size": 264346
     },
     {
       "path": "character_system_text_dict_mod.json",
@@ -13040,13 +13050,13 @@
     },
     {
       "path": "config.json",
-      "hash": "dd998e3a35c71542f2720344a315e4d3fbf548fff6b43cffa37b987993f311a6",
-      "size": 1564
+      "hash": "2adac047f9def5740fcfc0f5968c278cd1623989495d9c7b62086a3eb3de035b",
+      "size": 1643
     },
     {
       "path": "hashed_dict.json",
-      "hash": "82624b4bb7ec8ac72b59bfd25d937b1062a69551d5e15ccf61ff267b7e9fc201",
-      "size": 10040
+      "hash": "744efe44955c4cb8611fccfce8caab0ea31c7d98b62e5588f68a3e3ad6c8fbde",
+      "size": 14394
     },
     {
       "path": "includesandroid",
@@ -13055,8 +13065,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "e856acdef479dcbc5e36b33f58eef1ccbafb60e8dec37d1c39e2ec6979b0a917",
-      "size": 285516
+      "hash": "28f805b36deb3408284daaa63c53b377eaf3317088867bb3d86b58d646321614",
+      "size": 315293
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -13070,8 +13080,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "8747b4e69bc71bd617c2ac2b9bae5e2512013aadfadf8deb69d4d1957cbbe23b",
-      "size": 3027467
+      "hash": "be8f9172adae2cdf8caaafe698452633980375e43b6f426652a9a20ca469af08",
+      "size": 3195526
     }
   ]
 }
