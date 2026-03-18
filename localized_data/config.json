@@ -18,6 +18,8 @@
     "text_wrapper": 1,
     "use_text_wrapper": true,
     "line_width_multiplier": 2,
+	"skilldesc_line_width_multiplier": 2.80,
+	"systext_base_width_multiplier": 1,
 
     "auto_adjust_story_clip_length": true,
     "story_line_count_offset": 1,
