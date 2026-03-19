@@ -4,6 +4,11 @@
   "zip_dir": "UmaMusumeTL_Dat-main/localized_data",
   "files": [
     {
+      "path": ".vscode/settings.json",
+      "hash": "c3668324d4aea03bb37071e23afcf35a737c1b437ccffea3f0deecb2be885c71",
+      "size": 32
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_announce_supportcard00/tx_uTex_fl_announce_supportcard00_0.diff.png",
       "hash": "9a859a136c5410e3e078242a441441c2f3b7669cff6f5a6e9e90a674cef9ad36",
       "size": 450413
@@ -1972,6 +1977,11 @@
       "path": "assets/home/data/00000/02/hometimeline_00000_02_1012002.json",
       "hash": "4b5fb2e70ea6c25f2288d570fe0a70890c09f1fbac12d5716ec8d39fd24993df",
       "size": 1380
+    },
+    {
+      "path": "assets/home/data/00000/02/hometimeline_00000_02_1029001.json",
+      "hash": "af1349b9f5f9a1a6a0404dea36dcc9499bcb25c9adc112b7cc9a93cae41f3262",
+      "size": 0
     },
     {
       "path": "assets/home/data/00000/02/hometimeline_00000_02_1032001.json",
@@ -9454,6 +9464,11 @@
       "size": 229984
     },
     {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1126_01.png",
+      "hash": "7feda3588e3faa47c90a1e3f6e3871a66ba9eb37e507fa05e9fee91c827c4003",
+      "size": 116359
+    },
+    {
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1128_01.png",
       "hash": "fb487c9237c2b0f757728322ce21f7749e52b8f35be3113732e73928bba781f0",
       "size": 269853
@@ -9474,6 +9489,11 @@
       "size": 229927
     },
     {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1132_01.png",
+      "hash": "874f944a087c613460a5bf36a0c663aa22a2b506e99d3e3adb84fc8fddb5d0d8",
+      "size": 112070
+    },
+    {
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1133_01.png",
       "hash": "2733cdc82919b7fcaba21c8bb5b1999836e56e342bc8379f9f8354d0e90694d2",
       "size": 118856
@@ -9487,6 +9507,11 @@
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1135_01.png",
       "hash": "d576e82deda4355c202f12a3b138d80169bd465d23be4fa1c754aeb679e395fa",
       "size": 118901
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1138_01.png",
+      "hash": "b55afb1168b6d25cd771c4c0a02596f53b1527293ad329c544776926460c6196",
+      "size": 98825
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9001_01.png",
@@ -9537,6 +9562,11 @@
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9050_01.png",
       "hash": "421a2971ee7c65c0986c08da10b8647f3a2a9b50053e8d0ab16e544a70b009b5",
       "size": 132154
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9051_01.png",
+      "hash": "d41d75f058e88d58a7726b63107a58733fe876f3cded54907d31fc215242a72b",
+      "size": 94213
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_1/psbPhotoshop.psd",
@@ -9682,6 +9712,11 @@
       "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1029_02.png",
       "hash": "666af3df1978db2bd81950c9100bc35af7ef00568c25507208308c8c91869583",
       "size": 207144
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1030_02.png",
+      "hash": "85f0106ba10d9ec7b503da5039b4ca98ceb952fc50a800a2edf6ebda717940a6",
+      "size": 89336
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_2/gacha_chrname_1031_02.png",
@@ -13050,8 +13085,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "a61975788662e4cddb0baaf7bec5a91234197e5bb707739bac7d59e877dbb1c4",
-      "size": 264346
+      "hash": "41816a9d1f78e033832fb60b61ced91b0cd6514c5ed047539b367abf877d4f54",
+      "size": 264866
     },
     {
       "path": "character_system_text_dict_mod.json",
@@ -13075,8 +13110,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "28f805b36deb3408284daaa63c53b377eaf3317088867bb3d86b58d646321614",
-      "size": 315293
+      "hash": "a32f6d7dcb6cac49b414d39f50ff217561005fa589b9d03b5e7204bd58c23d24",
+      "size": 315303
     },
     {
       "path": "race_jikkyo_comment_dict.json",
