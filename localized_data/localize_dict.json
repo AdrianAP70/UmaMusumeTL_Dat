@@ -3403,7 +3403,7 @@
     "SingleMode0123": "Runners",
     "SingleMode0125": "Finish $(ordinal {1}) in {0}",
     "SingleMode0126": "$(scale 90)Finish top {1} in {0}",
-    "SingleMode0127": "<atlas=Single sprite=utx_ico_fun_00/> {0}",
+    "SingleMode0127": "{0}",
     "SingleMode0128": "<color=#{1}>$(plural {0} '$ turn' '$ turns')</color> remaining",
     "SingleMode0129": "$(ho 1)$(nb)$(scale 100)Current",
     "SingleMode0130": "Today",
