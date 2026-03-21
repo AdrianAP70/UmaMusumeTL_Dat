@@ -334,6 +334,11 @@
       "size": 128556
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_teamsptrainingstock_up00/tx_uTex_fl_singlemode_breeders_teamsptrainingstock_up00_0.png",
+      "hash": "e544389f99e8a6eac65ab8815840750c9c7b72433fe49a73fcb9adea6c586a71",
+      "size": 500072
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_teamtask_progress00/tx_uTex_fl_singlemode_breeders_teamtask_progress00_0.diff.png",
       "hash": "c4839496fee5ccc2927750536c3298e0972b2de8894839dc742a820fbd5f6222",
       "size": 7430
@@ -12522,6 +12527,36 @@
       "path": "assets/textures/single/banner/bnr_011.png",
       "hash": "038f3ae6d4735eb2cabfefc871a0f84f05b5c0e17ae25823785d5ba6a1245c89",
       "size": 292144
+    },
+    {
+      "path": "assets/textures/single/scenariobreeders/utx_frm_breeders_teamsptraining_info_00.png",
+      "hash": "c3daa70853639d6d87b3e00d6524990332ebb7a5d3018d1662c969edd3a998cd",
+      "size": 255189
+    },
+    {
+      "path": "assets/textures/single/scenariobreeders/utx_txt_breeders_detailbg_01_00.png",
+      "hash": "c854ba0d20346b769dac0df3e9666b2b5e5dc7c50afd7858c4fbaf86b438e2ea",
+      "size": 567895
+    },
+    {
+      "path": "assets/textures/single/scenariobreeders/utx_txt_breeders_detailbg_02_00.png",
+      "hash": "c43bdd5112c474b2e76b2bc869964bd08c781d3ac77c84c39e48c3d7bd6c8c29",
+      "size": 574495
+    },
+    {
+      "path": "assets/textures/single/scenariobreeders/utx_txt_breeders_detailbg_03_00.png",
+      "hash": "4f58ebaafc23114389233f6bcef1b27733a6cd11d3787715f9aa350178cd1d00",
+      "size": 576488
+    },
+    {
+      "path": "assets/textures/single/scenariobreeders/utx_txt_breeders_detailbg_04_00.png",
+      "hash": "95462ef250421c007fefeaeb2b8b786beedb300e54a6ebe2301500c85ebc1be3",
+      "size": 574887
+    },
+    {
+      "path": "assets/textures/single/scenariobreeders/utx_txt_breeders_detailbg_05_00.png",
+      "hash": "ba3bae37623a84208f42010b6c424b7d80948638bec36d84544fdc11dc36e278",
+      "size": 542066
     },
     {
       "path": "assets/textures/single/scenariocook/utx_txt_cooking_possible_00.png",
