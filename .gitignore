@@ -5,7 +5,11 @@
 !/localized_data/
 !/localized_data/**
 
-# agar .gitignore sendiri tetap di track
+# EXCLUDE .vscode di dalam localized_data
+/localized_data/.vscode/
+/localized_data/.vscode/**
+
+# agar file tertentu tetap di-track
 !/index.json
 !/.gitignore
 !/localized_data/config.json
