@@ -1274,14 +1274,14 @@
       "size": 150
     },
     {
-      "path": "assets/atlas/common/common.diff.png",
-      "hash": "45a1e736ccf56d44cb04f881b447d4a801a84b0cebd176bc68fb1c128eb1c643",
-      "size": 314853
-    },
-    {
       "path": "assets/atlas/common/common.json",
       "hash": "e29460958995a4fa54042ad322978b73649834dc640e7bfb3d156ed09d3ec3f4",
       "size": 150
+    },
+    {
+      "path": "assets/atlas/common/common.png",
+      "hash": "086d25ab76c6605e535476499b0d29295e4f6f9adb34959f6d2a55baa471699a",
+      "size": 3180707
     },
     {
       "path": "assets/atlas/directory/directory.json",
@@ -13215,7 +13215,7 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "cb35eda7cf9fc4e4f246fbaeae87c9db0465ab1df3e34441899f77cf8ccd3584",
+      "hash": "362a29d7b501d91569d9602b01586518d5bc1346f45807a7824ccf098e03495c",
       "size": 275612
     },
     {
@@ -13245,8 +13245,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "28563b81e23e2d16306a9d41a1309cd9a50792919148324270ad115e03ce5f38",
-      "size": 317105
+      "hash": "bd3214626b7ab28d2696c7ebd389a11432af13887890cd9a717218bc90bb1d1b",
+      "size": 317120
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -13260,8 +13260,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "218ecf9ec1c28ab09ce7c4c5130a7c359db7ffb424d2e659f597b610f13cf4a5",
-      "size": 3215963
+      "hash": "c10f11a139adddc7194b884f79256d84dded0387ae0b59f86a6616a56421b273",
+      "size": 3217037
     }
   ]
 }
