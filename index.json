@@ -4,11 +4,6 @@
   "zip_dir": "UmaMusumeTL_Dat-main/localized_data",
   "files": [
     {
-      "path": ".vscode/settings.json",
-      "hash": "c3668324d4aea03bb37071e23afcf35a737c1b437ccffea3f0deecb2be885c71",
-      "size": 32
-    },
-    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_announce_supportcard00/tx_uTex_fl_announce_supportcard00_0.diff.png",
       "hash": "9a859a136c5410e3e078242a441441c2f3b7669cff6f5a6e9e90a674cef9ad36",
       "size": 450413
