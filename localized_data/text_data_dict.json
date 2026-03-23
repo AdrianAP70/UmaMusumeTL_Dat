@@ -14484,6 +14484,8 @@
         "12014": "4th Anniv.\nSpecial Shop",
         "12015": "4.5th Anniv.\nSpecial Shop",
         "12016": "4.5th Anniv.\nSpecial Shop",
+        "12017": "5th Anniv.\nSpecial Shop",
+        "12018": "5th Anniv.\nSpecial Shop",
         "13000": "$(nb)$(scale 110)Support Cards\nExchange",
         "20001": "Carnival Pt \nShop",
         "20002": "Carnival Pt \nShop",
@@ -52249,7 +52251,18 @@
         "101903": "Powerful Trainee",
         "102001": "Pace Trainee",
         "102002": "Trainee with plentiful stamina",
-        "102003": "Steadfast Trainee"
+        "102003": "Steadfast Trainee",
+        "200501": "Trainee active in mile",
+        "200502": "Trainee with plentiful stamina",
+        "200503": "Steadfast Trainee",
+        "200901": "Trainee active in mile",
+        "201002": "Trainee with plentiful stamina",
+        "201003": "Steadfast Trainee",
+        "201502": "Trainee with plentiful stamina",
+        "201503": "Steadfast Trainee",
+        "201901": "Trainee active in mile",
+        "202002": "Trainee with plentiful stamina",
+        "202003": "Steadfast Trainee"
     },
     "320": {
         "100101": "I require a Trainee with guts \n… please.",
@@ -52311,7 +52324,15 @@
         "101903": "Searching for a Trainee with power.",
         "102001": "A Trainee who runs like the wind… \nI'd love to have such a girl in my team.",
         "102002": "Searching for a Trainee with abundant stamina.",
-        "102003": "Looking for a steadfast Trainee."
+        "102003": "Looking for a steadfast Trainee.",
+        "200502": "Searching for a Trainee with abundant stamina.",
+        "200503": "Looking for a steadfast Trainee.",
+        "201002": "Searching for a Trainee with abundant stamina.",
+        "201003": "Looking for a steadfast Trainee.",
+        "201502": "Searching for a Trainee with abundant stamina.",
+        "201503": "Looking for a steadfast Trainee.",
+        "202002": "Searching for a Trainee with abundant stamina.",
+        "202003": "Looking for a steadfast Trainee."
     },
     "321": {
         "100101": "・Distance: Medium Distance <color=#FF911C>B</color> or higher \n・Won a <color=#FF911C>graded</color> race \n(Has epithet <color=#FF911C>Big Prize Girl</color>)",
