@@ -30,8 +30,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_chara_talent_levelup00/tx_uTex_fl_chara_talent_levelup00_0.png",
-      "hash": "5c44f6d4dfb235a9c576a325578c4667e7db2462e2bd8cc29e42b1319d7b26b4",
-      "size": 404421
+      "hash": "568d8f7d30ecd131937ceba49caf76493d2b074a2fefe2841ff69d7338fd9e34",
+      "size": 401033
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_chara_txt_hint_lvup00/tx_uTex_fl_chara_txt_hint_lvup00_0.diff.png",
@@ -13210,8 +13210,8 @@
     },
     {
       "path": "assets/uianimation/flashcombine/timeline/chara/tat_chara_talent_levelup00.json",
-      "hash": "a9c15fc199fb1090f4b19d8fec19e728800d8d458e0ecf0ab1b3b0592721d0cb",
-      "size": 1
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
     },
     {
       "path": "character_system_text_dict.json",
