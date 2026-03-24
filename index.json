@@ -9514,6 +9514,11 @@
       "size": 111656
     },
     {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1113_01.png",
+      "hash": "4d33d6bbf3dbcde8201644622a109010a8710f22d78f45afa2d70abfd05ba839",
+      "size": 104026
+    },
+    {
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1114_01.png",
       "hash": "309ee665d3c18636a5806490d3c3fd92429b9071bc958de6cccf1a9bea721973",
       "size": 210151
@@ -9532,6 +9537,11 @@
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1117_01.png",
       "hash": "9a9f85835e67b497393a58e2403b4903446352a8c37849605a717f2daf3bd940",
       "size": 117978
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1118_01.png",
+      "hash": "87f5260b9d10bfa017efc77a58fbf04258367dcf0532a14a7c9bed1eea871527",
+      "size": 100663
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1119_01.png",
@@ -9597,6 +9607,11 @@
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1138_01.png",
       "hash": "b55afb1168b6d25cd771c4c0a02596f53b1527293ad329c544776926460c6196",
       "size": 98825
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1143_01.png",
+      "hash": "d9dfe29cab8cf159fc30bbdde591a07896db5eafae26df7643264f3559a53f64",
+      "size": 96146
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_9001_01.png",
@@ -10619,6 +10634,11 @@
       "size": 239203
     },
     {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1113_03.png",
+      "hash": "97e1b186328cb18e91e0fb6ef4af592e58a59a0149b4d7e225d1a0d8277debab",
+      "size": 345451
+    },
+    {
       "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1114_03.png",
       "hash": "0caf22a7d2ddbca3e32bd4b5474bfadb10837adeebb187a5fe3ec4ac969e2347",
       "size": 273635
@@ -10637,6 +10657,11 @@
       "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1117_03.png",
       "hash": "6cfef9d17b5135508d3778282fd9165e6f962b6580bcce8b5cab19c61b936035",
       "size": 296950
+    },
+    {
+      "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1118_03.png",
+      "hash": "6656e4d3ffdb50e67ef505b0c19abe487577c07cf1db2b0e7c69aea5664f305b",
+      "size": 303371
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1119_03.png",
@@ -13245,8 +13270,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "bd3214626b7ab28d2696c7ebd389a11432af13887890cd9a717218bc90bb1d1b",
-      "size": 317120
+      "hash": "56f68079ac1d76108a512fbeaa07e98888761ad3e0505914d600b71d7c58c796",
+      "size": 317111
     },
     {
       "path": "race_jikkyo_comment_dict.json",
