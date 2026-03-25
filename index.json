@@ -10715,8 +10715,8 @@
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_1143_03.png",
-      "hash": "9e42a87145b79d79c879b08169ab19581e5dad0bf2e885ed23360bd2f796fc7a",
-      "size": 277840
+      "hash": "ea3d648238d0bfd93c5d7feb3e2d962f78f555f5db299c510e11eeda2df6dd68",
+      "size": 221654
     },
     {
       "path": "assets/textures/gacha/charaname/rarity_3/gacha_chrname_9001_03.png",
@@ -11187,6 +11187,11 @@
       "path": "assets/textures/outgame/campaign/title/utx_obj_title_logo_0863.png",
       "hash": "21813447c68a13ca1653ff0c4791497e7d4e4d905730693893f270f31e917523",
       "size": 551197
+    },
+    {
+      "path": "assets/textures/outgame/campaign/title/utx_obj_title_logo_1028.png",
+      "hash": "a5846018b62c519912f4ad201d4f00bb19d9fd451284a90a02fec1b0e58b9961",
+      "size": 690885
     },
     {
       "path": "assets/textures/outgame/campaign/walking/utx_txt_campaign_stroll_03.png",
