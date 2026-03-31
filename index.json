@@ -1320,8 +1320,8 @@
     },
     {
       "path": "assets/atlas/home/home.diff.png",
-      "hash": "9ae3e7b8f3e404b4c1652d68581361407bcb5e39cb36d6e1522d967156ff0b3b",
-      "size": 114599
+      "hash": "ebdf7ae7395269492f4973ee78a3582af1f1a35e817c38cc5d823c2141f269c1",
+      "size": 213194
     },
     {
       "path": "assets/atlas/home/home.json",
@@ -6649,6 +6649,46 @@
       "size": 6897
     },
     {
+      "path": "assets/story/data/09/0005/storytimeline_090005001.json",
+      "hash": "5eaa54ea1054e80fa81678802e3e489e2f6cbd5292f1ff81018528cc155a2a41",
+      "size": 7365
+    },
+    {
+      "path": "assets/story/data/09/0005/storytimeline_090005002.json",
+      "hash": "d6f1d5faa34eb2b54486f1eeaa8e04df68b98e40d602b3fae574986544e0be02",
+      "size": 5227
+    },
+    {
+      "path": "assets/story/data/09/0005/storytimeline_090005003.json",
+      "hash": "eb1848b2a3d74fc21397f99a7afd7d19087e0d505b036d848ea06af1de6f80dd",
+      "size": 5762
+    },
+    {
+      "path": "assets/story/data/09/0005/storytimeline_090005004.json",
+      "hash": "93139dbfa2e45fc24d4dfd0d15a2a3d2f420a3f53193d0123c46cc96e897be36",
+      "size": 7828
+    },
+    {
+      "path": "assets/story/data/09/0005/storytimeline_090005005.json",
+      "hash": "07f50fccc1f83e7191a357d226f6b2378bb7b59ce8f81a570870499fe0bb9f2b",
+      "size": 4604
+    },
+    {
+      "path": "assets/story/data/09/0005/storytimeline_090005006.json",
+      "hash": "e23a83cbf41e87820910903d77af8fc396fde26a4397a7a3db9493f7b0f11785",
+      "size": 6497
+    },
+    {
+      "path": "assets/story/data/09/0005/storytimeline_090005007.json",
+      "hash": "49d489e4a9b5846c19737adec343b104b2f1ec01f11b75111ab9729207ca2e1f",
+      "size": 5973
+    },
+    {
+      "path": "assets/story/data/09/0005/storytimeline_090005008.json",
+      "hash": "e77dca9a6af9f8d1363927039fef3bd2630063bc721f3467a5ff2bb3e9ac34a6",
+      "size": 6065
+    },
+    {
       "path": "assets/story/data/09/0006/storytimeline_090006001.json",
       "hash": "5349e8d59e136dc2df37e74e7b9829fe9378a56e20ea532744d5dda5b86a8c45",
       "size": 7674
@@ -8627,6 +8667,171 @@
       "path": "assets/story/data/50/1052/storytimeline_501052200.json",
       "hash": "cfd6f806b88738074baf6db7e0ca1cebf0bedfba9c39ac9c1209352df9905ab5",
       "size": 1679
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135100.json",
+      "hash": "94389508bcd1c967688d1a1ba4d8d90d86784dfd5e67a4deb129ea22ad3b6dac",
+      "size": 13396
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135107.json",
+      "hash": "7d07164873701df403d49a53ffb87b70094c492b1fdd12057a55f02837aad23b",
+      "size": 11363
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135109.json",
+      "hash": "3d61aefee52f46dbd8971656016e03ac1939a5d378ce29687501eb858dab104c",
+      "size": 8541
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135113.json",
+      "hash": "a5eff510b3205579b74de7a38e9f56a6e3f4afd834a7e07cf66d53ac3cd806c7",
+      "size": 15855
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135114.json",
+      "hash": "aa6d65a16c916a85ca72bb0a3881716afc83df580adfc5d78ebab46d27a1ac6c",
+      "size": 16815
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135200.json",
+      "hash": "5843f0ae9fbc3e1ff775a5af2efcef98ffd8bb94fed0b2a4e649e0c98789c39f",
+      "size": 2597
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135303.json",
+      "hash": "858457b10490fa643ac568448dae101c297a9e054201f2270db5e14e481509c4",
+      "size": 5104
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135508.json",
+      "hash": "c66d5ca6b20d910acc8c05a1b04ad84d02e8352c3859661906694c2503456b76",
+      "size": 728
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135509.json",
+      "hash": "eff5640ca6c2bc0e84e0787f3a1d29b7f05bc76ba7d40af1e258d57f2f693cf9",
+      "size": 757
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135517.json",
+      "hash": "7cd55eafdfa6909cd5eb8ced0f86870a43c7672cba098ec82257823d6b3f5ec2",
+      "size": 634
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135518.json",
+      "hash": "ffc8f63dae87b0f8ec1f6267d9ac3596712405b418ec2237e3b61ec16e51e63e",
+      "size": 528
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135519.json",
+      "hash": "cfa984c51e56c7ebbcff256ef1c1e3e3de90d79a46be595aeeb6deee919a6d19",
+      "size": 560
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135521.json",
+      "hash": "d8902bf9b83e87478907bd308a3b3f42a0a456fdbd4982069e868362bd018cb5",
+      "size": 731
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135522.json",
+      "hash": "34d86b15c2acba9e79d9d1086f0b8786109abc6b3fbe2b99515d2be056a4cba2",
+      "size": 648
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135600.json",
+      "hash": "9b3d0793130fd217ce7897ccc5228e7ad92af8dd3c2fed67881a9827df4a86f4",
+      "size": 857
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135601.json",
+      "hash": "e51c384a8078c4aac650a852c9733f14b461617de672d9dfb275e48a6b13aeda",
+      "size": 675
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135700.json",
+      "hash": "438e51dc34077507118ea1fda9a4b00036ce50a4f208693fe903adbd17695c7c",
+      "size": 820
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135701.json",
+      "hash": "08badf300a76beba40712c95e8d1a1edae3341f0de4b477ed0aaee953f3dea13",
+      "size": 931
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135708.json",
+      "hash": "261dfaaa839bede3aee1cd23cba9c2dbfefa933c916f5ea4ed41efb03c5a085a",
+      "size": 1933
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135709.json",
+      "hash": "1b101bb12aa25665b7b543601e5f47bc9f793546604c5029ff1234e9ab84320a",
+      "size": 1850
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135710.json",
+      "hash": "93bbf67b17de85a73c0109bef83bfe6c97e21eac1f35e58ae0bf662826e44a3f",
+      "size": 1333
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135711.json",
+      "hash": "e48beddc8a9a811ba2199c8d0e160c9a5c763ce31baa749b4dbfd2eefedf20ce",
+      "size": 2200
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135712.json",
+      "hash": "11d2d4eaf0ea0fc30206a28a4fa3d4de6174853b486ecd7a05c84010e8166313",
+      "size": 977
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135713.json",
+      "hash": "2933737a98cebb92bfaa891131d2b9e1e1edd58bceebd0bdc33ff2b7657a7072",
+      "size": 2719
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135715.json",
+      "hash": "cfab9de88a0fb86914c6b1cd1ecfb2af6f61ddebb061ce39f4cce89bf1a02dd0",
+      "size": 2349
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135718.json",
+      "hash": "0ee699db6a6ceeb1eced3e2107e649fcd218ae6a321574278b2a97c0dcd2ba48",
+      "size": 801
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135726.json",
+      "hash": "86a04a28288316378cbaf177cfba424bb07cb5eeb5e42db7d6cc27f861b12b07",
+      "size": 1298
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135727.json",
+      "hash": "cbf8a6a579236e8f8d6f7a7e788fc5ec41836ccf9620ad62d39e8ebd94c998b7",
+      "size": 639
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135728.json",
+      "hash": "341e43a607ad53430564917dd6172b3e1ebad404f02e04842ca13a44d3746e37",
+      "size": 511
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135729.json",
+      "hash": "2ecd21b6824428219413a139c37cda9df80c67f6b07c80efcd867d79ef55765d",
+      "size": 710
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135730.json",
+      "hash": "2e15d3f72614af78dae1241a008e1a9930712cd8f48d2196192eb47b719d6d92",
+      "size": 640
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135731.json",
+      "hash": "341e43a607ad53430564917dd6172b3e1ebad404f02e04842ca13a44d3746e37",
+      "size": 511
+    },
+    {
+      "path": "assets/story/data/50/1135/storytimeline_501135900.json",
+      "hash": "d5bbe6e8f6226021d1ff8e3abf52f3ca34553846a26ea4f54c84c80719bd24b6",
+      "size": 874
     },
     {
       "path": "assets/story/data/80/1008/storytimeline_801008001.json",
@@ -12437,6 +12642,176 @@
       "path": "assets/textures/outgame/factorresearch/utx_txt_factorresearch_logo_00.png",
       "hash": "c2ecaf514b5d1d9a290c890ae4c403aae0a1d75e0564ba1c8e1ff17ff9a682b5",
       "size": 268726
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100001.diff.png",
+      "hash": "4422577157fca2ba4ffb8d056ffe8730244737e88aeda181f726583d07bff418",
+      "size": 8701
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100002.diff.png",
+      "hash": "7f0741b9aa76f886a8a51897861e30dc5ebc120d1f70af6536f1191dff8ede25",
+      "size": 8378
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100006.diff.png",
+      "hash": "e911d6da689813d8c9313ee3719a028f613df8de4cf398ddd440275f6437e3f7",
+      "size": 12810
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100008.diff.png",
+      "hash": "78afae8321e375ef45a55750ed7a7705e62596b04e37860da06ca5947ae68076",
+      "size": 6477
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100009.diff.png",
+      "hash": "780eabf7d2c32fbe29faabd80e84ed8f32489239f27ced363a88ddfaace4dcca",
+      "size": 18487
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100010.diff.png",
+      "hash": "5dcb14314faa12d6a4d2384d9d04c9b266d94e070a35d8b921ff0dece4fb64b7",
+      "size": 11015
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100012.diff.png",
+      "hash": "5fb94509b9cd148081eb0b3589260c85c2c1cc60059696cd9889ef85193718ca",
+      "size": 4888
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100014.diff.png",
+      "hash": "e7c3ad009086d5706b4ddcc82fefa3ed0866d398cdfccbefbfe0e20c01afd153",
+      "size": 9081
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100015.diff.png",
+      "hash": "a4bdfdcbae5308ba0e2506f93460b01b090e72eafa3e96edc9419ae72c712607",
+      "size": 35834
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100016.diff.png",
+      "hash": "72a9a99abfc0cf7c679adae9085c43290b67a43ec6685422077d3a0218687169",
+      "size": 10438
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100018.diff.png",
+      "hash": "4d21906162bda2cd7a0622768e43a7de880d9bb40ef80ed1671b1bf7f82e89d8",
+      "size": 10932
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100019.diff.png",
+      "hash": "6bb31541e6784d17954ab56696dc505c39aaa19a3600a41f7f1510b4bede3558",
+      "size": 36448
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100021.diff.png",
+      "hash": "b33b0c54d6ecfbb2ea62f00aba6c54362594376f211b260b71c8656ae030b387",
+      "size": 19164
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100022.diff.png",
+      "hash": "d11ef426580aa527e3d239719fa02a6ee1319c138d109d9c3f68b94d6aafb079",
+      "size": 9214
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100023.diff.png",
+      "hash": "a57602758889f6206fa269fe1a4d1a47a69cc56d76ac3d7eff828ff262c857d2",
+      "size": 32332
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100024.diff.png",
+      "hash": "d6e9bea88a75306d71023f2999f9a0226ab140079d2f53b079f0d51bea8e95de",
+      "size": 19739
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100025.diff.png",
+      "hash": "e29b92fffdb386009f37126b36de8b3a1d693761a25d649f08c7cbcc6989f42a",
+      "size": 24244
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100026.diff.png",
+      "hash": "be5e44a77be4a58a07d23b55cacc57ae270237cacd3453b89cd455f7dcc87de0",
+      "size": 13356
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100027.diff.png",
+      "hash": "8c667403f784df537829ba2ae9e66174e00284aa171a145e28fa516e2200a874",
+      "size": 8997
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100028.diff.png",
+      "hash": "3d92eda6dbee3ee14e623a56ac28ed853de3cce5b8adf55a6c018bfb2939af7a",
+      "size": 9437
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100029.diff.png",
+      "hash": "cdb4f852dccad25ff1ad68b86050a14ffdb008f6097e33ade2dc8108d7b0478a",
+      "size": 41804
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100030.diff.png",
+      "hash": "ea54d75d34c59b6bc869a03ba7fa5e6615bb895c1592c9b988907cccbfc19ed4",
+      "size": 7495
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100031.diff.png",
+      "hash": "59393a5f5e1c0d83e0460211e54786e90f6976bb46eb58a8a15bac83008c4f63",
+      "size": 19607
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100032.diff.png",
+      "hash": "171d499220a937801578ff1c29b2e1c50e1dac645088d04df4b2076edd15b14e",
+      "size": 26642
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100034.diff.png",
+      "hash": "0302ff4ed0829cb04181d3ad18425ea9d83559673a047e2a39a7d49971d79108",
+      "size": 12263
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100035.diff.png",
+      "hash": "4a839efdb214ddd93ad72f644e3daefa565000c6208820b6b76f569a1c1e953b",
+      "size": 41364
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100036.diff.png",
+      "hash": "57cfe31d7d184c9eea02a6ac342156a4cf32106da1aa341941a29f20f0cb031d",
+      "size": 11121
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100037.diff.png",
+      "hash": "2705c345413be08e58e45c99ee7643aa9ed98656ab7e8578ad1786161c56d3f8",
+      "size": 40747
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100038.diff.png",
+      "hash": "74badb3053d94aa9ebb07381b6e0efa56d91dcedd6dfa89119b551e8f2bed5d3",
+      "size": 14503
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100039.diff.png",
+      "hash": "35da20ce312d213c02d996779a9dc438fa2f89b7433b72106af444d1e96528eb",
+      "size": 32597
+    },
+    {
+      "path": "assets/textures/outgame/stamp/100040.diff.png",
+      "hash": "ad9b13df15e852c945410db302ba0c388b45787ca0ccb3486c2af0ab23699ed1",
+      "size": 11657
+    },
+    {
+      "path": "assets/textures/outgame/stamp/200001.diff.png",
+      "hash": "8036625eaaf487e27449fd047bb6d3fc2b6e94b91f7f7f4fefcbbf120ceedf07",
+      "size": 27022
+    },
+    {
+      "path": "assets/textures/outgame/stamp/200002.diff.png",
+      "hash": "d46e38a398bd6855cb8916775e6cc4b616a98cbced14b88ec9a7ed46d48f6491",
+      "size": 14448
+    },
+    {
+      "path": "assets/textures/outgame/stamp/200003.diff.png",
+      "hash": "ab79a15675c0c9f4b76727fb883c05a65af4422b38872139601dd9c53f8940ea",
+      "size": 14620
     },
     {
       "path": "assets/textures/race/champions/texture/banner/banner_champions_logo_15.png",
@@ -16804,9 +17179,19 @@
       "size": 615233
     },
     {
-      "path": "assets/textures/transferevent/00001/transfer_event_logo_00001.png",
-      "hash": "90d61f40339e3b3d3622f6b166973f26befda07a9be4050aba3f5d0126884e8f",
-      "size": 214130
+      "path": "assets/textures/transferevent/00001/transfer_event_logo_00001.diff.png",
+      "hash": "36ab2c15607a8cbe6bb04866bb139276b7a5f85ef45557ca1ccb0b9d85817f21",
+      "size": 97368
+    },
+    {
+      "path": "assets/textures/transferevent/00002/transfer_event_logo_00002.diff.png",
+      "hash": "f8d78bd87a4c83782c56ffe090f3ed9be7bf0ed702e1cb125d1cf8673d94b31f",
+      "size": 133697
+    },
+    {
+      "path": "assets/textures/transferevent/00004/transfer_event_logo_00004.diff.png",
+      "hash": "ce00cc1d752c7749dc84cdf9261072b70e201c514116a9c3d4b6ad50aa5e56c7",
+      "size": 235635
     },
     {
       "path": "assets/textures/uianimation/flash/race/raceplaying/texture/skillname/skill_name_100621.png",
@@ -17430,7 +17815,7 @@
     },
     {
       "path": "jiggy",
-      "hash": "639584ce89809ad16ddcf4bdcaf18cf6550994e00afae86a68e44a2de8da9441",
+      "hash": "9c609747ea78da5286e1c9d4a20aa4765bd5bf928c095b3ada35c29c14d5a264",
       "size": 27
     },
     {
