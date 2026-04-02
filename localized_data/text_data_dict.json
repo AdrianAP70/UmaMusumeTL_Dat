@@ -32289,7 +32289,8 @@
         "30276": "[Yururi Yukoma Inn]Kenko Hoshina",
         "30289": "[Innovator] Forever Young",
         "30290": "[American Dream] Casino Drive",
-        "30291": "[Let's Go Together!] Victoire Pisa"
+        "30291": "[Let's Go Together!] Victoire Pisa",
+        "30295": "[Flowers Gathered into One] Curren Bouquetd'Or"
     },
     "76": {
         "10001": "[Tracen Academy]",
@@ -32783,7 +32784,8 @@
         "30271": "[Magic from the stage]",
         "30274": "[Resolute Flora]",
         "30275": "[Genius Utopia]",
-        "30276": "[Yururi Yukoma Inn]"
+        "30276": "[Yururi Yukoma Inn]",
+        "30295": "[Flowers Gathered into One]"
     },
     "77": {
         "10001": "Special Week",
@@ -39400,7 +39402,8 @@
         "30271": "Magic from the stage",
         "30274": "Resolute Flora",
         "30275": "Genius Utopia",
-        "30276": "Yururi Yukoma Inn"
+        "30276": "Yururi Yukoma Inn",
+        "30295": "Flowers Gathered into One"
     },
     "151": {
         "1": "Friendship Bonus",
