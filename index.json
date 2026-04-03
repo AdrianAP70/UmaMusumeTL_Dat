@@ -89,9 +89,9 @@
       "size": 143576
     },
     {
-      "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.diff.png",
-      "hash": "ee85f3f3b38f49ccd0fe06b2fb932c3189952c47557563e7a3c36c9c561e9381",
-      "size": 56137
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.png",
+      "hash": "243235ea4518bf0e091c59223f347dad64d31254175c6b664715502cf3e7bf2b",
+      "size": 399865
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_landscape_btn00/tx_uTex_fl_footer_landscape_btn00_0.png",
@@ -1319,14 +1319,14 @@
       "size": 150
     },
     {
-      "path": "assets/atlas/home/home.diff.png",
-      "hash": "ebdf7ae7395269492f4973ee78a3582af1f1a35e817c38cc5d823c2141f269c1",
-      "size": 213194
-    },
-    {
       "path": "assets/atlas/home/home.json",
       "hash": "81d5bb101e3f808d93326e2a7abadb417c2da2ffbbf923cb73f7e6cf344f20c9",
       "size": 150
+    },
+    {
+      "path": "assets/atlas/home/home.png",
+      "hash": "d910e9fd870b1713a49c0dc04c064c07abf3b7e5a2e7da0c7c6988860c4d25ad",
+      "size": 1520187
     },
     {
       "path": "assets/atlas/mission/mission.diff.png",
@@ -1449,11 +1449,6 @@
       "size": 150
     },
     {
-      "path": "assets/atlas/singlemodescenariolegend/singlemodescenariolegend.diff.png",
-      "hash": "4b3d3260e556332def78368a6aa81e085a46f01767b5ab0c25a00b51252b6d02",
-      "size": 16458
-    },
-    {
       "path": "assets/atlas/singlemodescenariolegend/singlemodescenariolegend.json",
       "hash": "f8397e900662a167e80191f01ee0a55197866cadf6d9b267efb5172190e1edc3",
       "size": 166
@@ -1462,11 +1457,6 @@
       "path": "assets/atlas/singlemodescenariolegend/singlemodescenariolegend.png",
       "hash": "f2b22a63bdda38c31ddb3ceaa9e653da5f5ce3b96a4de7d3a9abfadd4a5ed687",
       "size": 796125
-    },
-    {
-      "path": "assets/atlas/singlemodescenariolegend/singlemodescenariolegendORIG.png",
-      "hash": "ee0c4465e71f2d6b219d32ae6a3c97441df770fa5f8e79138dceeb0f13223945",
-      "size": 1478069
     },
     {
       "path": "assets/atlas/singlemodescenariolive/singlemodescenariolive.diff.png",
@@ -17815,13 +17805,13 @@
     },
     {
       "path": "jiggy",
-      "hash": "21b7058a70a832262d7baa003192ae01d2ce833032ef30e75788adf37de88e84",
+      "hash": "6ed644530603e5e5334e3d80ed36beba682f0c71d8e41bef22726b64f030bcf2",
       "size": 27
     },
     {
       "path": "localize_dict.json",
-      "hash": "0a8a708c355b22fa1f9bc2043cfbdd9b48198d8807252b514182a4b0054ed214",
-      "size": 406904
+      "hash": "ce44aa9a141944f6a3717f050c3f234199d0abb780f3ffcbb2b9e3985cb916b6",
+      "size": 406879
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -17835,8 +17825,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "dcd2ba411d4f90fca3163ab076e87e9ccbc17183a56ba3010672bbaa6cb1c2f2",
-      "size": 3366636
+      "hash": "1ac2ad6a42a090369d989ff939d98118836f9ea787420d5f0e175a7257c7b72d",
+      "size": 3373192
     }
   ]
 }
